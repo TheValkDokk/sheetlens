@@ -28,6 +28,11 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 20 | 2026-10-29T07:11:55.424Z | G4 | Public URL serves cold | `curl -w %{http_code} %{time_total}` | status=200 time=0.59s size=1107 | PASS |
 | 21 | 2026-10-29T07:11:55.424Z | G4 | **Full journey proven on the PUBLIC url** | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 20 checks, 20 passed, 0 failed, consoleErrors [] | PASS |
 
+| 22 | 2026-10-29T07:17:13.958Z | G3 | Reality Checker probe: 190-char filename overflowed the layout by 967px | its browser2.log `longFileName.overflow` | fixed with `overflow-wrap:anywhere; min-width:0`; QA check "long filename does not overflow" added | PASS |
+| 23 | 2026-10-29T07:17:13.958Z | G3 | Reality Checker probe: `A1*2` and `A1*1E5` flagged as "assumptions" | its browser.log risk output | rule now fires only on rate-shaped (0<v<1) and indexation (non-integer >1) literals; 2 tests added | PASS |
+| 24 | 2026-10-29T07:17:13.958Z | G4 | Fixes live and re-verified on the public URL | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 21 checks, 21 passed, consoleErrors 0 | PASS |
+| 25 | 2026-10-29T07:17:13.958Z | G4 | Reality Checker **final verdict** | agent ran >10 min, wrote probes + browser logs, never wrote VERDICT.md | **NOT DELIVERED** — its probes were used, its certification is missing | INCOMPLETE |
+
 ## Defects found by QA (and what happened to them)
 
 | Defect | Found by | Fix | Verified |
@@ -35,6 +40,8 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | Garbage file silently accepted as a 1-cell workbook | R9 check in qa.mjs | `sniff()` now requires an OOXML part (`xl/workbook.xml`) inside zip files; empty workbooks rejected | regression test + QA check |
 | Five identical 0.2-hardcode findings buried the unique risks | visual review of 02-risks.png | findings grouped by rule+evidence; contiguous columns collapse to a range label | 02-risks.png re-shot |
 | favicon 404 polluted the console-error signal | console listener | inline SVG favicon, zero network requests | consoleErrors [] |
+| 190-char filename overflowed the page by 967px | Reality Checker probe | `.filename` gets `min-width:0; overflow-wrap:anywhere` | new QA check, 21/21 |
+| `*2` and `*1E5` reported as hidden assumptions | Reality Checker probe | rule narrowed to rate/indexation shapes | 2 new unit tests |
 
 ## Screenshots (evidence/screens/)
 

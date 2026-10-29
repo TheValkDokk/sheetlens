@@ -1,15 +1,14 @@
 {
   "runbook": "startup-mvp-build",
   "mode": "NEXUS-Sprint",
-  "phase": 4,
-  "gate": "G4",
+  "phase": 5,
+  "gate": "launched",
+  "live_url": "https://thevalkdokk.github.io/sheetlens/",
+  "repo": "https://github.com/TheValkDokk/sheetlens",
   "g0": {
-    "selected": "SheetLens — inherited-workbook audit",
-    "killed": [
-      "spreadsheet compare (tabledi occupies it)",
-      "formula explainer (commodity)"
-    ],
-    "confidence": 0.55
+    "selected": "SheetLens",
+    "confidence": 0.55,
+    "note": "decided on in-session evidence; team research arrived late"
   },
   "g1": {
     "requirements": 9,
@@ -18,27 +17,28 @@
   },
   "g2": {
     "architecture": "ADR-1..5",
-    "build": "455 kB js / 6.5 kB css",
     "status": "PASS"
   },
   "g3": {
-    "unit": "25/25",
-    "browser": "20/20",
+    "unit": "27/27",
+    "browser": "21/21",
     "console_errors": 0,
-    "defects_found": 3,
-    "defects_fixed": 3,
+    "defects_found": 5,
+    "defects_fixed": 5,
     "status": "PASS"
   },
   "g4": {
-    "static_subpath_test": "PASS",
-    "publish": "awaiting human approval"
+    "published": true,
+    "live_qa": "21/21",
+    "ci": "green",
+    "status": "PASS"
   },
   "g5": {
     "artifacts": [
       "project-docs/growth-plan.md",
       "content/launch-copy.md"
     ],
-    "status": "PLANNED"
+    "status": "PLANNED — no distribution executed, so no real users yet"
   },
-  "reality_checker": "in flight"
+  "reality_checker": "probes produced 2 real defects (fixed); verdict never delivered"
 }

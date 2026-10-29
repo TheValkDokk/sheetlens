@@ -170,25 +170,17 @@ try {
   {
     const p = await newPage();
     const out = {};
-    for (const f of ["protected-lookalike.xlsx"]) {
+    fs.writeFileSync(path.join(FIX, "empty.bin"), "");
+    fs.writeFileSync(path.join(FIX, "fakezip.xlsx"), "PK\\x03\\x04xl/workbook.xml but no zip");
+    for (const f of ["protected-lookalike.xlsx", "empty.bin", "fakezip.xlsx", "corrupt.xlsx"]) {
       await p.goto(BASE + "/", { waitUntil: "networkidle0" });
       const input = await p.$("#file");
       await input.uploadFile(path.join(FIX, f));
-      await p.waitForSelector(".err", { timeout: 20000 });
-      out[f] = await p.$eval(".err", e => e.innerText);
+      await p.waitForSelector(".stats, .err", { timeout: 30000 });
+      out[f] = (await p.$(".err"))
+        ? { outcome: "error", text: await p.$eval(".err", e => e.innerText) }
+        : { outcome: "results", stats: await p.$$eval(".stat", e => e.map(x => x.textContent.trim())) };
     }
-    const empty = path.join(FIX, "empty.bin"); fs.writeFileSync(empty, "");
-    await p.goto(BASE + "/", { waitUntil: "networkidle0" });
-    let input = await p.$("#file");
-    await input.uploadFile(empty);
-    await p.waitForSelector(".err", { timeout: 20000 });
-    out["empty.bin"] = await p.$eval(".err", e => e.innerText);
-    const fake = path.join(FIX, "fakezip.xlsx"); fs.writeFileSync(fake, "PK\\x03\\x04xl/workbook.xml but no zip");
-    await p.goto(BASE + "/", { waitUntil: "networkidle0" });
-    input = await p.$("#file");
-    await input.uploadFile(fake);
-    await p.waitForSelector(".err", { timeout: 20000 });
-    out["fakezip.xlsx"] = await p.$eval(".err", e => e.innerText);
     log.cases.refusal = out;
     await shot(p, "refusal-ole.png");
     await p.close();
