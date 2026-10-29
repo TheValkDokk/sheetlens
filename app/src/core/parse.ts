@@ -132,7 +132,11 @@ export function parseArrayBuffer(buf: ArrayBuffer, fileName: string): WorkbookMo
     throw new ParseError("empty-content", "This workbook is empty — it contains no cells to analyse.");
   }
 
-  const wholeColumnCount = formulas.filter((f) => /(?:^|[=,(+\-*/&<>])\s*\$?[A-Z]{1,3}:\$?[A-Z]{1,3}(?![0-9A-Za-z_])/i.test(f.formula)).length;
+  // The delimiter class includes '!' so sheet-qualified ranges (Rates!A:C) are detected,
+  // not just bare ones. A qualified whole-column reference is the more common shape.
+  const wholeColumnCount = formulas.filter((f) =>
+    /(?:^|[=,(+\-*/&<>!])\s*\$?[A-Z]{1,3}:\$?[A-Z]{1,3}(?![0-9A-Za-z_])/i.test(f.formula)
+  ).length;
   const nameCount = book.Workbook?.Names?.length ?? 0;
   const caveats: string[] = [];
   if (wholeColumnCount > 0) {

@@ -1,0 +1,25 @@
+{
+  "loadMs": 63,
+  "stats": [
+    "Sheets1",
+    "Formulas0",
+    "High risk0",
+    "Worth a look0"
+  ],
+  "findings": [],
+  "sheets": [
+    [
+      "Sheet1",
+      "701 × 16",
+      "11,216",
+      "0",
+      "Raw data — no formulas"
+    ]
+  ],
+  "formulasView": {
+    "rows": 0,
+    "emptyText": "No formulas in this workbookEvery cell is a value. That is either a clean export or a hardcoded model — worth confirming which."
+  },
+  "impactE5": "no picker: Nothing depends on anythingWithout formulas there is no dependency graph to walk.",
+  "consoleErrors": []
+}

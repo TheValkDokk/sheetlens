@@ -1,0 +1,9 @@
+{
+  "home": [],
+  "results-risks": [],
+  "results-overview": [],
+  "results-formulas": [],
+  "results-impact": [],
+  "guide": [],
+  "caveatNotice": "Not every reference can be traced in this workbook: 3 formula(s) use whole-column references such as A:A. Impact tracing cannot follow those."
+}

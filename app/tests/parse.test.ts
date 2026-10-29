@@ -56,6 +56,15 @@ describe("parse", () => {
     expect(wb.caveats.join(" ")).toContain("whole-column");
   });
 
+  it("also flags sheet-qualified whole-column ranges (regression: Rates!A:C was missed)", () => {
+    const buf = makeWorkbook({
+      S: { A1: { v: "x" } },
+      Rates: { A1: { v: "x" }, B1: { t: "n", v: 1 }, B2: { f: "VLOOKUP(A1,Rates!A:C,3,FALSE)", v: 1 } },
+    });
+    const wb = parseArrayBuffer(buf, "qualified.xlsx");
+    expect(wb.caveats.join(" ")).toContain("whole-column");
+  });
+
   it("refuses garbage with a typed error", () => {
     const garbage = new TextEncoder().encode("this is not a spreadsheet").buffer;
     expect(() => parseArrayBuffer(garbage, "x.xlsx")).toThrowError(ParseError);

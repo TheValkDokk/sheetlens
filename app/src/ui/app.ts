@@ -132,6 +132,11 @@ function results(): string {
     statCard("Worth a look", String(medium), "") +
     "</div>" +
     (wb.warning ? '<div class="notice">' + esc(wb.warning) + "</div>" : "") +
+    (wb.caveats.length
+      ? '<div class="notice">Not every reference can be traced in this workbook: ' +
+        esc(wb.caveats.join(" ")) +
+        "</div>"
+      : "") +
     '<div class="tabs" role="tablist" aria-label="Workbook views">' + tabHtml + "</div>" +
     '<div class="panel" id="panel" role="tabpanel" aria-labelledby="tab-' + state.tab + '">' +
     panelContent() +
@@ -273,13 +278,6 @@ function impact(): string {
   const label = current ? refLabel(current) : "";
   const results = current ? impactOf(state.edges, current) : null;
 
-  const caveatNote =
-    wb.caveats.length > 0
-      ? '<div class="notice">This workbook uses constructs SheetLens cannot trace: ' +
-        esc(wb.caveats.join(" ")) +
-        " Treat any empty result below as unproven, not as safety.</div>"
-      : "";
-
   let body = "";
   if (state.impactError) {
     body = '<div class="err" role="alert"><b>' + esc(state.impactError) + "</b></div>";
@@ -313,7 +311,7 @@ function impact(): string {
   return (
     '<div class="toolbar"><label class="hint" for="impactor">Cell to test</label>' +
     '<input class="search" id="impactor" type="text" value="' + esc(label) + '" placeholder="Sheet!B4" />' +
-    '<button class="btn" data-action="impact-run" type="button">Trace</button></div>' + caveatNote + body
+    '<button class="btn" data-action="impact-run" type="button">Trace</button></div>' + body
   );
 }
 
@@ -341,10 +339,13 @@ function shell(): string {
     : "";
   return (
     '<div class="wrap">' +
-    header() +
+    "<header>" + header() + "</header>" +
     err +
+    '<main id="main">' +
+    '<h1 class="sr-only">SheetLens — audit a spreadsheet you inherited before you edit it</h1>' +
     body +
     (state.wb || state.busy ? "" : guides()) +
+    "</main>" +
     '<footer class="footer">SheetLens reads .xlsx and .csv locally. No upload, no tracking, no third-party requests. ' +
     "Findings are heuristics with evidence attached — they tell you where to look, not what to conclude.<br />" +
     'Found a workbook it reads wrong, or a rule you want? <a href="https://github.com/TheValkDokk/sheetlens/issues" ' +
