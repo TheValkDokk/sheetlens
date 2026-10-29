@@ -1,0 +1,16 @@
+{
+  "demo": [
+    "Not every reference can be traced in this workbook: 3 formula(s) use whole-column references such as A:A. Impact tracing cannot follow those."
+  ],
+  "clean": {
+    "notices": [],
+    "caveat": false
+  },
+  "withColRef": {
+    "notices": [
+      "Not every reference can be traced in this workbook: 1 formula(s) use whole-column references such as A:A. Impact tracing cannot follow those."
+    ],
+    "caveat": true
+  },
+  "consoleErrors": []
+}

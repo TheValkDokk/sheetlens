@@ -23,13 +23,13 @@
     "defects_found": 15,
     "defects_fixed": 15,
     "loop_backs": 3,
-    "real_world_test": "Microsoft Financial Sample.xlsx — 11,216 cells, 63 ms, no errors"
+    "caveat": "verified both directions on live (fires on qualified A:A, silent on clean file)"
   },
   "g4": {
     "live": true,
     "live_qa": "28/28",
     "live_a11y": "0 violations",
-    "ci": "build + deploy + indexnow green",
+    "ci": "green",
     "status": "PASS"
   },
   "g5": {
@@ -43,13 +43,16 @@
       "OG card",
       "posting runbook"
     ],
+    "indexing": "not yet crawled",
     "signals": {
       "repo_stars": 0,
-      "repo_forks": 0,
+      "forks": 0,
       "issues": 0
     },
-    "acquired_users": 0,
-    "handoff": "user elected to post via content/posting-runbook.md — not yet observable"
+    "acquired_users": 0
   },
-  "reality_checker": "round 4 NEEDS WORK (4/6 fixed) — final caveat defect fixed; verification round 5 pending"
+  "blockers": [
+    "real users require a post from a human-owned Reddit/HN/LinkedIn identity; the human elected to do this in round 2 and no post has been observed"
+  ],
+  "reality_checker": "round 4 delivered; round 5 failed to deliver"
 }

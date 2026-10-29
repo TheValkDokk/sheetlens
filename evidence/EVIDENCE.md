@@ -69,6 +69,10 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 54 | 2026-10-29T07:48:22.610Z | G4 | All of the above verified on the public URL | live QA + live a11y | QA 28/28; a11y 0/6 surfaces; caveat notice live | PASS |
 | 55 | 2026-10-29T07:48:22.610Z | G5 | **Real users** | GitHub issues / stars / forks | 0 issues, 0 stars, 0 forks — no human has arrived or reported | FAIL |
 
+| 56 | 2026-10-29T07:49:21.031Z | G3 | Caveat fires on the demo and on a qualified `SUM(Data!A:A)` file, and stays silent on a clean workbook (no false positive) | `node scripts/verify-caveat.mjs` against the live URL | demo: 3 refs warned; `with-colref.xlsx`: 1 ref warned; `clean-norefs.xlsx`: no notice; 0 console errors | PASS |
+| 57 | 2026-10-29T07:49:21.031Z | G5 | Search engines have crawled the site | Bing/Google `site:` query | **not indexed yet** — days-old subdomain with no inbound links; sitemap + IndexNow are in place | PENDING |
+| 58 | 2026-10-29T07:49:21.031Z | — | Checker rounds 4 and 5 delivered | agent output | round 4 delivered one real defect (fixed); **round 5 stalled at a placeholder and never verified** — recorded as not delivered, not as a pass | INCOMPLETE |
+
 ## Round 2 note: what "growth" can and cannot be automated
 
 Indexing, sitemaps, crawlable content, referral attribution and a feedback channel are all automatable and now exist.
