@@ -16,16 +16,18 @@
     "status": "PASS"
   },
   "g3": {
-    "unit": "30/30",
-    "browser": "26/26",
-    "defects_found": 6,
-    "defects_fixed": 6,
-    "status": "PASS after one QA FAIL loop-back"
+    "unit": "44/44",
+    "browser": "28/28",
+    "typecheck": "clean",
+    "defects_found": 12,
+    "defects_fixed": 12,
+    "loop_backs": 2,
+    "note": "Every defect was found by an adversarial check, not by the demo"
   },
   "g4": {
     "live": true,
-    "live_qa": "26/26",
-    "ci_jobs": "build + deploy + indexnow all green",
+    "live_qa": "28/28",
+    "ci_jobs": "build + deploy + indexnow green",
     "status": "PASS"
   },
   "g5": {
@@ -33,14 +35,14 @@
       "4 guides",
       "sitemap",
       "robots",
-      "IndexNow (202 Accepted)",
+      "IndexNow 202",
       "issue feedback",
       "report attribution",
+      "OG preview card",
       "posting runbook"
     ],
     "acquired_users": 0,
-    "blocker": "posting requires an identity the session has no credentials for",
-    "status": "IN PROGRESS"
+    "handoff": "user elected to post using content/posting-runbook.md"
   },
-  "reality_checker": "round 2 delivered a correct R4 FAIL; fixed and verified"
+  "reality_checker": "round 3 verdict NEEDS WORK (R5/R8/R9 FAIL) — all six findings fixed and re-verified live"
 }

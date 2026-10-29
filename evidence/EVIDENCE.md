@@ -59,6 +59,8 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 46 | 2026-10-29T07:32:27.879Z | G3 loop 3 | Rule 1 missed `A1-0.03` but flagged URLs in text | new rule tests | fractional offsets flagged, offsets of 1 ignored, URLs not treated as links | PASS |
 | 47 | 2026-10-29T07:32:27.879Z | G3 | Full suite after loop-back | `npx vitest run` / `node scripts/qa.mjs` / `tsc` | **44/44 unit**, **28/28 browser**, typecheck clean | PASS |
 
+| 48 | 2026-10-29T07:33:58.138Z | G4 | Loop-back fixes verified on the public URL | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 28 checks, 28 passed, CI green | PASS |
+
 ## Round 2 note: what "growth" can and cannot be automated
 
 Indexing, sitemaps, crawlable content, referral attribution and a feedback channel are all automatable and now exist.
