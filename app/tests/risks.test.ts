@@ -82,6 +82,25 @@ describe("scanRisks", () => {
     expect(hits[0].severity).toBe("medium");
   });
 
+  it("flags a fractional offset added or subtracted inside a formula", () => {
+    const wb2 = parseArrayBuffer(makeWorkbook({ S: { A1: { v: 10 }, B1: { f: "A1-0.03", v: 9.97 } } }), "off.xlsx");
+    const hits = scanRisks(wb2).filter((f) => f.rule === "hardcoded-constant");
+    expect(hits).toHaveLength(1);
+  });
+
+  it("does not flag an offset of one", () => {
+    const wb2 = parseArrayBuffer(makeWorkbook({ S: { A1: { v: 10 }, B1: { f: "A1+1", v: 11 } } }), "idx.xlsx");
+    expect(scanRisks(wb2).filter((f) => f.rule === "hardcoded-constant")).toEqual([]);
+  });
+
+  it("does not flag a URL inside a text literal as an external link", () => {
+    const wb2 = parseArrayBuffer(
+      makeWorkbook({ S: { A1: { v: "x" }, B1: { f: 'A1&"https://example.com"', v: "xhttps://example.com" } } }),
+      "url.xlsx"
+    );
+    expect(scanRisks(wb2).filter((f) => f.rule === "external-link")).toEqual([]);
+  });
+
   it("sorts high before medium", () => {
     const sev = findings.map((f) => f.severity);
     const firstMedium = sev.indexOf("medium");

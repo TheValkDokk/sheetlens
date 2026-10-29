@@ -31,7 +31,7 @@ with opinions it can defend — every flag carries the exact formula fragment th
 cd app
 npm install
 npm run dev        # http://localhost:5173
-npm test           # 25 unit tests
+npm test           # 44 unit tests incl. a 20k-cell performance budget
 npm run build      # static bundle in app/dist
 ```
 
@@ -69,7 +69,7 @@ See [`project-docs/architecture.md`](project-docs/architecture.md) for the decis
 - **No formula evaluation.** SheetLens describes formulas; it never recalculates them. Cached values are shown as stored.
 - **`#REF!` and friend are detected from the cached result.** If a file was saved with stale results, a broken formula may look healthy.
 - **Column-pattern detection normalises row numbers.** A formula that is internally consistent but wrong will not be flagged; that needs a human.
-- **Whole-column references** (`A:A`) and structured table references are not expanded into the dependency graph.
+- **Whole-column references** (`A:A`), named ranges, and ranges larger than 5,000 cells are not followed by impact tracing. The app says so in the Impact tab rather than claiming a cell is safe to edit.
 - **Heuristics, not an audit opinion.** A flag tells you where a person should look. It does not certify the model.
 
 ---

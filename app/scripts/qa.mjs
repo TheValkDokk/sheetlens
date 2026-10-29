@@ -99,6 +99,18 @@ try {
   const impactRows = await page.$$eval(".frow", (e) => e.length);
   check("impact pre-fills a cell", prefill.length > 2, prefill);
   check("impact traces dependents", impactRows > 0, impactRows + " dependents");
+
+  // Regression: "model!b4" (lower-case sheet) previously returned "nothing depends — safe to edit".
+  await page.$eval("#impactor", (e) => (e.value = ""));
+  await page.type("#impactor", "model!b4");
+  await page.click('[data-action="impact-run"]');
+  await new Promise((r) => setTimeout(r, 250));
+  const casePanel = await page.$eval("#panel", (e) => e.textContent);
+  check(
+    "impact resolves a case-variant sheet and never claims false safety",
+    !/No dependents found/i.test(casePanel) && /B19/i.test(casePanel),
+    casePanel.slice(0, 90).replace(/\s+/g, " ")
+  );
   await shot(page, "05-impact.png");
 
   // ---- 6. export (R7)
@@ -134,6 +146,19 @@ try {
   const afterRight = await page.evaluate(() => document.activeElement?.id);
   check("tabs respond to keyboard", afterHome === "tab-overview" && afterRight === "tab-risks", afterHome + " -> " + afterRight);
 
+  // ---- 7b. a keyboard-only user can start the flow (regression: label-for was unfocusable)
+  await page.goto(BASE + "/", { waitUntil: "networkidle0" });
+  let reachedPicker = false;
+  for (let i = 0; i < 10; i++) {
+    await page.keyboard.press("Tab");
+    const text = await page.evaluate(() => (document.activeElement && document.activeElement.textContent) || "");
+    if (text.includes("Choose a file")) {
+      reachedPicker = true;
+      break;
+    }
+  }
+  check("file picker is reachable by keyboard alone", reachedPicker, reachedPicker ? "focused" : "never focused");
+
   // ---- 8. refusal path (R9)
   try {
     await page.goto(BASE + "/", { waitUntil: "networkidle0" });
@@ -141,7 +166,11 @@ try {
     await input.uploadFile(garbage);
     await page.waitForSelector(".err", { timeout: 6000 });
     const errText = await page.$eval(".err", (e) => e.textContent.trim());
-    check("garbage file is refused with a readable message", /not a spreadsheet|different format|could not be read/i.test(errText), errText.slice(0, 120));
+    check(
+      "garbage file is refused with a readable message",
+      /not a spreadsheet|not a valid \.xlsx|different format|could not be read|corrupt/i.test(errText),
+      errText.slice(0, 120)
+    );
     await shot(page, "06-refusal.png");
   } catch (e) {
     check("garbage file is refused with a readable message", false, String(e).slice(0, 140));
@@ -173,8 +202,16 @@ try {
   });
   await m.goto(BASE + "/?demo=1", { waitUntil: "networkidle0" });
   await m.waitForSelector(".stats");
-  const overflow = await m.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
-  check("no horizontal overflow at 380px", overflow <= 1, overflow + "px overflow");
+  const metrics = await m.evaluate(() => ({
+    scroll: document.documentElement.scrollWidth,
+    client: document.documentElement.clientWidth,
+    inner: window.innerWidth,
+  }));
+  check(
+    "no horizontal overflow at 380px",
+    metrics.scroll <= 381,
+    "scrollWidth " + metrics.scroll + " (clientWidth " + metrics.client + ", innerWidth " + metrics.inner + ")"
+  );
   await m.screenshot({ path: path.join(SHOTS, "07-mobile.png"), fullPage: false });
 
   // ---- 11. guide pages are real, crawlable and linked

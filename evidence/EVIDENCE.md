@@ -50,6 +50,15 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 38 | 2026-10-29T07:26:15.502Z | G5 | Exported reports carry attribution (the only organic referral surface) | live bundle + generated report | "local-only workbook auditor" present in both | PASS |
 | 39 | 2026-10-29T07:26:15.502Z | G5 | **Real users acquired** | — | **still 0.** Infrastructure now exists (indexable guides, sitemap, IndexNow, issue channel, referral line); no human has been reached. Requires a post from an account the agent does not have. | FAIL |
 
+| 40 | 2026-10-29T07:32:27.879Z | G3 loop 3 | Reality Checker round 3: **R5 FAIL** — false "safe to edit" for `model!B4` (case-variant sheet resolved to nothing) | its probe, reproduced in QA | Impact tab said "No dependents… you can edit this cell" while `Model!B4` feeds SUMIFS | FAIL on first pass |
+| 41 | 2026-10-29T07:32:27.879Z | G3 loop 3 | Fixed: ref resolution moved to `core/refs.ts`, sheet names matched case-insensitively, unknown sheet is an explicit error | `vitest` + browser check | 6 unit tests; QA check "impact resolves a case-variant sheet" passes | PASS |
+| 42 | 2026-10-29T07:32:27.879Z | G3 loop 3 | Fixed: empty impact result no longer asserts safety; untraceable constructs surfaced | `caveats` in WorkbookModel + Impact notice | whole-column / named-range counts reported; wording says "unproven, not safety" | PASS |
+| 43 | 2026-10-29T07:32:27.879Z | G3 loop 3 | **R9 FAIL** — text containing `xl/workbook.xml` accepted; corrupt zip called password-protected; encrypted .xlsx called legacy .xls | 3 new parse tests | all now refused with accurate messages; 0-byte and EOCD checks added | PASS |
+| 44 | 2026-10-29T07:32:27.879Z | G3 loop 3 | **Perf** — 20k cells took 3.1s because the default impact pick was O(formulas × edges) | perf test with a 20k-cell fixture | parse+scan+graph now inside the 2.5s assertion; demo analysis 51 ms | PASS |
+| 45 | 2026-10-29T07:32:27.879Z | G3 loop 3 | **R8 FAIL** — no busy state, keyboard could not reach the file picker, Overview overflowed 380px | QA regressions | busy panel; real button (Tab reaches it); tables scroll in their own wrapper | PASS |
+| 46 | 2026-10-29T07:32:27.879Z | G3 loop 3 | Rule 1 missed `A1-0.03` but flagged URLs in text | new rule tests | fractional offsets flagged, offsets of 1 ignored, URLs not treated as links | PASS |
+| 47 | 2026-10-29T07:32:27.879Z | G3 | Full suite after loop-back | `npx vitest run` / `node scripts/qa.mjs` / `tsc` | **44/44 unit**, **28/28 browser**, typecheck clean | PASS |
+
 ## Round 2 note: what "growth" can and cannot be automated
 
 Indexing, sitemaps, crawlable content, referral attribution and a feedback channel are all automatable and now exist.

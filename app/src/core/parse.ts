@@ -16,13 +16,18 @@ function containsAscii(bytes: Uint8Array, needle: string): boolean {
 
 function sniff(buf: ArrayBuffer, fileName: string): "zip" | "xls" | "csv" {
   const b = new Uint8Array(buf);
+  if (b.length === 0) {
+    throw new ParseError("empty-file", "That file is empty.");
+  }
   if (b.length >= 4 && b[0] === 0x50 && b[1] === 0x4b) {
-    // A real Office package always carries an OOXML workbook part. Without it this is
-    // an unrelated zip (or a renamed file) and must not be reported as a workbook.
-    if (!containsAscii(b, "xl/workbook.xml") && !containsAscii(b, "xl/worksheets/")) {
+    // Valid Office packages carry both a workbook part and an end-of-central-directory
+    // record. Text that merely *contains* the string "xl/workbook.xml" satisfies neither.
+    const hasWorkbookPart = containsAscii(b, "xl/workbook.xml") || containsAscii(b, "xl/worksheets/");
+    const hasZipDirectory = containsAscii(b, "PK" + String.fromCharCode(5, 6));
+    if (!hasWorkbookPart || !hasZipDirectory) {
       throw new ParseError(
         "unreadable",
-        "That file is a zip archive, but not a spreadsheet workbook. SheetLens reads .xlsx and .csv."
+        "That file is not a valid .xlsx workbook — the zip archive is incomplete or corrupt. Re-export it from Excel or Sheets and try again."
       );
     }
     return "zip";
@@ -39,7 +44,11 @@ function sniff(buf: ArrayBuffer, fileName: string): "zip" | "xls" | "csv" {
 export function parseArrayBuffer(buf: ArrayBuffer, fileName: string): WorkbookModel {
   const kind = sniff(buf, fileName);
   if (kind === "xls") {
-    throw new ParseError("legacy", "That is a legacy .xls file. Open it in Excel and save as .xlsx, then try again.");
+    throw new ParseError(
+      "legacy",
+      "That file is either a legacy .xls workbook or a password-protected .xlsx — both use the same container. " +
+        "Save it as an unprotected .xlsx (File > Save As) and try again."
+    );
   }
   if (kind === "csv" && new Uint8Array(buf).length < 1) {
     throw new ParseError("empty-file", "That file is empty.");
@@ -61,9 +70,7 @@ export function parseArrayBuffer(buf: ArrayBuffer, fileName: string): WorkbookMo
     }
   } catch (e) {
     const msg = errText(e);
-    if (/password|encrypt/i.test(msg)) {
-      throw new ParseError("password", "This file is password-protected. Remove the password and try again.");
-    }
+    // A failed zip read is corruption, not encryption: never claim "password-protected".
     throw new ParseError("unreadable", "That file could not be read as a spreadsheet. (" + msg.slice(0, 140) + ")");
   }
 
@@ -125,6 +132,18 @@ export function parseArrayBuffer(buf: ArrayBuffer, fileName: string): WorkbookMo
     throw new ParseError("empty-content", "This workbook is empty — it contains no cells to analyse.");
   }
 
+  const wholeColumnCount = formulas.filter((f) => /(?:^|[=,(+\-*/&<>])\s*\$?[A-Z]{1,3}:\$?[A-Z]{1,3}(?![0-9A-Za-z_])/i.test(f.formula)).length;
+  const nameCount = book.Workbook?.Names?.length ?? 0;
+  const caveats: string[] = [];
+  if (wholeColumnCount > 0) {
+    caveats.push(
+      wholeColumnCount + " formula(s) use whole-column references such as A:A. Impact tracing cannot follow those."
+    );
+  }
+  if (nameCount > 0) {
+    caveats.push(nameCount + " named range(s) are defined. Impact tracing follows cell references, not names.");
+  }
+
   const hiddenSheets = sheets.filter((s) => s.hidden !== 0).length;
   const warning =
     totalCells > 200_000
@@ -137,6 +156,7 @@ export function parseArrayBuffer(buf: ArrayBuffer, fileName: string): WorkbookMo
     formulas,
     totals: { cells: totalCells, formulas: formulas.length, hiddenSheets },
     warning,
+    caveats,
   };
 }
 

@@ -21,10 +21,13 @@ export function hardcodedConstants(formula: string): number[] {
     const node = parseFormula(formula);
     walk(node, (n) => {
       if (n.kind !== "binary") return;
-      if (n.op !== "*" && n.op !== "/") return;
       const sides = [n.left, n.right];
       for (const side of sides) {
-        if (side.kind === "number" && side.value !== 0 && side.value !== 1) out.push(side.value);
+        if (side.kind !== "number" || side.value === 0 || side.value === 1) continue;
+        if (n.op === "*" || n.op === "/") out.push(side.value);
+        // A bare offset of 1 (index shifting) is structural; a fractional offset such as
+        // "- 0.03" is a tax or haircut and belongs in an input cell.
+        else if ((n.op === "+" || n.op === "-") && !Number.isInteger(side.value)) out.push(side.value);
       }
     });
   } catch {
@@ -112,7 +115,7 @@ export function scanRisks(wb: WorkbookModel): Finding[] {
     // extension is not (a cell can legitimately hold the text "report.xlsx").
     const bracketed = body.match(/\[[^\]]*\]/g) ?? [];
     const hasBookRef = bracketed.some((b) => /\.(xlsx|xls|xlsm|csv)\b/i.test(b));
-    if (hasBookRef || /https?:\/\//i.test(body)) {
+    if (hasBookRef) {
       push({
         rule: "external-link",
         severity: "high",

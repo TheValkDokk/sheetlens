@@ -30,6 +30,32 @@ describe("parse", () => {
     expect(() => parseArrayBuffer(bytes.buffer, "fake.xlsx")).toThrowError(ParseError);
   });
 
+  it("refuses an empty file", () => {
+    expect(() => parseArrayBuffer(new ArrayBuffer(0), "empty.xlsx")).toThrowError(ParseError);
+  });
+
+  it("refuses text that merely contains a workbook part name (regression: accepted as a 1-sheet workbook)", () => {
+    const bytes = new TextEncoder().encode("PK fake header xl/workbook.xml and then plain text");
+    expect(() => parseArrayBuffer(bytes.buffer, "fake.xlsx")).toThrowError(ParseError);
+  });
+
+  it("never calls a corrupt zip password-protected", () => {
+    const bytes = new Uint8Array([0x50, 0x4b, 0x03, 0x04, 1, 2, 3, 4, 5, 6]);
+    try {
+      parseArrayBuffer(bytes.buffer, "corrupt.xlsx");
+      throw new Error("expected a throw");
+    } catch (e) {
+      expect(e).toBeInstanceOf(ParseError);
+      expect((e as ParseError).code).not.toBe("password");
+    }
+  });
+
+  it("flags whole-column references as a tracing caveat", () => {
+    const buf = makeWorkbook({ S: { A1: { v: 1 }, B1: { f: "SUM(A:A)", v: 1 } } });
+    const wb = parseArrayBuffer(buf, "cols.xlsx");
+    expect(wb.caveats.join(" ")).toContain("whole-column");
+  });
+
   it("refuses garbage with a typed error", () => {
     const garbage = new TextEncoder().encode("this is not a spreadsheet").buffer;
     expect(() => parseArrayBuffer(garbage, "x.xlsx")).toThrowError(ParseError);

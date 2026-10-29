@@ -1,11 +1,11 @@
 {
   "base": "http://localhost:4173",
-  "at": "2026-10-29T07:28:31.514Z",
+  "at": "2026-10-29T07:32:17.750Z",
   "timings": {
-    "coldLoadMs": 1010,
-    "demoParseMs": 44
+    "coldLoadMs": 1014,
+    "demoParseMs": 51
   },
-  "passed": 26,
+  "passed": 28,
   "failed": 0,
   "checks": [
     {
@@ -69,6 +69,11 @@
       "detail": "1 dependents"
     },
     {
+      "name": "impact resolves a case-variant sheet and never claims false safety",
+      "pass": true,
+      "detail": "Cell to testTraceDirect — formulas that read Model!B4 right nowModel!B19SUMIFS(B4:B8,E4:E8"
+    },
+    {
       "name": "audit report exports as a file",
       "pass": true,
       "detail": "4996 bytes"
@@ -84,9 +89,14 @@
       "detail": "tab-overview -> tab-risks"
     },
     {
+      "name": "file picker is reachable by keyboard alone",
+      "pass": true,
+      "detail": "focused"
+    },
+    {
       "name": "garbage file is refused with a readable message",
       "pass": true,
-      "detail": "Could not read that fileThat file is a zip archive, but not a spreadsheet workbook. SheetLens reads .xlsx and .csv."
+      "detail": "Could not read that fileThat file is not a valid .xlsx workbook — the zip archive is incomplete or corrupt. Re-export it"
     },
     {
       "name": "no external requests while analysing",
@@ -101,7 +111,7 @@
     {
       "name": "no horizontal overflow at 380px",
       "pass": true,
-      "detail": "0px overflow"
+      "detail": "scrollWidth 380 (clientWidth 380, innerWidth 380)"
     },
     {
       "name": "guide serves with content + CTA: what-does-this-excel-formula-mean",

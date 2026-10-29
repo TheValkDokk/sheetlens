@@ -1,6 +1,7 @@
 import { parseArrayBuffer } from "../core/parse";
 import { scanRisks } from "../core/risks";
 import { buildEdges, formulaAt, impactOf } from "../core/deps";
+import { resolveRef } from "../core/refs";
 import { explainFormula } from "../core/formula";
 import { buildDemoWorkbook } from "../demo";
 import type { Edge, Finding, Ref, WorkbookModel } from "../core/types";
@@ -15,6 +16,7 @@ interface State {
   tab: Tab;
   filter: string;
   impact: Ref | null;
+  impactError: string | null;
   error: string | null;
   busy: boolean;
 }
@@ -26,6 +28,7 @@ const state: State = {
   tab: "overview",
   filter: "",
   impact: null,
+  impactError: null,
   error: null,
   busy: false,
 };
@@ -44,14 +47,9 @@ function refLabel(r: Ref): string {
   return r.sheet + "!" + r.addr;
 }
 
-function refOfString(input: string): Ref | null {
-  const raw = input.trim();
-  if (!raw || !state.wb) return null;
-  const idx = raw.lastIndexOf("!");
-  if (idx === -1) {
-    return { sheet: state.wb.sheets[0]?.name ?? "", addr: raw.toUpperCase() };
-  }
-  return { sheet: raw.slice(0, idx).replace(/^'|'$/g, ""), addr: raw.slice(idx + 1).toUpperCase() };
+function refOfString(input: string): { ref: Ref | null; error: string | null } {
+  if (!state.wb) return { ref: null, error: null };
+  return resolveRef(input, state.wb.sheets);
 }
 
 function characterise(sheet: { cellCount: number; formulaCount: number; hidden: 0 | 1 | 2 }): string {
@@ -83,7 +81,7 @@ function intake(): string {
     '<h2 id="drophead">Inspect a workbook</h2>' +
     "<p>.xlsx or .csv — parsed locally, never uploaded</p>" +
     '<div class="btn-row">' +
-    '<label class="btn primary" for="file">Choose a file</label>' +
+    '<button class="btn primary" data-action="choose-file" type="button">Choose a file</button>' +
     '<input id="file" type="file" accept=".xlsx,.csv,text/csv" hidden />' +
     '<button class="btn ghost" data-action="demo" type="button">Load demo workbook</button>' +
     "</div></div>" +
@@ -164,10 +162,10 @@ function overview(): string {
     )
     .join("");
   return (
-    "<table><thead><tr><th>Sheet</th><th class=\"num\">Grid</th><th class=\"num\">Cells</th>" +
+    '<div class="tablewrap"><table><thead><tr><th>Sheet</th><th class="num">Grid</th><th class="num">Cells</th>' +
     '<th class="num">Formulas</th><th>What it looks like</th></tr></thead><tbody>' +
     rows +
-    "</tbody></table>" +
+    "</tbody></table></div>" +
     '<p class="hint" style="margin-top:14px">Hidden sheets are counted even when you cannot see them — content you cannot see still drives the numbers you can.</p>'
   );
 }
@@ -261,7 +259,7 @@ function formulas(): string {
     '<span class="hint">' + matched.length + " match" + (matched.length === 1 ? "" : "es") + "</span></div>" +
     (rows || '<div class="empty"><b>Nothing matches that filter</b>Try a sheet name, a cell address or a function such as VLOOKUP.</div>') +
     (matched.length > shown.length
-      ? '<p class="hint" style="margin-top:12px">Showing the first ' + shown.length + " of " + matched.length + " — the export contains all of them.</p>"
+      ? '<p class="hint" style="margin-top:12px">Showing the first ' + shown.length + " of " + matched.length + " — the exported report lists every finding, not every formula.</p>"
       : "")
   );
 }
@@ -275,11 +273,23 @@ function impact(): string {
   const label = current ? refLabel(current) : "";
   const results = current ? impactOf(state.edges, current) : null;
 
+  const caveatNote =
+    wb.caveats.length > 0
+      ? '<div class="notice">This workbook uses constructs SheetLens cannot trace: ' +
+        esc(wb.caveats.join(" ")) +
+        " Treat any empty result below as unproven, not as safety.</div>"
+      : "";
+
   let body = "";
-  if (!current || !results) {
+  if (state.impactError) {
+    body = '<div class="err" role="alert"><b>' + esc(state.impactError) + "</b></div>";
+  } else if (!current || !results) {
     body = '<div class="empty"><b>Pick a cell</b>Type a cell address such as ' + esc(wb.sheets[0]?.name ?? "") + "!B4 to see every formula that would change.</div>";
   } else if (results.direct.length === 0 && results.transitive.length === 0) {
-    body = '<div class="empty"><b>Nothing depends on ' + esc(label) + "</b>You can edit this cell without changing any formula in the workbook.</div>";
+    body =
+      '<div class="empty"><b>No dependents found for ' + esc(label) + "</b>" +
+      "SheetLens traces explicit cell and range references. Before you treat this cell as safe to edit, check these by hand: " +
+      "whole-column references (A:A), named ranges, ranges larger than 5,000 cells, and formulas living in other workbooks.</div>";
   } else {
     const list = (refs: Ref[]) =>
       refs
@@ -303,7 +313,7 @@ function impact(): string {
   return (
     '<div class="toolbar"><label class="hint" for="impactor">Cell to test</label>' +
     '<input class="search" id="impactor" type="text" value="' + esc(label) + '" placeholder="Sheet!B4" />' +
-    '<button class="btn" data-action="impact-run" type="button">Trace</button></div>' + body
+    '<button class="btn" data-action="impact-run" type="button">Trace</button></div>' + caveatNote + body
   );
 }
 
@@ -322,7 +332,10 @@ function guides(): string {
 }
 
 function shell(): string {
-  const body = state.wb ? results() : intake();
+  const busyPanel =
+    '<div class="empty" role="status" aria-live="polite"><b>Reading the workbook…</b>' +
+    "Parsing formulas and tracing references. A large file can take a few seconds.</div>";
+  const body = state.busy ? busyPanel : state.wb ? results() : intake();
   const err = state.error
     ? '<div class="err" role="alert"><b>Could not read that file</b>' + esc(state.error) + "</div>"
     : "";
@@ -331,7 +344,7 @@ function shell(): string {
     header() +
     err +
     body +
-    (state.wb ? "" : guides()) +
+    (state.wb || state.busy ? "" : guides()) +
     '<footer class="footer">SheetLens reads .xlsx and .csv locally. No upload, no tracking, no third-party requests. ' +
     "Findings are heuristics with evidence attached — they tell you where to look, not what to conclude.<br />" +
     'Found a workbook it reads wrong, or a rule you want? <a href="https://github.com/TheValkDokk/sheetlens/issues" ' +
@@ -383,23 +396,31 @@ async function loadFile(file: File): Promise<void> {
   }
 }
 
-function ingest(buf: ArrayBuffer, name: string): void {
+async function ingest(buf: ArrayBuffer, name: string): Promise<void> {
+  state.busy = true;
+  state.error = null;
+  render();
+  // Let the browser paint the busy state before the synchronous parse blocks the thread.
+  await new Promise((r) => setTimeout(r, 24));
   try {
     const wb = parseArrayBuffer(buf, name);
     const findings = scanRisks(wb);
     const edges = buildEdges(wb);
 
-    // Default the impact view to the cell with the widest blast radius.
+    // Default the impact view to the most-referenced cell. One pass over the edges,
+    // not impactOf() per formula cell (that was O(formulas x edges) and dominated load time).
+    const counts = new Map<string, number>();
+    for (const e of edges) {
+      const k = e.from.sheet + "!" + e.from.addr;
+      counts.set(k, (counts.get(k) ?? 0) + 1);
+    }
     let best: Ref | null = null;
     let bestCount = -1;
-    for (const cell of wb.formulas) {
-      const ref = { sheet: cell.sheet, addr: cell.addr };
-      const im = impactOf(edges, ref);
-      const n = im.direct.length + im.transitive.length;
-      if (n > bestCount) {
-        bestCount = n;
-        best = ref;
-      }
+    for (const [k, c] of counts) {
+      if (c <= bestCount) continue;
+      bestCount = c;
+      const i = k.lastIndexOf("!");
+      best = { sheet: k.slice(0, i), addr: k.slice(i + 1) };
     }
 
     state.wb = wb;
@@ -412,17 +433,14 @@ function ingest(buf: ArrayBuffer, name: string): void {
   } catch (e) {
     state.wb = null;
     state.error = readError(e);
+  } finally {
+    state.busy = false;
     render();
   }
 }
 
 function loadDemo(): void {
-  try {
-    ingest(buildDemoWorkbook(), "Q3_Pricing_Model.xlsx");
-  } catch (e) {
-    state.error = readError(e);
-    render();
-  }
+  void ingest(buildDemoWorkbook(), "Q3_Pricing_Model.xlsx");
 }
 
 /* ------------------------------------------------------------------ export */
@@ -493,6 +511,10 @@ root.addEventListener("click", (e) => {
     return;
   }
   const action = (target.closest("[data-action]") as HTMLElement | null)?.dataset.action;
+  if (action === "choose-file") {
+    (document.getElementById("file") as HTMLInputElement | null)?.click();
+    return;
+  }
   if (action === "demo") loadDemo();
   if (action === "export") exportReport();
   if (action === "reset") {
@@ -501,11 +523,16 @@ root.addEventListener("click", (e) => {
     state.edges = [];
     state.error = null;
     state.filter = "";
+    state.impactError = null;
     render();
   }
   if (action === "impact-run") {
     const input = document.getElementById("impactor") as HTMLInputElement | null;
-    if (input) state.impact = refOfString(input.value);
+    if (input) {
+      const resolved = refOfString(input.value);
+      state.impact = resolved.ref;
+      state.impactError = resolved.error;
+    }
     render();
   }
 });

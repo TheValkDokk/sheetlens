@@ -2,7 +2,7 @@
 
 **Verdict: NEEDS WORK** (default; not overridden)
 
-Reviewed: public build main--J6Za1L6.js at commit b64ece5 (2026-10-29 14:24 +07); the core analysis code is from e743514; later commits only add a footer issue link and export attribution. The author was fixing defects concurrently. Core paths below were reproduced on the latest build.
+Reviewed: public build main--J6Za1L6.js at commit b64ece5 / HEAD 1a45c20 (2026-10-29 14:24–14:28 +07); core analysis code is from e743514. Post-core commits add a footer issue link, export attribution and social/growth assets only. The author was fixing defects concurrently. Core paths below were reproduced on the latest build.
 
 ## How this was verified
 
@@ -36,7 +36,7 @@ The public URL is live and currently serves the same app assets as the local bui
 |---|---|---|---|
 | R1 | Parse .xlsx/.csv client-side; no request carries bytes | 726,844 B privacy.xlsx (3 sheets, 1,001 formulas): request listener after upload = []; websockets = []; only app JS/CSS. Source has no fetch/XHR/WebSocket/sendBeacon. Single-column CSV 5×1; xlsx 3 sheets. | **PASS** |
 | R2 | Never miss a formula; uncached formula cells counted | 30/30 tests including "finds formula cells that have NO cached value"; privacy reports 1,001 formulas. | **PASS** |
-| R3 | Plain-English explanation; unknown functions explicit | Supported formulas read well; WEIRDFN → "Unrecognised function". But a 1,001-formula workbook shows 200 and says "the export contains all of them"; the export (1,806 B) has 1 finding and no formula explanations. SUM(A:A) → "The total of A:A"; @A1*2 raw; SUM(Table1[Amount]) raw. | **PARTIAL** |
+| R3 | Plain-English explanation; unknown functions explicit | Supported formulas read well; WEIRDFN → "Unrecognised function". But a 1,001-formula workbook shows 200 and says "the export contains all of them"; the export (about 2 KB) has 1 finding and no formula explanations. SUM(A:A) → "The total of A:A"; @A1*2 raw; SUM(Table1[Amount]) raw. | **PARTIAL** |
 | R4 | Six risk classes with severity/evidence | Demo now produces 6 classes; external-only.xlsx is flagged high. But A1+0.2, A1-0.2, A1^2 produce zero hardcoded findings; UI says "does not use hardcoded rates". A URL in a text literal is flagged high as external. Hidden-sheet finding has addr "" and evidence "Old_Adj — 4 rows x 2 cols". New saved-error test passes via formula text #REF!, not the cached-error branch (fixture round-trips cached:"undefined", isError:false). | **PARTIAL** |
 | R5 | Select a cell; list direct/transitive dependents, cross-sheet | See D1. Public demo: model!B4 → "Nothing depends … You can edit this cell"; Model!B4 → SUMIFS dependent. Named ranges, whole columns, ranges >5,000 cells, case-variant sheet names and >2,000-cell transitive chains are silently missed or truncated. No cell picker; typed address only. | **FAIL** |
 | R6 | Overview: dimensions, counts, hidden flag, characterisation | Demo 4 sheets with 24×8, 71 cells, 25 formulas, "Mixed data…"; very hidden Old_Adj says "Very hidden — only VBA can reveal it"; zero-formula and CSV states work. | **PASS** |
@@ -93,7 +93,7 @@ Repro: bench20k.xlsx (20,010 cells, 10,000 SUM formulas, 110,000 edges), upload 
 
 ### D6 — HIGH: R3 export note is false
 
-Repro: upload privacy.xlsx (1,001 formulas), Formulas tab: 200 rows shown, note "Showing the first 200 of 1,001 — the export contains all of them." Export: 1,806 bytes, 1 finding, no formula explanations (hasFormulaExplanations:false). A user who needs the missing 801 is told they are in the export; they are not.
+Repro: upload privacy.xlsx (1,001 formulas), Formulas tab: 200 rows shown, note "Showing the first 200 of 1,001 — the export contains all of them." Export: about 2 KB (1,806 bytes before the attribution footer), 1 finding, no formula explanations (hasFormulaExplanations:false). A user who needs the missing 801 is told they are in the export; they are not.
 
 ### D7 — MEDIUM: risk rule 1 blind spot and false positive; evidence requirement incomplete
 

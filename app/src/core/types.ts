@@ -31,6 +31,8 @@ export interface WorkbookModel {
   formulas: FormulaCell[];
   totals: { cells: number; formulas: number; hiddenSheets: number };
   warning?: string;
+  /** Constructs SheetLens cannot follow. Empty means the graph is complete. */
+  caveats: string[];
 }
 
 export interface Finding {
