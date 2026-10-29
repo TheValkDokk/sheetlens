@@ -70,7 +70,7 @@ function characterise(sheet: { cellCount: number; formulaCount: number; hidden: 
 function header(): string {
   return (
     '<div class="top"><span class="brand">Sheet<span class="dot">Lens</span></span>' +
-    '<span class="badge">Runs in your browser</span></div>' +
+    '<span class="badge">Nothing is uploaded</span></div>' +
     '<p class="lede">Drop a spreadsheet you inherited. See what it actually computes, which cells are dangerous, ' +
     "and what breaks if you edit one — before you edit it. Nothing is uploaded, ever.</p>"
   );
@@ -307,6 +307,20 @@ function impact(): string {
   );
 }
 
+function guides(): string {
+  const links: [string, string][] = [
+    ["what-does-this-excel-formula-mean.html", "What does this Excel formula mean?"],
+    ["understand-a-spreadsheet-someone-else-built.html", "Understand a spreadsheet someone else built"],
+    ["find-hardcoded-numbers-in-an-excel-model.html", "Find hardcoded numbers in a model"],
+    ["excel-ref-error-what-to-do.html", "Excel #REF! — what to do"],
+  ];
+  return (
+    '<section class="home-guides"><h2>Guides</h2><ul>' +
+    links.map((l) => '<li><a href="./guides/' + l[0] + '">' + l[1] + "</a></li>").join("") +
+    "</ul></section>"
+  );
+}
+
 function shell(): string {
   const body = state.wb ? results() : intake();
   const err = state.error
@@ -317,6 +331,7 @@ function shell(): string {
     header() +
     err +
     body +
+    (state.wb ? "" : guides()) +
     '<footer class="footer">SheetLens reads .xlsx and .csv locally. No upload, no tracking, no third-party requests. ' +
     "Findings are heuristics with evidence attached — they tell you where to look, not what to conclude.</footer>" +
     "</div>"

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>How to understand a spreadsheet someone else built (15-minute triage)</title>
+    <meta name="description" content="A practical triage for inheriting an Excel model: map the sheets, find the assumptions, locate the landmines, and trace what breaks before you edit anything." />
+    <link rel="canonical" href="https://thevalkdokk.github.io/sheetlens/guides/understand-a-spreadsheet-someone-else-built.html" />
+    <meta property="og:title" content="How to understand a spreadsheet someone else built (15-minute triage)" />
+    <meta property="og:description" content="A practical triage for inheriting an Excel model: map the sheets, find the assumptions, locate the landmines, and trace what breaks before you edit anything." />
+    <meta property="og:type" content="article" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0d10'/%3E%3Cpath d='M8 21V11h6.2c2.4 0 4 1.3 4 3.4 0 2.2-1.6 3.5-4.1 3.5H11V21H8zm3-9.6v2.6h3c.9 0 1.5-.5 1.5-1.3s-.6-1.3-1.5-1.3h-3z' fill='%234fd1a5'/%3E%3Ccircle cx='23' cy='20' r='2.2' fill='%234fd1a5'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="../src/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="wrap">
+      <div class="top">
+        <a class="brand" href="../" style="text-decoration: none; color: inherit">Sheet<span class="dot">Lens</span></a>
+        <span class="badge">Nothing is uploaded</span>
+      </div>
+      <nav class="crumbs"><a href="../">SheetLens</a> / Guides / Handover triage</nav>
+      <article class="article" id="main">
+        <h1>How to understand a spreadsheet someone else built</h1>
+        <p class="standfirst">
+          The model works. The person who built it left. You have been asked to change one assumption by Friday.
+          Here is the order that keeps you out of trouble.
+        </p>
+
+        <h2>1. Map the sheets before you read a single formula</h2>
+        <p>For each tab, answer one question: does it hold data, or does it calculate?</p>
+        <p>
+          A sheet that is almost all formulas is a layer — it takes inputs and produces numbers. A sheet that is
+          almost all values is an input or an export. A sheet that is hidden and full of formulas is the one that
+          should worry you most: it is driving results you cannot see.
+        </p>
+        <p>
+          <b>Fast method:</b> step across every tab with Ctrl+Page Down, then press Ctrl+End to see the real used
+          range — people are optimistic about the size of their sheets. Unhide everything: right-click any tab,
+          choose Unhide. A tab you cannot unhide is "very hidden" and needs the VBA editor to reveal.
+        </p>
+
+        <h2>2. Find the assumptions before you find the arithmetic</h2>
+        <p>
+          Every model has a small number of numbers that actually matter — margin, growth, discount, FX — and a large
+          number of derived numbers. The single most valuable thing you can do in the first ten minutes is locate
+          the real inputs.
+        </p>
+        <p>
+          An assumption that lives in a labelled input cell is safe: change it, everything recalculates. An assumption
+          that lives <i>inside a formula</i> is a trap, because it does not move when the world moves. Search for it:
+        </p>
+        <pre><code>Ctrl + &#96;   (grave accent)  — shows every formula on the sheet
+Scan for arithmetic against numerals:   B4*0.2    D7/1.08    F2*1.035</code></pre>
+        <p>
+          Those are the cells that will still be using last year's rate after everyone has agreed the new one.
+        </p>
+
+        <h2>3. Look for the four breakage patterns</h2>
+        <ul>
+          <li><b>Hardcoded rates</b> — arithmetic against a literal, as above.</li>
+          <li><b>Volatile functions</b> — <code>TODAY()</code>, <code>NOW()</code>, <code>OFFSET()</code>, <code>INDIRECT()</code>, <code>RAND()</code>. A number that changes every time the file opens cannot be reconciled against last month's version.</li>
+          <li><b>Broken references</b> — <code>#REF!</code> means a row, column or sheet was deleted after the formula was written. Even if it is wrapped in <code>IFERROR</code>, the number you are looking at may be a fallback, not a result.</li>
+          <li><b>External links</b> — a formula containing a bracketed workbook name depends on a file you may not have. Check Data → Edit Links.</li>
+        </ul>
+
+        <h2>4. Before you edit, trace what depends on the cell</h2>
+        <p>
+          Select the cell you plan to change and run Formulas → Trace Dependents. Arrows show what reads it. Repeat
+          on each arrow: dependency chains are usually two or three hops deep, and the damage from a careless edit is
+          always at the end of the chain, not the beginning.
+        </p>
+        <p>
+          Trace Dependents does not follow references across sheets cleanly. For that, follow the references in the
+          formula text — or use a tool that builds the graph for you.
+        </p>
+
+        <div class="callout">
+          <b>The 15-minute checklist</b>
+          Sheets mapped and all unhidden · one labelled input area identified · no arithmetic against literals ·
+          no volatile functions in reported numbers · no <code>#REF!</code> · external links listed · dependents of
+          the cell you are about to change traced. If any line is unresolved, you are not ready to edit.
+        </div>
+        <div class="cta-box">
+          <h2>See it on a real workbook</h2>
+          <p>
+            Drop an .xlsx or .csv and SheetLens explains every formula in the file, flags the risky cells with the
+            offending fragment, and shows what breaks if you edit one. Nothing is uploaded.
+          </p>
+          <a class="btn primary" href="../">Open SheetLens — free, no account</a>
+        </div>
+      <nav class="guide-nav" aria-label="More guides">
+        <h2>Keep reading</h2>
+        <ul>
+          <li><a href="what-does-this-excel-formula-mean.html">What does this Excel formula mean?</a></li>
+          <li><a href="excel-ref-error-what-to-do.html">Excel #REF! — finding the rest of the breakage</a></li>
+          <li><a href="../">Open SheetLens</a> — drop a workbook and see this on your own file</li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>

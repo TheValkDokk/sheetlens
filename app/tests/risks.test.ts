@@ -28,11 +28,36 @@ describe("scanRisks", () => {
     expect(findings.some((f) => f.rule === "hidden-sheet" && f.sheet === "Hidden1")).toBe(true);
   });
 
-  it("covers the expected rule classes on the dirty fixture", () => {
-    expect(rules.has("hardcoded-constant")).toBe(true);
-    expect(rules.has("volatile-function")).toBe(true);
-    expect(rules.has("inconsistent-column")).toBe(true);
-    expect(rules.has("hidden-sheet")).toBe(true);
+  it("flags an external workbook link (regression: malformed char class never matched)", () => {
+    const hit = findings.find((f) => f.rule === "external-link" && f.addr === "I2");
+    expect(hit).toBeDefined();
+    expect(hit!.severity).toBe("high");
+    expect(hit!.evidence).toContain("Book2.xlsx");
+  });
+
+  it("flags a cell whose saved result is an error", () => {
+    const hit = findings.find((f) => f.rule === "broken-reference" && f.addr === "H2");
+    expect(hit).toBeDefined();
+    expect(hit!.severity).toBe("high");
+  });
+
+  it("does not treat a bare filename in a text literal as an external link", () => {
+    const wb3 = parseArrayBuffer(
+      makeWorkbook({ S: { A1: { t: "s", v: "report.xlsx" }, B1: { f: 'A1&".xlsx"', v: "report.xlsx.xlsx" } } }),
+      "text.xlsx"
+    );
+    expect(scanRisks(wb3).filter((f) => f.rule === "external-link")).toEqual([]);
+  });
+
+  it("covers all six documented rule classes on the dirty fixture", () => {
+    expect([...rules].sort()).toEqual([
+      "broken-reference",
+      "external-link",
+      "hardcoded-constant",
+      "hidden-sheet",
+      "inconsistent-column",
+      "volatile-function",
+    ]);
   });
 
   it("returns zero high findings on a clean workbook", () => {

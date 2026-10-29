@@ -1,0 +1,14 @@
+import puppeteer from "puppeteer-core";
+const b = await puppeteer.launch({ executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", headless: "new", args: ["--no-sandbox"] });
+const p = await b.newPage();
+await p.setViewport({ width: 1440, height: 940, deviceScaleFactor: 2 });
+await p.goto("http://localhost:4173/?demo=1", { waitUntil: "networkidle0" });
+await p.waitForSelector(".finding");
+const titles = await p.$$eval(".finding .ftitle", (e) => e.map((x) => x.textContent.trim()));
+const stats = await p.$$eval(".stat", (e) => e.map((x) => x.textContent.trim()));
+console.log("stats:", JSON.stringify(stats));
+console.log("findings (" + titles.length + "):");
+for (const t of titles) console.log(" -", t);
+console.log("has external link:", titles.some((t) => /outside this workbook/i.test(t)));
+console.log("has error rule:", titles.some((t) => /error/i.test(t)));
+await b.close();

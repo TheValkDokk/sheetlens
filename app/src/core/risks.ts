@@ -88,8 +88,11 @@ export function scanRisks(wb: WorkbookModel): Finding[] {
         severity: "high",
         sheet: cell.sheet,
         addr: cell.addr,
-        title: "Formula currently returns an error",
-        detail: "The stored result is " + (cell.cached ?? "an error") + ". Something upstream is missing or the formula is malformed.",
+        title: "Saved result is an error",
+        detail:
+          "The value stored in the file is " +
+          (cell.cached ?? "an error") +
+          ". SheetLens does not recalculate, so this is the last saved state — something upstream was missing or the formula was malformed at save time.",
         evidence: clipped,
       });
     } else if (/#REF!/i.test(body)) {
@@ -104,8 +107,12 @@ export function scanRisks(wb: WorkbookModel): Finding[] {
       });
     }
 
-    // Rule 4 — external workbook links
-    if (/[[^\]]+\.(xlsx|xls|xlsm|csv)\]/i.test(body) || /https?:\/\//i.test(body)) {
+    // Rule 4 — external workbook links.
+    // Bracketed workbook tokens like [Book2.xlsx] are the reliable marker; a bare
+    // extension is not (a cell can legitimately hold the text "report.xlsx").
+    const bracketed = body.match(/\[[^\]]*\]/g) ?? [];
+    const hasBookRef = bracketed.some((b) => /\.(xlsx|xls|xlsm|csv)\b/i.test(b));
+    if (hasBookRef || /https?:\/\//i.test(body)) {
       push({
         rule: "external-link",
         severity: "high",

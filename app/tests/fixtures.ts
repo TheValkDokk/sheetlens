@@ -54,6 +54,8 @@ export function dirtyWorkbook(): ArrayBuffer {
         A6: { v: "MEA" }, B6: { v: 55 }, C6: { f: "B6*0.25", v: 13.75 },
         D2: { f: "SUM(C2:C6)", v: 106.75 },
         D3: { f: "NOW()", v: 45000 },
+        H2: { t: "e", v: "#REF!", f: "IF(D2>#REF!,1,0)" },
+        I2: { f: "IF(B2>[Book2.xlsx]Sheet1!$A$1,1,0)", v: 1 },
       },
       "Q3 Data": {
         A1: { v: "key" }, B1: { v: "val" },

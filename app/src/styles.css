@@ -175,3 +175,44 @@ code, .mono {
 }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* ---------- guides / article ---------- */
+.crumbs { margin: 0 0 18px; font-size: 13.5px; color: var(--muted); }
+.crumbs a { color: var(--muted); text-decoration: none; border-bottom: 1px solid var(--line); }
+.crumbs a:hover { color: var(--text); }
+.article { max-width: 68ch; }
+.article h1 { font-size: clamp(26px, 4vw, 36px); line-height: 1.2; letter-spacing: -0.02em; margin: 6px 0 14px; }
+.article .standfirst { font-size: 17px; color: var(--muted); margin: 0 0 26px; }
+.article h2 { font-size: 21px; letter-spacing: -0.01em; margin: 36px 0 10px; }
+.article h3 { font-size: 16.5px; margin: 24px 0 8px; }
+.article p, .article li { color: #c6d0da; }
+.article ul, .article ol { padding-left: 22px; }
+.article li { margin: 6px 0; }
+.article a { color: var(--accent); }
+.article pre {
+  background: #0d1116; border: 1px solid var(--line); border-radius: 8px;
+  padding: 14px 16px; overflow-x: auto; font-size: 13px; line-height: 1.5;
+}
+.article pre code { background: none; border: 0; padding: 0; font-size: 13px; }
+.article blockquote {
+  margin: 20px 0; padding: 2px 0 2px 16px; border-left: 2px solid var(--line); color: var(--muted);
+}
+.callout {
+  border: 1px solid var(--line); background: var(--panel); border-radius: var(--radius);
+  padding: 16px 18px; margin: 24px 0;
+}
+.callout b { display: block; margin-bottom: 6px; }
+.cta-box {
+  border: 1px solid var(--accent-dim); background: rgba(79,209,165,.06);
+  border-radius: 12px; padding: 22px 24px; margin: 34px 0;
+}
+.cta-box h2 { margin: 0 0 6px; font-size: 19px; }
+.cta-box p { margin: 0 0 16px; color: var(--muted); }
+.guide-nav { margin-top: 44px; border-top: 1px solid var(--line); padding-top: 18px; }
+.guide-nav h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 10px; }
+.guide-nav ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.guide-nav a { color: var(--text); }
+.home-guides { margin-top: 40px; border-top: 1px solid var(--line); padding-top: 18px; }
+.home-guides h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 10px; }
+.home-guides ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.home-guides a { color: var(--text); }

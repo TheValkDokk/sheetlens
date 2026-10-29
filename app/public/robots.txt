@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thevalkdokk.github.io/sheetlens/sitemap.xml

@@ -177,6 +177,32 @@ try {
   check("no horizontal overflow at 380px", overflow <= 1, overflow + "px overflow");
   await m.screenshot({ path: path.join(SHOTS, "07-mobile.png"), fullPage: false });
 
+  // ---- 11. guide pages are real, crawlable and linked
+  const slugs = [
+    "what-does-this-excel-formula-mean",
+    "understand-a-spreadsheet-someone-else-built",
+    "find-hardcoded-numbers-in-an-excel-model",
+    "excel-ref-error-what-to-do",
+  ];
+  for (const slug of slugs) {
+    const resp = await page.goto(BASE + "/guides/" + slug + ".html", { waitUntil: "domcontentloaded" });
+    const status = resp ? resp.status() : 0;
+    const h1 = await page.$eval("h1", (e) => e.textContent.trim()).catch(() => "");
+    const hasCta = (await page.$('a[href="../"]')) !== null;
+    const descLen = await page
+      .$eval('meta[name="description"]', (e) => e.getAttribute("content")?.length ?? 0)
+      .catch(() => 0);
+    check(
+      "guide serves with content + CTA: " + slug,
+      status === 200 && h1.length > 10 && hasCta && descLen > 50,
+      status + " / h1=" + h1.slice(0, 34) + " / desc=" + descLen
+    );
+  }
+  const sitemap = await page.goto(BASE + "/sitemap.xml", { waitUntil: "domcontentloaded" });
+  const sitemapText = await page.evaluate(() => document.body.innerText);
+  const sitemapCount = (sitemapText.match(/<loc>/g) ?? []).length;
+  check("sitemap lists the app and every guide", sitemap !== null && sitemapCount >= 5, sitemapCount + " urls");
+
   check("zero console errors", consoleErrors.length === 0, consoleErrors.slice(0, 3).join(" | ") || "none");
   check("zero uncaught page errors", pageErrors.length === 0, pageErrors.slice(0, 3).join(" | ") || "none");
 } finally {

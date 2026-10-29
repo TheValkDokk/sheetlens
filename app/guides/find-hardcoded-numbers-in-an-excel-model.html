@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>How to find hardcoded numbers in an Excel model</title>
+    <meta name="description" content="Hardcoded rates inside formulas are the classic inherited-model failure. Find them with Show Formulas, tell conversions from assumptions, and move them into input cells." />
+    <link rel="canonical" href="https://thevalkdokk.github.io/sheetlens/guides/find-hardcoded-numbers-in-an-excel-model.html" />
+    <meta property="og:title" content="How to find hardcoded numbers in an Excel model" />
+    <meta property="og:description" content="Hardcoded rates inside formulas are the classic inherited-model failure. Find them with Show Formulas, tell conversions from assumptions, and move them into input cells." />
+    <meta property="og:type" content="article" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0d10'/%3E%3Cpath d='M8 21V11h6.2c2.4 0 4 1.3 4 3.4 0 2.2-1.6 3.5-4.1 3.5H11V21H8zm3-9.6v2.6h3c.9 0 1.5-.5 1.5-1.3s-.6-1.3-1.5-1.3h-3z' fill='%234fd1a5'/%3E%3Ccircle cx='23' cy='20' r='2.2' fill='%234fd1a5'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="../src/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="wrap">
+      <div class="top">
+        <a class="brand" href="../" style="text-decoration: none; color: inherit">Sheet<span class="dot">Lens</span></a>
+        <span class="badge">Nothing is uploaded</span>
+      </div>
+      <nav class="crumbs"><a href="../">SheetLens</a> / Guides / Hidden assumptions</nav>
+      <article class="article" id="main">
+        <h1>How to find hardcoded numbers in an Excel model</h1>
+        <p class="standfirst">
+          The most expensive cell in a spreadsheet is the one that looks right today and cannot be updated tomorrow:
+          a rate typed directly into a formula.
+        </p>
+
+        <h2>Why this specific pattern hurts</h2>
+        <p>Two formulas that look equally healthy:</p>
+        <pre><code>A:  =B4 * $B$2        B:  =B4 * 0.2</code></pre>
+        <p>
+          A recalculates when the margin assumption in B2 changes. B does not. When the board changes the target
+          margin and someone updates the input cell, A moves and B stays at 20%. The model now contains two different
+          versions of the truth, and the difference shows up as an unexplainable variance three sheets away.
+        </p>
+        <p>
+          Nobody does this maliciously. It happens when someone quickly checks a number, or when a rate arrives by
+          email and gets typed straight into the cell that needs it. Then the file is saved, and the shortcut becomes
+          permanent.
+        </p>
+
+        <h2>Find them with Show Formulas</h2>
+        <ol>
+          <li>Press <code>Ctrl + &#96;</code> (grave accent) to display formulas instead of results on the active sheet.</li>
+          <li>Scan each formula for arithmetic against a numeral: <code>* 0.2</code>, <code>/ 1.08</code>, <code>* 1.035</code>.</li>
+          <li>Repeat per sheet — Show Formulas is per-sheet, not per-workbook, which is exactly how hardcodes survive a review.</li>
+          <li>Press <code>Ctrl + &#96;</code> again to restore results.</li>
+        </ol>
+        <p>
+          A faster complement: <b>Home → Find &amp; Select → Go To Special → Formulas</b> highlights every formula cell
+          in the sheet, which makes a long sheet scannable at a glance.
+        </p>
+
+        <h2>Tell a conversion from an assumption</h2>
+        <p>Not every literal is a bug. The distinction matters, because flagging everything is as useless as flagging nothing:</p>
+        <table>
+          <thead>
+            <tr><th>Literal</th><th>Usually means</th><th>Action</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><code>* 1000</code>, <code>/ 12</code>, <code>* 2</code></td><td>Unit or period conversion — structural, rarely changes</td><td>Usually fine. Consider a comment.</td></tr>
+            <tr><td><code>* 0.2</code>, <code>* 0.15</code>, <code>- 0.03</code></td><td>A rate, margin, discount or tax — a business assumption</td><td>Move to a labelled input cell.</td></tr>
+            <tr><td><code>* 1.08</code>, <code>* 1.035</code></td><td>Indexation or uplift applied to a figure</td><td>Move to an input cell so it can be updated by year.</td></tr>
+            <tr><td>Any literal used in a comparison</td><td>A threshold or tolerance</td><td>Move it, or at least name it.</td></tr>
+          </tbody>
+        </table>
+        <p>
+          The rule of thumb: if a reasonable person could disagree about the number next quarter, it does not belong
+          inside a formula.
+        </p>
+
+        <h2>Fixing them without breaking the file</h2>
+        <ol>
+          <li>Create one clearly labelled input area — a dedicated sheet is cleanest — with a name and a unit for each assumption.</li>
+          <li>Replace the literal with an absolute reference: <code>B4 * $Assumptions.$B$7</code>.</li>
+          <li>Define a range name for each assumption. Formulas then read <code>B4 * Margin</code>, which is both safer and self-documenting.</li>
+          <li>Reconcile before and after: the reported totals should be identical at the moment of the change. If they are not, you have found an assumption that was already wrong.</li>
+        </ol>
+
+        <div class="callout">
+          <b>Check the whole workbook, not the sheet you are looking at</b>
+          Doing this by eye across every tab is where most reviews quietly give up — and the hidden sheet is the one
+          nobody checks. SheetLens does this pass in about a second and gives you each offending cell with the exact
+          formula fragment, so the list is reviewable rather than a feeling.
+        </div>
+        <div class="cta-box">
+          <h2>See it on a real workbook</h2>
+          <p>
+            Drop an .xlsx or .csv and SheetLens explains every formula in the file, flags the risky cells with the
+            offending fragment, and shows what breaks if you edit one. Nothing is uploaded.
+          </p>
+          <a class="btn primary" href="../">Open SheetLens — free, no account</a>
+        </div>
+      <nav class="guide-nav" aria-label="More guides">
+        <h2>Keep reading</h2>
+        <ul>
+          <li><a href="understand-a-spreadsheet-someone-else-built.html">Understand a spreadsheet someone else built</a></li>
+          <li><a href="excel-ref-error-what-to-do.html">Excel #REF! — finding the rest of the breakage</a></li>
+          <li><a href="../">Open SheetLens</a> — drop a workbook and see this on your own file</li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>

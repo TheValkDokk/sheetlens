@@ -33,6 +33,12 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 24 | 2026-10-29T07:17:13.958Z | G4 | Fixes live and re-verified on the public URL | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 21 checks, 21 passed, consoleErrors 0 | PASS |
 | 25 | 2026-10-29T07:17:13.958Z | G4 | Reality Checker **final verdict** | agent ran >10 min, wrote probes + browser logs, never wrote VERDICT.md | **NOT DELIVERED** — its probes were used, its certification is missing | INCOMPLETE |
 
+| 26 | 2026-10-29T07:19:58.268Z | G3 loop | Reality Checker round 2: **R4 FAIL** — external-link rule never fires | its probe + direct regex test | `/[[^\]]+\.(xlsx|xls|xlsm|csv)\]/i` returned false on `IF(F8>[Q2_Legacy.xlsx]Sheet1!$D$4,1,0)` | FAIL on first pass |
+| 27 | 2026-10-29T07:19:58.268Z | G3 loop | Fixed by replacing the char class with bracketed-token detection; 3 tests added incl. all-six-classes | `npx vitest run` | 30 passed (30); `external-link` regression test green | PASS |
+| 28 | 2026-10-29T07:19:58.268Z | G3 loop | Demo now surfaces 6 of 6 rule classes | headless DOM probe | 9 high (was 8), "Depends on a file outside this workbook" present | PASS |
+| 29 | 2026-10-29T07:19:58.268Z | G5 | 4 long-tail guides ship as crawlable pages + sitemap + robots | `npx vite build`; QA route checks | 5 HTML entries; each guide 200 + h1 + CTA + meta description; sitemap lists 5 URLs | PASS |
+| 30 | 2026-10-29T07:19:58.268Z | G5 | Guides are linked from the app and crawlable without JS | QA + `noscript` nav in index.html | 26 browser checks pass (was 21) | PASS |
+
 ## Defects found by QA (and what happened to them)
 
 | Defect | Found by | Fix | Verified |
@@ -42,6 +48,8 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | favicon 404 polluted the console-error signal | console listener | inline SVG favicon, zero network requests | consoleErrors [] |
 | 190-char filename overflowed the page by 967px | Reality Checker probe | `.filename` gets `min-width:0; overflow-wrap:anywhere` | new QA check, 21/21 |
 | `*2` and `*1E5` reported as hidden assumptions | Reality Checker probe | rule narrowed to rate/indexation shapes | 2 new unit tests |
+| **External-link rule never matched** — a malformed character class made one of six advertised rule classes dead code, and no test covered it | Reality Checker round 2 (R4 FAIL) | explicit bracketed-token detection + 3 tests, one asserting all six classes | 30/30 unit, 6/6 classes on the demo |
+| "Runs in your browser" overstated (the app is served remotely) | Reality Checker round 2 | badge changed to "Nothing is uploaded", which is the claim that is actually provable | live copy |
 
 ## Screenshots (evidence/screens/)
 

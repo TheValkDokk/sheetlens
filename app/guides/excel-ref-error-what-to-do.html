@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Excel #REF! error: what it means and how to find the rest</title>
+    <meta name="description" content="A #REF! means a formula points at a row, column or sheet that was deleted. Here is what caused it, how to find every other occurrence, and why IFERROR can hide it." />
+    <link rel="canonical" href="https://thevalkdokk.github.io/sheetlens/guides/excel-ref-error-what-to-do.html" />
+    <meta property="og:title" content="Excel #REF! error: what it means and how to find the rest" />
+    <meta property="og:description" content="A #REF! means a formula points at a row, column or sheet that was deleted. Here is what caused it, how to find every other occurrence, and why IFERROR can hide it." />
+    <meta property="og:type" content="article" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0d10'/%3E%3Cpath d='M8 21V11h6.2c2.4 0 4 1.3 4 3.4 0 2.2-1.6 3.5-4.1 3.5H11V21H8zm3-9.6v2.6h3c.9 0 1.5-.5 1.5-1.3s-.6-1.3-1.5-1.3h-3z' fill='%234fd1a5'/%3E%3Ccircle cx='23' cy='20' r='2.2' fill='%234fd1a5'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="../src/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="wrap">
+      <div class="top">
+        <a class="brand" href="../" style="text-decoration: none; color: inherit">Sheet<span class="dot">Lens</span></a>
+        <span class="badge">Nothing is uploaded</span>
+      </div>
+      <nav class="crumbs"><a href="../">SheetLens</a> / Guides / Broken references</nav>
+      <article class="article" id="main">
+        <h1>Excel #REF! — what it means and how to find the rest</h1>
+        <p class="standfirst">
+          A <code>#REF!</code> is Excel saying "this formula used to point at something that no longer exists". It is
+          a deletion scar, and one visible scar almost always means others are hidden.
+        </p>
+
+        <h2>What causes it</h2>
+        <ul>
+          <li>A row, column or cell that a formula referenced was deleted.</li>
+          <li>A sheet a formula referenced was deleted or renamed in a way Excel could not follow.</li>
+          <li>A cut-and-paste that moved the source out from under the formula.</li>
+          <li>A formula was written by another tool against a range that does not exist in this workbook.</li>
+        </ul>
+        <p>
+          Excel is careful about the last one: the error is not "my reference is wrong", it is "my reference <i>was</i>
+          right and something removed it". That is why the fix is rarely just retyping the address.
+        </p>
+
+        <h2>Find every occurrence, not just the one you can see</h2>
+        <ol>
+          <li>
+            <b>Find across formulas.</b> Press <code>Ctrl+H</code>, put <code>#REF!</code> in Find what, and set
+            <i>Look in</i> to <b>Formulas</b> (not Values). Choose <i>Find All</i> to get the full list at once.
+          </li>
+          <li>
+            <b>Check every sheet, including hidden ones.</b> Ctrl+H searches the whole workbook, which is the main
+            reason it beats scrolling.
+          </li>
+          <li>
+            <b>Look for the silenced version.</b> A formula wrapped in <code>IFERROR(…, 0)</code> will show a clean
+            zero instead of an error. That is the dangerous case: the sheet looks healthy and the number is a
+            placeholder.
+          </li>
+          <li>
+            <b>Check external links.</b> Data → Edit Links lists workbooks this file depends on. If the source moved,
+            every formula reading it is broken even without a visible error.
+          </li>
+        </ol>
+
+        <h2>Fixing it properly</h2>
+        <p>
+          If the deletion was accidental, <code>Ctrl+Z</code> immediately is the only reliable repair — it restores
+          both the cells and the references pointing at them.
+        </p>
+        <p>If the deletion was intentional, the formula needs to be rewritten, not patched. Decide what the cell should
+        now mean:</p>
+        <ul>
+          <li><b>Point at the new location</b> — retype the reference and confirm the number reconciles to what you expect.</li>
+          <li><b>Make it explicit that the input is gone</b> — a deliberate <code>NA()</code> or a blank is honest; a silent <code>0</code> is not, because it flows into totals as if it were real.</li>
+          <li><b>Re-check the totals downstream</b> — trace dependents on the repaired cell. A <code>#REF!</code> that was feeding a sum was quietly making that sum too low, and anything built on it inherited the error.</li>
+        </ul>
+
+        <div class="callout">
+          <b>The uncomfortable one: saved files with cached results</b>
+          Excel stores the last computed value alongside each formula. If a file was saved before a reference broke —
+          or was produced by a tool that wrote formulas without results — the visible number can be stale while the
+          formula is already broken. Reading the formula, not the displayed value, is the only way to know.
+        </div>
+
+        <h2>A quick audit sequence for a received file</h2>
+        <p>
+          Ctrl+H for <code>#REF!</code> in formulas · Ctrl+H for <code>#VALUE!</code> and <code>#DIV/0!</code> the
+          same way · Data → Edit Links for external dependencies · unhide all sheets and repeat · then trace
+          dependents on anything that feeds a reported total.
+        </p>
+        <div class="cta-box">
+          <h2>See it on a real workbook</h2>
+          <p>
+            Drop an .xlsx or .csv and SheetLens explains every formula in the file, flags the risky cells with the
+            offending fragment, and shows what breaks if you edit one. Nothing is uploaded.
+          </p>
+          <a class="btn primary" href="../">Open SheetLens — free, no account</a>
+        </div>
+      <nav class="guide-nav" aria-label="More guides">
+        <h2>Keep reading</h2>
+        <ul>
+          <li><a href="understand-a-spreadsheet-someone-else-built.html">How to understand a spreadsheet someone else built</a></li>
+          <li><a href="find-hardcoded-numbers-in-an-excel-model.html">Find hardcoded numbers in an Excel model</a></li>
+          <li><a href="../">Open SheetLens</a> — drop a workbook and see this on your own file</li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>

@@ -1,11 +1,11 @@
 {
-  "base": "https://thevalkdokk.github.io/sheetlens",
-  "at": "2026-10-29T07:17:02.894Z",
+  "base": "http://localhost:4173",
+  "at": "2026-10-29T07:19:42.992Z",
   "timings": {
-    "coldLoadMs": 1963,
-    "demoParseMs": 47
+    "coldLoadMs": 1007,
+    "demoParseMs": 39
   },
-  "passed": 21,
+  "passed": 26,
   "failed": 0,
   "checks": [
     {
@@ -21,17 +21,17 @@
     {
       "name": "demo parsed into results",
       "pass": true,
-      "detail": "[\"Sheets4\",\"Formulas27\",\"High risk8\",\"Worth a look3\"]"
+      "detail": "[\"Sheets4\",\"Formulas27\",\"High risk9\",\"Worth a look3\"]"
     },
     {
       "name": "risk findings rendered",
       "pass": true,
-      "detail": "7 findings"
+      "detail": "8 findings"
     },
     {
       "name": "high-severity findings present",
       "pass": true,
-      "detail": "4 high"
+      "detail": "5 high"
     },
     {
       "name": "risks tab auto-selected when danger exists",
@@ -102,6 +102,31 @@
       "name": "no horizontal overflow at 380px",
       "pass": true,
       "detail": "0px overflow"
+    },
+    {
+      "name": "guide serves with content + CTA: what-does-this-excel-formula-mean",
+      "pass": true,
+      "detail": "200 / h1=What does this Excel formula mean? / desc=184"
+    },
+    {
+      "name": "guide serves with content + CTA: understand-a-spreadsheet-someone-else-built",
+      "pass": true,
+      "detail": "200 / h1=How to understand a spreadsheet so / desc=157"
+    },
+    {
+      "name": "guide serves with content + CTA: find-hardcoded-numbers-in-an-excel-model",
+      "pass": true,
+      "detail": "200 / h1=How to find hardcoded numbers in a / desc=169"
+    },
+    {
+      "name": "guide serves with content + CTA: excel-ref-error-what-to-do",
+      "pass": true,
+      "detail": "200 / h1=Excel #REF! — what it means and ho / desc=163"
+    },
+    {
+      "name": "sitemap lists the app and every guide",
+      "pass": true,
+      "detail": "5 urls"
     },
     {
       "name": "zero console errors",

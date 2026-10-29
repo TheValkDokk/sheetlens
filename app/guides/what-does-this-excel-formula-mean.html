@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>What does this Excel formula mean? A method that works on any formula</title>
+    <meta name="description" content="Read a nested Excel formula outside-in: find the outer function, identify the ranges, then the conditions. Worked example plus a browser tool that explains every formula in a workbook." />
+    <link rel="canonical" href="https://thevalkdokk.github.io/sheetlens/guides/what-does-this-excel-formula-mean.html" />
+    <meta property="og:title" content="What does this Excel formula mean? A method that works on any formula" />
+    <meta property="og:description" content="Read a nested Excel formula outside-in: find the outer function, identify the ranges, then the conditions. Worked example plus a browser tool that explains every formula in a workbook." />
+    <meta property="og:type" content="article" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0d10'/%3E%3Cpath d='M8 21V11h6.2c2.4 0 4 1.3 4 3.4 0 2.2-1.6 3.5-4.1 3.5H11V21H8zm3-9.6v2.6h3c.9 0 1.5-.5 1.5-1.3s-.6-1.3-1.5-1.3h-3z' fill='%234fd1a5'/%3E%3Ccircle cx='23' cy='20' r='2.2' fill='%234fd1a5'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="../src/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="wrap">
+      <div class="top">
+        <a class="brand" href="../" style="text-decoration: none; color: inherit">Sheet<span class="dot">Lens</span></a>
+        <span class="badge">Nothing is uploaded</span>
+      </div>
+      <nav class="crumbs"><a href="../">SheetLens</a> / Guides / Reading a formula</nav>
+      <article class="article" id="main">
+        <h1>What does this Excel formula mean?</h1>
+        <p class="standfirst">
+          You do not need to memorise 500 functions. You need one reading order. Applied consistently, the method
+          below decodes almost any formula you will meet in an inherited model.
+        </p>
+
+        <h2>Read it outside-in, never left to right</h2>
+        <p>
+          A nested formula is a sentence with the main clause in the middle. The <b>outermost function</b> is the
+          verb — it says what the cell ultimately does. Everything inside it is detail supporting that verb.
+        </p>
+        <p>Take this, which is the shape of half the cells in a pricing model:</p>
+        <pre><code>=IFERROR(INDEX(Rates!$C:$C, MATCH($A4, Rates!$A:$A, 0)), 0)</code></pre>
+        <p>Read in four passes:</p>
+        <ol>
+          <li>
+            <b>Outer wrapper:</b> <code>IFERROR(…, 0)</code>. Whatever happens inside, if it fails, this cell shows
+            <code>0</code> instead of an error. That is the first thing you now know: errors here are silenced.
+          </li>
+          <li>
+            <b>The actual operation:</b> <code>INDEX(Rates!$C:$C, MATCH(…))</code>. INDEX means "give me the item at
+            this position in this range". So the job is: pick something out of column C on the Rates sheet.
+          </li>
+          <li>
+            <b>The position:</b> <code>MATCH($A4, Rates!$A:$A, 0)</code>. Find the row where column A on Rates equals
+            the value in A4 here, requiring an exact match.
+          </li>
+          <li>
+            <b>Put it back together:</b> "Look up this row's region in the Rates sheet, return its value from column C,
+            and show 0 if the region is not listed."
+          </li>
+        </ol>
+
+        <h2>The five shapes worth recognising</h2>
+        <table>
+          <thead>
+            <tr><th>Shape</th><th>What it says</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><code>IF(cond, a, b)</code></td><td>If the condition holds, use a; otherwise use b.</td></tr>
+            <tr><td><code>IFERROR(x, fallback)</code></td><td>Try x; if it errors, show fallback. Treat any silent fallback as a place where a real problem can hide.</td></tr>
+            <tr><td><code>VLOOKUP(key, table, n, FALSE)</code></td><td>Find key in the table's first column and return the nth column of that row. The FALSE means exact match — without it you get approximate, which is a quiet way to get wrong numbers.</td></tr>
+            <tr><td><code>INDEX(range, MATCH(…))</code></td><td>The same lookup as VLOOKUP but immune to inserted columns. This is why serious models prefer it.</td></tr>
+            <tr><td><code>SUMIFS(sum, r1, c1, …)</code></td><td>Add up <i>sum</i> only for rows that satisfy every range/condition pair.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Three habits that make it fast</h2>
+        <ul>
+          <li><b>Click, do not squint.</b> Select the cell and press <code>Ctrl+[</code> to jump to what it references. Seeing the source range is usually faster than parsing the text.</li>
+          <li><b>Colour-code by depth.</b> In a long formula, underline the outermost function, then the next one in, then the next. Most confusion is depth, not complexity.</li>
+          <li><b>Ask what would make it wrong, not what it does.</b> "It returns 0 on failure" is the interesting fact. "It looks up a rate" is not.</li>
+        </ul>
+
+        <div class="callout">
+          <b>Where reading by eye runs out</b>
+          It works for one cell. In a file with 27 formulas across 4 sheets, reading each one is an afternoon, and the
+          danger is not the formulas you read — it is the ones you skip. That is the case SheetLens exists for: it
+          reads every formula and reports the risky ones with the evidence attached.
+        </div>
+        <div class="cta-box">
+          <h2>See it on a real workbook</h2>
+          <p>
+            Drop an .xlsx or .csv and SheetLens explains every formula in the file, flags the risky cells with the
+            offending fragment, and shows what breaks if you edit one. Nothing is uploaded.
+          </p>
+          <a class="btn primary" href="../">Open SheetLens — free, no account</a>
+        </div>
+      <nav class="guide-nav" aria-label="More guides">
+        <h2>Keep reading</h2>
+        <ul>
+          <li><a href="find-hardcoded-numbers-in-an-excel-model.html">Find hardcoded numbers in an Excel model</a></li>
+          <li><a href="understand-a-spreadsheet-someone-else-built.html">Understand a spreadsheet someone else built</a></li>
+          <li><a href="../">Open SheetLens</a> — drop a workbook and see this on your own file</li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>
