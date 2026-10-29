@@ -39,6 +39,11 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 29 | 2026-10-29T07:19:58.268Z | G5 | 4 long-tail guides ship as crawlable pages + sitemap + robots | `npx vite build`; QA route checks | 5 HTML entries; each guide 200 + h1 + CTA + meta description; sitemap lists 5 URLs | PASS |
 | 30 | 2026-10-29T07:19:58.268Z | G5 | Guides are linked from the app and crawlable without JS | QA + `noscript` nav in index.html | 26 browser checks pass (was 21) | PASS |
 
+| 31 | 2026-10-29T07:21:32.652Z | G4 | Fix + guides deployed; all routes live | CI run + curl | /:200, guide:200, guide:200, sitemap:200, robots:200; CI build passes `npm test` before deploy | PASS |
+| 32 | 2026-10-29T07:21:32.652Z | G4 | Full journey re-proven on production after the fix | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 26 checks, 26 passed, 0 failed | PASS |
+| 33 | 2026-10-29T07:21:32.652Z | G5 | Repo is discoverable and points at the product | `gh api PATCH` + topics | homepage set; topics: audit, browser-only, excel, finance, privacy, sheetjs, spreadsheet, typescript | PASS |
+| 34 | 2026-10-29T07:21:32.652Z | G5 | **Real users acquired** | — | **0 verified.** Live URL + indexable guides exist; no human has been reached yet. This is the open objective. | FAIL |
+
 ## Defects found by QA (and what happened to them)
 
 | Defect | Found by | Fix | Verified |

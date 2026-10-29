@@ -1,8 +1,8 @@
 {
-  "base": "http://localhost:4173",
-  "at": "2026-10-29T07:19:42.992Z",
+  "base": "https://thevalkdokk.github.io/sheetlens",
+  "at": "2026-10-29T07:21:10.852Z",
   "timings": {
-    "coldLoadMs": 1007,
+    "coldLoadMs": 1511,
     "demoParseMs": 39
   },
   "passed": 26,
@@ -71,7 +71,7 @@
     {
       "name": "audit report exports as a file",
       "pass": true,
-      "detail": "4451 bytes"
+      "detail": "4729 bytes"
     },
     {
       "name": "export contains findings",

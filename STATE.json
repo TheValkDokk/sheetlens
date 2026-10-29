@@ -2,13 +2,12 @@
   "runbook": "startup-mvp-build",
   "mode": "NEXUS-Sprint",
   "phase": 5,
-  "gate": "launched",
+  "gate": "G5",
   "live_url": "https://thevalkdokk.github.io/sheetlens/",
   "repo": "https://github.com/TheValkDokk/sheetlens",
   "g0": {
     "selected": "SheetLens",
-    "confidence": 0.55,
-    "note": "decided on in-session evidence; team research arrived late"
+    "confidence": 0.55
   },
   "g1": {
     "requirements": 9,
@@ -16,29 +15,32 @@
     "status": "PASS"
   },
   "g2": {
-    "architecture": "ADR-1..5",
     "status": "PASS"
   },
   "g3": {
-    "unit": "27/27",
-    "browser": "21/21",
-    "console_errors": 0,
-    "defects_found": 5,
-    "defects_fixed": 5,
-    "status": "PASS"
+    "unit": "30/30",
+    "browser": "26/26",
+    "defects_found": 6,
+    "defects_fixed": 6,
+    "status": "PASS after one QA FAIL loop-back"
   },
   "g4": {
-    "published": true,
-    "live_qa": "21/21",
+    "live": true,
+    "live_qa": "26/26",
     "ci": "green",
     "status": "PASS"
   },
   "g5": {
-    "artifacts": [
-      "project-docs/growth-plan.md",
-      "content/launch-copy.md"
+    "shipped": [
+      "4 crawlable guides",
+      "sitemap.xml",
+      "robots.txt",
+      "repo topics + homepage",
+      "launch copy",
+      "growth plan"
     ],
-    "status": "PLANNED — no distribution executed, so no real users yet"
+    "acquired_users": 0,
+    "status": "IN PROGRESS"
   },
-  "reality_checker": "probes produced 2 real defects (fixed); verdict never delivered"
+  "reality_checker": "round 2 delivered NEEDS WORK with a correct R4 FAIL; defect fixed and verified"
 }
