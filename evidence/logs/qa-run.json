@@ -1,9 +1,9 @@
 {
-  "base": "https://thevalkdokk.github.io/sheetlens",
-  "at": "2026-10-29T07:25:36.778Z",
+  "base": "http://localhost:4173",
+  "at": "2026-10-29T07:28:31.514Z",
   "timings": {
-    "coldLoadMs": 1442,
-    "demoParseMs": 40
+    "coldLoadMs": 1010,
+    "demoParseMs": 44
   },
   "passed": 26,
   "failed": 0,

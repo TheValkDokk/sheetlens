@@ -1,0 +1,11 @@
+import puppeteer from "puppeteer-core";
+const b = await puppeteer.launch({ executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", headless: "new", args: ["--no-sandbox", "--hide-scrollbars"] });
+const p = await b.newPage();
+await p.setViewport({ width: 1200, height: 630, deviceScaleFactor: 2 });
+await p.goto("http://localhost:4173/?demo=1", { waitUntil: "networkidle0" });
+await p.waitForSelector(".finding");
+await p.evaluate(() => window.scrollTo(0, 150));
+await new Promise((r) => setTimeout(r, 300));
+await p.screenshot({ path: "public/og.png" });
+console.log("og.png written");
+await b.close();
