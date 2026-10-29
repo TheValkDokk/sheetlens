@@ -1,8 +1,9 @@
 {
- "https://www.investintech.com/able2extract-professional/": [
-  "\\$[0-9]+[0-9.]*"
+ "https://microapp.io/compare-pdfs/": [
+  "upload|browser|free",
+  "limit|premium|price"
  ],
- "https://www.docuclipper.com/pricing": [
-  "\\$[0-9]+"
+ "https://montemagno.com/introducing-pdf-diff-compare-pdfs-privately-in-your-browser/": [
+  "browser|client|upload"
  ]
 }

@@ -22,6 +22,12 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 15 | 2026-10-29T07:07:55.136Z | G3 | Cold load under the 2s bar | page.goto -> networkidle0 | 1007 ms | PASS |
 | 16 | 2026-10-29T07:07:55.136Z | G3 | Demo analysis under the 3s bar | click -> results rendered | 54 ms | PASS |
 
+| 17 | 2026-10-29T07:11:55.424Z | G4 | Repo published under TheValkDokk | `gh repo create` + push | https://github.com/TheValkDokk/sheetlens (public, main @ 1cac84e) | PASS |
+| 18 | 2026-10-29T07:11:55.424Z | G4 | CI runs the tests, not just the build | GitHub Actions run 40833733055 | build 16s (npm ci -> npm test -> build), deploy 12s, conclusion success | PASS |
+| 19 | 2026-10-29T07:11:55.424Z | G4 | Build survives a subpath deploy | static serve of dist under /sheetlens/ | index 200, js 200, css 200 | PASS |
+| 20 | 2026-10-29T07:11:55.424Z | G4 | Public URL serves cold | `curl -w %{http_code} %{time_total}` | status=200 time=0.59s size=1107 | PASS |
+| 21 | 2026-10-29T07:11:55.424Z | G4 | **Full journey proven on the PUBLIC url** | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 20 checks, 20 passed, 0 failed, consoleErrors [] | PASS |
+
 ## Defects found by QA (and what happened to them)
 
 | Defect | Found by | Fix | Verified |
