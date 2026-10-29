@@ -1,0 +1,94 @@
+SOURCE: https://flatfile.com/pricing/
+
+Title: Flatfile Projects Pricing
+
+URL Source: https://flatfile.com/pricing/
+
+Markdown Content:
+## Pricing plans
+
+* * *
+
+Flatfile enables teams to complete migration projects 70% faster. Our AI-powered platform helps you extract, prepare, map, and transform data so it's ready for any destination.
+
+[Talk to sales](https://flatfile.com/contact-us/?contact_reason=I%20am%20interested%20in%20the%20Flatfile%20Platform)
+
+#### Collect, map, validate, transform, convert
+
+*   Collect any file type, any source
+*   Advanced column matching and data structure conversion
+*   Validate, review, fix and approve
+*   Transform data formats and fix issues automatically
+*   Convert to desired format and transfer to target destination
+
+#### AI powered
+
+*   Ask anything, AI-supported query and search
+*   AI-powered data validation and cleaning
+*   Plain English data transformation
+*   Preview AI-powered changes with inline diff view
+
+#### Collaborate
+
+*   Secure team specific, multi-user collaboration space
+*   Collaborative editing
+*   Shared views
+*   Multi-step approvals
+*   Comments
+
+#### Customize, extend, implement
+
+*   Developer platform
+*   API-first, event-driven architecture
+*   Data workflows orchestration
+*   Fully extensible and configurable via code
+*   Easily integrates with Git-based source control
+*   Open-source plugin library
+
+#### Enterprise support
+
+*   Data version history
+*   Audit trails
+*   Customizable  
+ dashboards & analytics
+*   SSO/SAML
+*   Self-managed deployments
+*   Multi-region deployments
+
+*   Enterprise support
+*   Adaptive release management
+*   Data Processing  
+ Agreement (DPA)
+*   Enterprise SLA
+*   Customer success manager
+*   Implementation services
+
+##### Connect with our team
+
+Schedule a time to walk through our product and pricing. We'll tailor our conversation to your specific use case and highlight what's most relevant for you.
+
+## Frequently asked questions
+
+Have a question we haven't addressed? Find answers to some of our most frequently asked questions below.
+
+* * *
+
+Flatfile does not store or see your credit card information or payment details. All payments are handled by [Stripe](https://stripe.com/), which is PCI Service Provider Level 1  certified and one of the largest, highly secure and most respected payment providers in the world.
+
+* * *
+
+All usage and billing is based on UTC (Universal Time Coordinated). As a result, depending on the time zone you are in, your account will be charged on the last day of the month or the first day of the following month.
+
+* * *
+
+Data usage for development/test purposes that happens in your development environment is always free. We of course expect fair use and that development environments are solely used for development and testing purposes.
+
+* * *
+
+We’d be happy to hear from you—there are several ways to get in touch with us:
+
+*   Chat with our (very technical) support team
+*   Email us at [support@flatfile.com](mailto:support@flatfile.com) for general product questions or to request a cancellation or refund
+*   Submit a [contact request](https://flatfile.com/contact-us/) and we’ll get back to you
+
+* * *

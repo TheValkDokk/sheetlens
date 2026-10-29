@@ -1,0 +1,40 @@
+SOURCE: https://xlcompare.com/price
+
+Title: xlCompare: Page not found
+
+URL Source: https://xlcompare.com/price
+
+Markdown Content:
+[![Image 1: xlCompare Tool](https://xlcompare.com/SVG/logo-32.svg)](https://xlcompare.com/)
+
+[xlCompare](https://xlcompare.com/)
+
+[Merge](https://xlcompare.com/reconcile.html)
+
+[CSV](https://xlcompare.com/compare-csv-files.html)
+
+[Download](https://xlcompare.com/download.html)
+
+[Buy](https://xlcompare.com/order.html)
+
+[F.A.Q.](https://xlcompare.com/faq.html)
+
+[Contact](https://xlcompare.com/contact.html)
+
+[About](https://xlcompare.com/about.html)
+
+[![Image 2: download](https://xlcompare.com/SVG/download-sm.svg) Download Now](https://xlcompare.com/xlCompare-12-05.msi)
+
+## Error 404 :(
+
+Sorry, but this page was not found
+
+You may have mistyped the address or the page may have moved.
+
+IMPORTANT
+
+xlCompare.com doesn't provide free online file comparison service for XLSX and TEXT files anymore.
+
+Сервис сравнения файлов Excel и текстовых файлов на xlCompare.com больше не доступен.
+
+Ми прибрали сервіс для порівняння файлів Excel та текстових файлів з xlCompare.com.

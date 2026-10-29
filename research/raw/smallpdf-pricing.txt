@@ -1,0 +1,472 @@
+SOURCE: https://smallpdf.com/pricing
+MODE: reader
+
+Title: Smallpdf Pricing and Plans
+
+URL Source: https://smallpdf.com/pricing
+
+Markdown Content:
+*   [Compress](https://smallpdf.com/compress-pdf)
+*   [Convert](https://smallpdf.com/pdf-converter)
+*   [Merge](https://smallpdf.com/merge-pdf)
+*   [Edit](https://smallpdf.com/edit-pdf)
+*   [Sign](https://smallpdf.com/sign-pdf)
+*   [AI PDF](https://smallpdf.com/ai-pdf)
+
+*   [Pricing](https://smallpdf.com/pricing)
+
+## PDF Software That Fits Your Budget
+
+All the PDF tools you need. Built in Switzerland. Trusted by 1.7 billion people since 2013.
+
+**+**
+
+Get both **Smallpdf** and **Sign.com** with one subscription.
+
+## Free
+
+1
+
+...
+
+/month
+
+### You get:
+
+*   30+ document management tools
+*   Limited document downloads
+*   Limited mobile app access
+
+Limited access
+
+Sign.com free account limited to 2 documents a month
+
+1
+
+...
+
+/month
+
+Billed as .../year
+
+### Everything in Free, plus:
+
+*   Unlimited access to all 30+ tools
+*   Unlimited document downloads
+*   Edit Text, OCR, and more...
+*   Strong Compression
+*   Unlimited access to AI-powered tools
+*   Unlimited mobile app access
+
+Full access
+
+Unlimited Sign.com Premium subscription
+
+2-19
+
+...
+
+/month per seat
+
+Billed as ~~...~~**...** /year
+
+Have questions? Contact Sales
+
+### Everything in Smallpdf Pro, plus:
+
+*   Special discounted pricing
+*   Priority customer support
+*   Centralized billing
+*   Member access management
+
+Full access
+
+Unlimited Sign.com Premium subscription for each team member
+
+20+
+
+Custom
+
+Talk to our team to get a custom offer.
+
+### Everything in Pro for Teams, plus:
+
+*   Custom pricing
+*   Flexible payment options
+*   Dedicated customer support
+
+Full access
+
+Unlimited Sign.com Premium subscription for each team member
+
+Free
+
+Pro
+
+Team
+
+Business
+
+Compress
+
+Basic Compression
+
+Basic Compression
+
+Daily download limit
+
+Strong Compression
+
+Strong Compression
+
+Batch Compress
+
+Batch Compress
+
+Convert
+
+Convert PDF to/from Word
+
+Convert PDF to/from Word
+
+Daily download limit
+
+Convert PDF to/from Excel
+
+Convert PDF to/from Excel
+
+Daily download limit
+
+Convert PDF to/from PowerPoint
+
+Convert PDF to/from PowerPoint
+
+Daily download limit
+
+Convert PDF to/from Image
+
+Convert PDF to/from Image
+
+Daily download limit
+
+PDF OCR
+
+PDF OCR
+
+Daily download limit
+
+Extracting Images (JPG to PDF)
+
+Extracting Images (JPG to PDF)
+
+Adjust Margins (PDF to JPG)
+
+Adjust Margins (PDF to JPG)
+
+OCR (PDF to Word, PDF to Excel, PDF to PPT)
+
+OCR (PDF to Word, PDF to Excel, PDF to PPT)
+
+Batch Convert
+
+Batch Convert
+
+Organize
+
+Merge
+
+Merge
+
+Daily download limit
+
+Split
+
+Split
+
+Daily download limit
+
+Rotate Pages
+
+Rotate Pages
+
+Daily download limit
+
+Delete Pages
+
+Delete Pages
+
+Daily download limit
+
+Extract Pages
+
+Extract Pages
+
+Daily download limit
+
+Show Pages (Merge)
+
+Show Pages (Merge)
+
+View & Edit
+
+Edit Text
+
+Edit Text
+
+PDF Annotator
+
+PDF Annotator
+
+Daily download limit
+
+PDF Reader
+
+PDF Reader
+
+Daily download limit
+
+Number Pages
+
+Number Pages
+
+Daily download limit
+
+Crop
+
+Crop
+
+Daily download limit
+
+Redact
+
+Redact
+
+Daily download limit
+
+Watermark
+
+Watermark
+
+Daily download limit
+
+Share
+
+Share
+
+Free with an account
+
+Sign (Smallpdf)
+
+Sign
+
+Sign
+
+Daily download limit
+
+AI-Powered Tools
+
+Chat with PDF
+
+Chat with PDF
+
+Limited
+
+AI PDF Summarizer
+
+AI PDF Summarizer
+
+Limited
+
+Translate PDF
+
+Translate PDF
+
+Limited
+
+AI Question Generator
+
+AI Question Generator
+
+Limited
+
+AI-tool file size limit
+
+AI-tool file size limit
+
+50 MB
+
+50 MB
+
+50 MB
+
+50 MB
+
+AI-tool document word limit
+
+AI-tool document word limit
+
+25–35k
+
+100k
+
+100k
+
+100k
+
+Secure
+
+Protect
+
+Protect
+
+Daily download limit
+
+Unlock
+
+Unlock
+
+Daily download limit
+
+Flatten
+
+Flatten
+
+Daily download limit
+
+Additional Features
+
+Smallpdf Mobile App access
+
+Smallpdf Mobile App access
+
+Daily task limit
+
+Scan (mobile app)
+
+Scan (mobile app)
+
+Daily task limit
+
+Cloud storage
+
+Cloud storage
+
+File size limit
+
+File size limit
+
+Limited
+
+Unlimited
+
+Unlimited
+
+Unlimited
+
+Priority customer support
+
+Priority customer support
+
+Dedicated customer support
+
+Dedicated customer support
+
+Centralized billing
+
+Centralized billing
+
+Flexible payment options
+
+Flexible payment options
+
+Custom pricing
+
+Custom pricing
+
+Team access management
+
+Team access management
+
+Free
+
+Premium
+
+Features
+
+Sign documents
+
+Sign documents
+
+Limited
+
+Unlimited
+
+Request signatures
+
+Request signatures
+
+Limited
+
+Unlimited
+
+Unlimited signees
+
+Unlimited signees
+
+Basic signing
+
+Basic signing
+
+Digital sealing
+
+Digital sealing
+
+Activity timeline
+
+Activity timeline
+
+Templates
+
+Templates
+
+Sign IDs
+
+Sign IDs
+
+Document IDs
+
+Document IDs
+
+Certificate of Completion
+
+Certificate of Completion
+
+Document access codes
+
+Document access codes
+
+Signing on mobile
+
+Signing on mobile
+
+## Certified for Your Security
+
+Smallpdf is ISO/IEC 27001 certified, GDPR, CCPA, and nFADP compliant. Thanks to our TLS encryption technology, your documents are always processed with an added layer of security.
+
+![Image 1](https://s.smallpdf.com/static/cms/f/102628/1040x120/41d098ab9a/safety.svg)
+
+## FAQs
+
+*   ### Can I cancel the free trial easily?
+
+Yes. You can cancel the trial anytime and rest assured we won’t charge you anything. If you cancel the free trial, your account will be automatically downgraded to the free plan when the 7-day period expires. 
+*   ### How can I purchase one of the paid plans?
+
+We accept payments via PayPal, Visa, and Mastercard. You can securely use any of these payment methods to purchase your Smallpdf subscription. 
+*   ### If I sign up today, will I get future product updates?
+
+You will! Customers on our monthly and annual paid plans get access to all new tools and features the moment we ship them. 
+
+## What People Are Saying About Us
+
+[Smallpdf is 20 stars, not just 5. "Have been using Smallpdf for several years. The program is extremely easy to use, well designed, and includes everything needed to work with pdf files. I've contacted support twice and both times they responded within several hours (even on a weekend) with excellent suggestions and follow-up. This company is doing everything right. Don't hesitate to use Smallpdf." ![Image 2](https://s.smallpdf.com/static/cms/f/102628/40x40/f4f418458b/female.svg) Sue USA](https://www.trustpilot.com/reviews/66c3139f491b8fd650aea22d)[Quick and easy way to convert all kinds of digital documents/files "We have been using Smallpdf for a few years and it's a very quick and easy way to convert all kinds of digital documents/files and allows you to do so much more Have had issues an odd time but they always give a prompt response and were keen to resolve it. For the annual cost, I wouldn't have any problem recommending it to others." ![Image 3](https://s.smallpdf.com/static/cms/f/102628/40x40/f4f418458b/female.svg) Pat USA](https://www.trustpilot.com/reviews/670e660320e27683c0a5975c)[Been using Smallpdf since 2017!! "Been using Smallpdf since 2017, never had a single problem! I started using this service to merge and shrink large presentations for my business. Now I use it for personal as well. Consolidated photo albums, and compressed. It's fantastic!" ![Image 4](https://s.smallpdf.com/static/cms/f/102628/40x40/c317ae45d4/male.svg) John Ireland](https://www.trustpilot.com/reviews/66d6ead40e93b772587e3171)

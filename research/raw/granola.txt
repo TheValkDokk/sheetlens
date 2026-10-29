@@ -1,0 +1,442 @@
+SOURCE: https://www.granola.ai/pricing
+
+Title: Pricing plans
+
+URL Source: https://www.granola.ai/pricing
+
+Markdown Content:
+[](https://www.granola.ai/)
+
+Features
+
+[![Image 2: Notepad icon](https://www.granola.ai/nav-icon-notes-rebrand.png) Notepad The AI notepad for people in back-to-back meetings](https://www.granola.ai/)[![Image 3: Chat icon](https://www.granola.ai/nav-icon-chat-rebrand.png) Chat AI chat that already knows what you're working on](https://www.granola.ai/chat)![Image 4: Granola for mobile icon](https://www.granola.ai/nav-icon-ios-rebrand.png)
+
+Granola for mobile
+
+Meeting notes on the go and for your phone calls
+
+[![Image 5: Granola for Apple Watch](https://www.granola.ai/_next/image?url=%2FblogImages%2Fwatchog.jpg&w=1920&q=75) Granola for Apple Watch Learn more →](https://www.granola.ai/blog/granola-for-apple-watch)
+
+[Enterprise](https://www.granola.ai/enterprise)[Pricing](https://www.granola.ai/pricing)[Blog](https://www.granola.ai/blog)[Careers](https://www.granola.ai/jobs)
+
+[Talk to sales](https://www.granola.ai/contact/sales?source=nav)
+
+[Download](https://notes.granola.ai/download)
+
+![Image 6](https://www.granola.ai/_next/image?url=%2FhomepageAssets%2Ffooter%2Ffooter-1.jpg&w=3840&q=75)![Image 7](https://www.granola.ai/_next/image?url=%2FhomepageAssets%2Ffooter%2Ffooter-2.jpg&w=3840&q=75)![Image 8](https://www.granola.ai/_next/image?url=%2FhomepageAssets%2Ffooter%2Ffooter-3.jpg&w=3840&q=75)![Image 9](https://www.granola.ai/_next/image?url=%2FhomepageAssets%2Ffooter%2Ffooter-4.jpg&w=3840&q=75)![Image 10](https://www.granola.ai/_next/image?url=%2FhomepageAssets%2Ffooter%2Ffooter-5.jpg&w=3840&q=75)![Image 11](https://www.granola.ai/_next/image?url=%2FhomepageAssets%2Ffooter%2Ffooter-6.jpg&w=3840&q=75)
+
+# Granola how you wanna
+
+Get the Granola plan that's right for you and your team, so everyone can be on the same page.
+
+## Basic
+
+Great for a free taste of Granola
+
+### $0
+
+per user per month
+
+[Download for Mac](https://notes.granola.ai/download)
+
+*   AI meeting notes
+
+*   See limited meeting history
+
+*   AI chat within and across meetings
+
+*   Shared folders for collaboration
+
+*   Customized note templates
+
+*   Multi-language support
+
+*   Opt out of model training any time
+
+## Business
+
+Great for individuals or small teams
+
+### $14
+
+per user per month
+
+[Download for Mac](https://notes.granola.ai/download)
+
+*   Everything in Basic, plus
+
+*   Unlimited meeting notes and history
+
+*   Access to advanced AI thinking models and features
+
+*   Advanced integrations with Attio, Notion, HubSpot, Affinity, and Zapier
+
+*   Centralized billing & user management
+
+*   MCP integration in all your apps
+
+*   API access
+
+## Enterprise
+
+Great for larger companies
+
+### $35
+
+per user per month
+
+[Sign-up in app](https://notes.granola.ai/download)
+
+[Learn more](https://www.granola.ai/enterprise)
+
+    *   Everything included in Business
+
+    *   Enterprise-grade security & admin controls
+
+    *   Single sign-on (SSO)
+
+    *   Priority support and usage analytics
+
+    *   Org-wide auto-deletion periods
+
+    *   Admin controls for sharing & API access
+
+    *   Opt out of model training for everyone in your team
+
+    *   Org-wide notification that Granola is being used pilot
+
+Granola contributes 1.5% of your subscription to remove CO₂ from the atmosphere through[Stripe Climate](https://stripe.com/climate "Stripe Climate").
+
+> "As we rebuild Brex into an AI-native company, we need tools that move fast without ever compromising accuracy. Granola earned our trust by delivering precise, reliable summaries, and helped strengthen our written culture."
+
+![Image 12: Pedro Franceschi](https://www.granola.ai/testimonialImages/brex-testimonial-avatar.png)
+
+Pedro Franceschi
+Founder and CEO, Brex
+
+[Read the case study](https://www.granola.ai/customers/brex)
+
+## Compare plans
+
+| Features | Basic[Get started](https://www.granola.ai/download) | Business[Get started](https://www.granola.ai/download) | Enterprise[Learn more](https://www.granola.ai/enterprise) |
+| --- | --- | --- | --- |
+| Capture & Notes |
+| AI meeting notes | Included | Included | Included |
+| Bot-free, device-audio capture | Included | Included | Included |
+| Desktop, iOS, Android & Apple Watch apps | Included | Included | Included |
+| Speaker tagging | Included | Included | Included |
+| Customized note templates | Included | Included | Included |
+| Multi-language support | Included | Included | Included |
+| Recipes | Included | Included | Included |
+| Pre-meeting briefs | –Not included | Included | Included |
+| Follow-up emails | –Not included | Included | Included |
+| Workspace-wide dictionary | –Not included | Included | Included |
+| Let people know you’re using Granola | Per user | Per user | Admin-enforceable |
+| History & Search |
+| Meeting history | 30 days | Unlimited | Unlimited |
+| AI chat across meetings | Auto only | Auto + model selection | Auto + model selection |
+| Workspace usage analytics | –Not included | –Not included | Included |
+| Collaboration & Integrations |
+| Shared folders | Included | Included | Included |
+| Integrations with Slack | Included | Included | Included |
+| Integrations (Notion, Zapier, HubSpot & more) | –Not included | Included | Included |
+| Advanced integrations (e.g. Salesforce) | –Not included | –Not included | Included |
+| MCP (Claude, ChatGPT, etc.) | Personal notes from the last 30 days | Personal and public workspace notes | Admin-configurable personal and public workspace notes |
+| API access | –Not included | Included | Included |
+| Admin controls for MCP, API & integrations | –Not included | –Not included | Included |
+| Centralized billing & user management | –Not included | Included | Included |
+| Trust & Control |
+| Configurable transcript retention & auto-deletion | Per user | Per user | Workspace-wide admin policy |
+| Workspace-wide sharing settings | –Not included | –Not included | Included |
+| Model training opt-out | Per user | Per user | Workspace-wide |
+| Audio deleted after transcription | Included | Included | Included |
+| SOC 2 Type II certified | Included | Included | Included |
+| HIPAA-compliant workspaces | –Not included | –Not included | Included |
+| DPA available | Included | Included | Included |
+| Single sign-on (SSO) | –Not included | –Not included | Included |
+| SCIM group provisioning | –Not included | –Not included | Included |
+| MDM/Intune app wrapping (iOS) | –Not included | –Not included | Included |
+| Audit API | –Not included | –Not included | Included |
+| Support |
+| Join Labs (early access) | Included | Included | Included |
+| Support level | Standard | Standard | Dedicated |
+
+## Things worth noting
+
+What's the difference between Enterprise and Business?
+
+What admin controls will I have?
+
+What are your integration capabilities?
+
+Do you train any models on my data?
+
+Is Granola SOC 2 / HIPAA compliant?
+
+Does Granola have SSO?
+
+What SSO providers do you support?
+
+How do you notify other participants that Granola is being used?
+
+## Resources
+
+### [Security How we secure your data & privacy](https://www.granola.ai/security)### [Policies Everything you need to know our terms](https://www.granola.ai/policies)### [Other FAQs All other questions you may have](https://docs.granola.ai/help-center)
+
+## What people are saying about Granola
+
+[![Image 13: Nat Friedman](https://pbs.twimg.com/profile_images/1677873294/image_normal.jpg)](https://x.com/natfriedman/status/1803788840781365393)
+
+[Nat Friedman](https://x.com/natfriedman/status/1803788840781365393)
+
+[@natfriedman](https://x.com/natfriedman/status/1803788840781365393)
+
+·[Follow](https://x.com/intent/follow?screen_name=natfriedman)
+
+[](https://x.com/natfriedman/status/1803788840781365393)
+
+Been using [granola.so](http://granola.so/) a bit lately; it generates the best meeting notes of anything I've tried so far. Not sure how they did that.
+
+[1:55 PM · Jun 20, 2024](https://x.com/natfriedman/status/1803788840781365393)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[554](https://x.com/intent/like?tweet_id=1803788840781365393)[Reply](https://x.com/intent/tweet?in_reply_to=1803788840781365393)Copy link
+
+[Read 23 replies](https://x.com/natfriedman/status/1803788840781365393)
+
+[![Image 14: Soleio](https://pbs.twimg.com/profile_images/1786076507330195456/6HobRr_a_normal.jpg)](https://x.com/soleio/status/1821541029692035469)
+
+[Soleio](https://x.com/soleio/status/1821541029692035469)
+
+[@soleio](https://x.com/soleio/status/1821541029692035469)
+
+·[Follow](https://x.com/intent/follow?screen_name=soleio)
+
+[](https://x.com/soleio/status/1821541029692035469)
+
+I get uncharacteristically excited about group Zoom meetings now Why? Because the payoff is seeing [@meetgranola](https://x.com/meetgranola) really work its magic and generate incredible meeting notes seconds after we adjourn
+
+[1:36 PM · Aug 8, 2024](https://x.com/soleio/status/1821541029692035469)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[44](https://x.com/intent/like?tweet_id=1821541029692035469)[Reply](https://x.com/intent/tweet?in_reply_to=1821541029692035469)Copy link
+
+[Read 3 replies](https://x.com/soleio/status/1821541029692035469)
+
+[![Image 15: Chris Pedregal](https://pbs.twimg.com/profile_images/1941840628104445952/amb1uxo8_normal.jpg)](https://x.com/cjpedregal/status/1801258080430129384)
+
+[Chris Pedregal](https://x.com/cjpedregal/status/1801258080430129384)
+
+[@cjpedregal](https://x.com/cjpedregal/status/1801258080430129384)
+
+·[Follow](https://x.com/intent/follow?screen_name=cjpedregal)
+
+[](https://x.com/cjpedregal/status/1801258080430129384)
+
+Time magazine selected [@meetgranola](https://x.com/meetgranola) as one of the best AI tools for note-taking! [time.com/charter/698752…](https://time.com/charter/6987522/the-best-ai-note-taking-tools-for-meetings/)
+
+[2:19 PM · Jun 13, 2024](https://x.com/cjpedregal/status/1801258080430129384)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[54](https://x.com/intent/like?tweet_id=1801258080430129384)[Reply](https://x.com/intent/tweet?in_reply_to=1801258080430129384)Copy link
+
+[Read 4 replies](https://x.com/cjpedregal/status/1801258080430129384)
+
+[![Image 16: Guillermo Rauch](https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_normal.jpg)](https://x.com/rauchg/status/1793366911914508653)
+
+[Guillermo Rauch](https://x.com/rauchg/status/1793366911914508653)
+
+[@rauchg](https://x.com/rauchg/status/1793366911914508653)
+
+·[Follow](https://x.com/intent/follow?screen_name=rauchg)
+
+[](https://x.com/rauchg/status/1793366911914508653)
+
+Write bare notes → ai enhances them Very clever ai-native ux: [granola.so](http://granola.so/)
+
+[Video 2](https://video.twimg.com/ext_tw_video/1793365869579620353/pu/vid/avc1/778x360/URRIgHzOy6xdjG8V.mp4?tag=12)
+
+[Watch on X](https://x.com/rauchg/status/1793366911914508653)
+
+[7:42 PM · May 22, 2024](https://x.com/rauchg/status/1793366911914508653)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[311](https://x.com/intent/like?tweet_id=1793366911914508653)[Reply](https://x.com/intent/tweet?in_reply_to=1793366911914508653)Copy link
+
+[Read 9 replies](https://x.com/rauchg/status/1793366911914508653)
+
+[![Image 17: Dan Shipper](https://pbs.twimg.com/profile_images/1946219091305340928/_Ef-eDlc_normal.jpg)](https://x.com/danshipper/status/1797735814023319871)
+
+[Dan Shipper](https://x.com/danshipper/status/1797735814023319871)
+
+[@danshipper](https://x.com/danshipper/status/1797735814023319871)
+
+·[Follow](https://x.com/intent/follow?screen_name=danshipper)
+
+[](https://x.com/danshipper/status/1797735814023319871)
+
+If you aren’t using [@meetgranola](https://x.com/meetgranola) for your meetings you are seriously missing out. Incredible product.
+
+[9:03 PM · Jun 3, 2024](https://x.com/danshipper/status/1797735814023319871)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[37](https://x.com/intent/like?tweet_id=1797735814023319871)[Reply](https://x.com/intent/tweet?in_reply_to=1797735814023319871)Copy link
+
+[Read 4 replies](https://x.com/danshipper/status/1797735814023319871)
+
+[![Image 18: MDS](https://pbs.twimg.com/profile_images/2021618984328851456/OS1KXJNS_normal.jpg)](https://x.com/mds/status/1836821285764223251)
+
+[MDS](https://x.com/mds/status/1836821285764223251)
+
+[@mds](https://x.com/mds/status/1836821285764223251)
+
+·[Follow](https://x.com/intent/follow?screen_name=mds)
+
+[](https://x.com/mds/status/1836821285764223251)
+
+I love Granola (the AI note taking app)
+
+[5:34 PM · Sep 19, 2024](https://x.com/mds/status/1836821285764223251)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[24](https://x.com/intent/like?tweet_id=1836821285764223251)[Reply](https://x.com/intent/tweet?in_reply_to=1836821285764223251)Copy link
+
+[Read 7 replies](https://x.com/mds/status/1836821285764223251)
+
+[![Image 19: Nat Friedman](https://pbs.twimg.com/profile_images/1677873294/image_normal.jpg)](https://x.com/natfriedman/status/1803788840781365393)
+
+[Nat Friedman](https://x.com/natfriedman/status/1803788840781365393)
+
+[@natfriedman](https://x.com/natfriedman/status/1803788840781365393)
+
+·[Follow](https://x.com/intent/follow?screen_name=natfriedman)
+
+[](https://x.com/natfriedman/status/1803788840781365393)
+
+Been using [granola.so](http://granola.so/) a bit lately; it generates the best meeting notes of anything I've tried so far. Not sure how they did that.
+
+[1:55 PM · Jun 20, 2024](https://x.com/natfriedman/status/1803788840781365393)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[554](https://x.com/intent/like?tweet_id=1803788840781365393)[Reply](https://x.com/intent/tweet?in_reply_to=1803788840781365393)Copy link
+
+[Read 23 replies](https://x.com/natfriedman/status/1803788840781365393)
+
+[![Image 20: Soleio](https://pbs.twimg.com/profile_images/1786076507330195456/6HobRr_a_normal.jpg)](https://x.com/soleio/status/1821541029692035469)
+
+[Soleio](https://x.com/soleio/status/1821541029692035469)
+
+[@soleio](https://x.com/soleio/status/1821541029692035469)
+
+·[Follow](https://x.com/intent/follow?screen_name=soleio)
+
+[](https://x.com/soleio/status/1821541029692035469)
+
+I get uncharacteristically excited about group Zoom meetings now Why? Because the payoff is seeing [@meetgranola](https://x.com/meetgranola) really work its magic and generate incredible meeting notes seconds after we adjourn
+
+[1:36 PM · Aug 8, 2024](https://x.com/soleio/status/1821541029692035469)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[44](https://x.com/intent/like?tweet_id=1821541029692035469)[Reply](https://x.com/intent/tweet?in_reply_to=1821541029692035469)Copy link
+
+[Read 3 replies](https://x.com/soleio/status/1821541029692035469)
+
+[![Image 21: Chris Pedregal](https://pbs.twimg.com/profile_images/1941840628104445952/amb1uxo8_normal.jpg)](https://x.com/cjpedregal/status/1801258080430129384)
+
+[Chris Pedregal](https://x.com/cjpedregal/status/1801258080430129384)
+
+[@cjpedregal](https://x.com/cjpedregal/status/1801258080430129384)
+
+·[Follow](https://x.com/intent/follow?screen_name=cjpedregal)
+
+[](https://x.com/cjpedregal/status/1801258080430129384)
+
+Time magazine selected [@meetgranola](https://x.com/meetgranola) as one of the best AI tools for note-taking! [time.com/charter/698752…](https://time.com/charter/6987522/the-best-ai-note-taking-tools-for-meetings/)
+
+[2:19 PM · Jun 13, 2024](https://x.com/cjpedregal/status/1801258080430129384)[](https://help.x.com/en/x-for-websites-ads-info-and-privacy)
+
+[54](https://x.com/intent/like?tweet_id=1801258080430129384)[Reply](https://x.com/intent/tweet?in_reply_to=1801258080430129384)Copy link
+
+[Read 4 replies](https://x.com/cjpedregal/status/1801258080430129384)
+
+## Helping the world's best product teams focus more on their meetings
+
+![Image 22](https://www.granola.ai/customerLogos/posthog.svg)
+
+![Image 23](https://www.granola.ai/customerLogos/intercom.svg)
+
+![Image 24](https://www.granola.ai/customerLogos/linear.svg)
+
+![Image 25](https://www.granola.ai/customerLogos/index.svg)
+
+![Image 26](https://www.granola.ai/customerLogos/brex.svg)
+
+![Image 27](https://www.granola.ai/customerLogos/replit.svg)
+
+![Image 28](https://www.granola.ai/customerLogos/lovable.svg)
+
+![Image 29](https://www.granola.ai/customerLogos/posthog.svg)
+
+![Image 30](https://www.granola.ai/customerLogos/intercom.svg)
+
+![Image 31](https://www.granola.ai/customerLogos/linear.svg)
+
+![Image 32](https://www.granola.ai/customerLogos/index.svg)
+
+![Image 33](https://www.granola.ai/customerLogos/brex.svg)
+
+![Image 34](https://www.granola.ai/customerLogos/replit.svg)
+
+![Image 35](https://www.granola.ai/customerLogos/lovable.svg)
+
+![Image 36](https://www.granola.ai/customerLogos/posthog.svg)
+
+![Image 37](https://www.granola.ai/customerLogos/intercom.svg)
+
+![Image 38](https://www.granola.ai/customerLogos/linear.svg)
+
+![Image 39](https://www.granola.ai/customerLogos/index.svg)
+
+![Image 40](https://www.granola.ai/customerLogos/brex.svg)
+
+![Image 41](https://www.granola.ai/customerLogos/replit.svg)
+
+![Image 42](https://www.granola.ai/customerLogos/lovable.svg)
+
+![Image 43](https://www.granola.ai/customerLogos/posthog.svg)
+
+![Image 44](https://www.granola.ai/customerLogos/intercom.svg)
+
+![Image 45](https://www.granola.ai/customerLogos/linear.svg)
+
+![Image 46](https://www.granola.ai/customerLogos/index.svg)
+
+![Image 47](https://www.granola.ai/customerLogos/brex.svg)
+
+![Image 48](https://www.granola.ai/customerLogos/replit.svg)
+
+![Image 49](https://www.granola.ai/customerLogos/lovable.svg)
+
+## Ready for calmer![Image 50](https://www.granola.ai/handwriting/handwriting-calmer.svg), more productive meetings?
+
+Try Granola for a few meetings today. It's free to get started.
+
+[Download for Mac](https://notes.granola.ai/download)
+
+Download for Mobile
+
+Features
+
+[Notepad](https://www.granola.ai/)[Chat](https://www.granola.ai/chat)Mobile
+
+Product
+
+[Pricing](https://www.granola.ai/pricing)[Enterprise](https://www.granola.ai/enterprise)[Integrations](https://www.granola.ai/integrations)[AI notepad vs notetaker](https://www.granola.ai/ai-note-taker)[AI meeting assistant](https://www.granola.ai/ai-meeting-assistant)[For sales](https://www.granola.ai/use-cases/sales)[For product management](https://www.granola.ai/use-cases/product)[MCP](https://www.granola.ai/mcp)[Explore more…](https://www.granola.ai/explore)
+
+Company
+
+[Customers](https://www.granola.ai/customers)[Careers](https://www.granola.ai/jobs)[Press](https://grano.la/press)[Events](https://www.granola.ai/events)[Startup program](https://www.granola.ai/startups)[Student program](https://www.granola.ai/students)[Nonprofit program](https://www.granola.ai/nonprofits)
+
+Resources
+
+[Blog](https://www.granola.ai/blog)[Security](https://www.granola.ai/security)[Transparency](https://www.granola.ai/transparency)[Help Center](https://docs.granola.ai/help-center)[Status](https://status.granola.ai/)[Affiliates](https://partners.dub.co/granola?utm_source=website&utm_medium=Footer&utm_campaign=Affiliates)[Contact us](https://www.granola.ai/contact)[Terms](https://www.granola.ai/policies)[Privacy](https://go.granola.so/privacy)[License](https://www.granola.ai/third-party-licenses)
+
+[](https://www.linkedin.com/company/meetgranola)[](https://twitter.com/meetgranola)[](https://www.youtube.com/@meetgranola)
+
+© Granola, Inc. 2026
+
+Made with ♥ in Shoreditch
+
+![Image 52](https://bat.bing.net/action/0?ti=187269572&tm=gtm002&Ver=2&mid=f1e11676-725a-4b20-be8e-4dc0c90fb975&bo=2&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Pricing%20plans%20%7C%20Granola&p=https%3A%2F%2Fwww.granola.ai%2Fpricing&r=&lt=795&evt=pageLoad&sv=2&asc=D&cdb=AQAQ&rn=888360)

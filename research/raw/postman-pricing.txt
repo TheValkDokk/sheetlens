@@ -1,0 +1,667 @@
+SOURCE: https://postman.com/pricing
+MODE: reader
+
+Title: Plans & Pricing | Postman API Platform
+
+URL Source: https://postman.com/pricing
+
+Published Time: Wed, 28 Oct 2026 23:30:53 GMT
+
+Markdown Content:
+Powering the world's leading API teams
+
+![Image 1: PayPal logo](https://voyager.postman.com/logo/external/paypal-logo.svg)
+
+![Image 2: Moneris logo](https://voyager.postman.com/logo/external/moneris-logo-black.svg)
+
+![Image 3: Autodesk logo](https://voyager.postman.com/logo/external/autodesk-logo.svg)
+
+![Image 4: Cover Genius logo](https://voyager.postman.com/logo/external/cover-genius-logo.svg)
+
+![Image 5: Siemens logo](https://voyager.postman.com/logo/external/siemens-logo-blue.svg)
+
+![Image 6: ZEISS logo](https://voyager.postman.com/logo/external/zeiss-logo.svg)
+
+![Image 7: PayPal logo](https://voyager.postman.com/logo/external/paypal-logo.svg)
+
+![Image 8: Moneris logo](https://voyager.postman.com/logo/external/moneris-logo-black.svg)
+
+![Image 9: Autodesk logo](https://voyager.postman.com/logo/external/autodesk-logo.svg)
+
+![Image 10: Cover Genius logo](https://voyager.postman.com/logo/external/cover-genius-logo.svg)
+
+![Image 11: Siemens logo](https://voyager.postman.com/logo/external/siemens-logo-blue.svg)
+
+![Image 12: ZEISS logo](https://voyager.postman.com/logo/external/zeiss-logo.svg)
+
+## Comparison Table
+
+| ### Features | ### Free $0 [Get Started](https://identity.getpostman.com/signup) | ### Solo $9 per month (billed annually) [Get Started](https://www.postman.com/buy?plan=solo&interval=annually) | ### Team $19 per user/month (billed annually) [Get Started](https://www.postman.com/buy?plan=team&interval=annually) [Buy with AWS](https://www.postman.com/buy?plan=team&interval=annually&market_place=true) | ### Enterprise Contact sales for pricing [Contact Sales](https://postman.com/company/contact-sales/) |
+| --- | --- | --- | --- | --- |
+|  |
+| ![Image 13: Postman AI icon](https://voyager.postman.com/icon/postman-ai-small-icon.svg) Postman AI |  |  |  |  |
+| | [Postman AI credits](https://learning.postman.com/docs/billing/agent-mode-usage/) ![Image 14: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 50 / month | 400 / month | 400 / user / month | 800 / user / month (pooled) | | --- | | [Postman AI overages (Pay-as-you-go)](https://postman.com/pricing#ai-credits-pay-as-you-go) ![Image 15: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 16: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | $0.05 / credit | $0.04 / credit | $0.035 / credit (volume pricing available) | | [Context Graph ingestion & refresh](https://learning.postman.com/docs/context-graph/get-started/) ![Image 17: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | Free, 24 hr refresh | Free, 24 hr refresh | Free, 24 hr refresh | Free, 24 hr refresh | | [Context Graph API queries](https://learning.postman.com/docs/context-graph/get-started/) ![Image 18: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 1,000 / month, then $0.01 / query | 5,000 / month, then $0.01 / query | 5,000 / month, then $0.01 / query | 5,000 / month, then $0.01 / query | |
+| ![Image 19: Development icon](https://voyager.postman.com/icon/code-generator.svg) Development |  |  |  |  |
+| | [Multi-protocol API client](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/) ![Image 20: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 21: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 22: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 23: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 24: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | --- | | [MCP Client (Model Context Protocol)](https://learning.postman.com/latest-v-12/docs/postman-api-network/explore/find/browse#mcp-servers) ![Image 25: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 26: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 27: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 28: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 29: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Collections and environments](https://learning.postman.com/docs/collections/collections-overview/) ![Image 30: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 31: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 32: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 33: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 34: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Reusable requests](https://learning.postman.com/docs/sending-requests/variables/variables/#understanding-variables) ![Image 35: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 36: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 37: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 38: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 39: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Collection generation & sync](https://learning.postman.com/docs/design-apis/specifications/generate-collections/) ![Image 40: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 41: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 42: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 43: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 44: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Specs](https://learning.postman.com/docs/design-apis/specifications/overview/) ![Image 45: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 46: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 47: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 48: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 49: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [API versioning](https://learning.postman.com/docs/collaborating-in-postman/using-version-control/version-control-overview/) ![Image 50: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 51: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 52: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 53: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 54: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Native Git](https://learning.postman.com/docs/agent-mode/native-git) ![Image 55: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 56: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 57: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 58: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 59: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Test data storage](https://learning.postman.com/docs/sending-requests/create-requests/test-data/#about-test-data-storage) ![Image 60: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 61: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 62: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 63: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 64: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [IDE extension (VS Code)](https://learning.postman.com/docs/developer/vs-code-extension/overview/) ![Image 65: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 66: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 67: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 68: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 69: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Mock Servers](https://learning.postman.com/docs/design-apis/mock-apis/overview) ![Image 70: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 71: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 72: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 73: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 74: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Unlimited manual Flows](https://learning.postman.com/docs/postman-flows/overview) ![Image 75: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 76: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 77: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 78: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 79: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Postman CLI](https://learning.postman.com/docs/postman-cli/postman-cli-overview/#comparing-the-postman-cli-and-newman) ![Image 80: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 81: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 82: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 83: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 84: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Webhooks](https://learning.postman.com/latest-v-12/docs/use/send-requests/protocols/webhooks) ![Image 85: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 86: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 87: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 88: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 89: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Commenting & annotations](https://learning.postman.com/docs/collaborating-in-postman/working-with-your-team/discussing-your-work/) ![Image 90: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 91: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 92: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 93: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 94: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Public NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/) ![Image 95: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 96: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 97: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 98: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 99: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Private NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/) ![Image 100: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 101: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 102: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 103: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 104: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | |
+| ![Image 105: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg) Testing |  |  |  |  |
+| | [Automated API testing (Unlimited, Collection Runner)](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/) ![Image 106: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 107: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 108: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 109: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 110: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | --- | | [Multi-protocol Runner](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/) ![Image 111: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 112: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 113: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 114: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 115: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Data file support in Collection Runner](https://learning.postman.com/docs/collections/running-collections/working-with-data-files/) ![Image 116: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 117: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 118: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 119: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 120: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Datasets](https://learning.postman.com/docs/tests-and-scripts/datasets/use-datasets) ![Image 121: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 122: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 123: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 124: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 125: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Unlimited local performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/) ![Image 126: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 127: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 128: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 129: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 130: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Cloud performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/) ![Image 131: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 132: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | $0.04 / VuH | $0.04 / VuH | $0.04 / VuH | | Playwright integration ![Image 133: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 134: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 135: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 136: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 137: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Test result exports](https://learning.postman.com/docs/getting-started/importing-and-exporting/exporting-data) ![Image 138: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 139: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 140: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 141: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 142: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Automation Flows](https://learning.postman.com/docs/postman-flows/tutorials/advanced/automate-repetitive-tasks) ![Image 143: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 25 credits / month | 50 credits / month | 100 credits / team / month | 500 credits / team / month | |
+| ![Image 144: Production icon](https://voyager.postman.com/icon/incident-management-icon-postman.svg) Production |  |  |  |  |
+| | [API monitoring (per team, per month)](https://learning.postman.com/docs/monitoring-your-api/intro-monitors/) ![Image 145: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 1,000 requests | 10,000 requests | 10,000 requests | 10,000 requests | | --- | | [Monitor reports](https://learning.postman.com/latest-v-12/docs/monitoring-your-api/monitor-reports/overview) ![Image 146: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 147: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 148: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 149: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | Enterprise support & approval workflows | | [Insights (production visibility)](https://learning.postman.com/docs/insights/overview/) ![Image 150: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 151: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 152: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 153: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 154: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [API Catalog (system of record)](https://learning.postman.com/docs/api-catalog/overview/) ![Image 155: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 156: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 157: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 158: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 159: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Private runners (tests & Flows)](https://learning.postman.com/docs/monitoring-your-api/runners/overview) ![Image 160: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 161: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 162: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 163: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 164: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | |
+| ![Image 165: Distribution icon](https://voyager.postman.com/icon/api-network.svg) Distribution |  |  |  |  |
+| | [Public workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/public-workspaces) ![Image 166: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 167: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 168: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 169: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 170: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | --- | | [Public API Network](https://learning.postman.com/docs/collaborating-in-postman/public-api-network/public-api-network-overview/) ![Image 171: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 172: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 173: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 174: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 175: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [API documentation (public & private)](https://learning.postman.com/docs/publishing-your-api/publishing-your-docs/#make-your-documentation-public) ![Image 176: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | Postman branded | Custom branded | Custom branded | Custom branded | | [Custom domains (unlimited)](https://learning.postman.com/docs/publishing-your-api/custom-doc-domains/) ![Image 177: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 178: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 179: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 180: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 181: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Postman Shared Vault](https://learning.postman.com/docs/sending-requests/postman-vault/postman-vault-secrets/) ![Image 182: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 183: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 184: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 185: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 186: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Shared package library](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/) ![Image 187: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 188: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 189: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 190: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 191: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Workspace & collection viewers](https://learning.postman.com/docs/collaborating-in-postman/sharing/#allowing-external-users-to-view-collections/) ![Image 192: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 193: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 194: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Unlimited | Unlimited | | [Private API Network](https://learning.postman.com/docs/collaborating-in-postman/private-api-network/overview/) ![Image 195: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 196: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 197: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 198: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 199: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | |
+| ![Image 200: API Management icon](https://voyager.postman.com/icon/postman-api-icon.svg) API Management |  |  |  |  |
+| | [Total users included](https://learning.postman.com/docs/administration/managing-your-team/team-members/scale-team/) ![Image 201: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 1 user | 1 user | Unlimited | Unlimited | | --- | | [Integrations](https://www.postman.com/product/integrations/) ![Image 202: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | Up to 5 | Up to 10 | Up to 50 | Up to 100 | | [Calls to Postman API (monthly)](https://learning.postman.com/docs/billing/resource-usage/#postman-api-usage) ![Image 203: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 10,000 | 100,000 | 1 million | 10 million | | [Collection recovery](https://learning.postman.com/docs/collections/use-collections/manage-collections/#recover-a-deleted-collection) ![Image 204: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | 1 day | 30 days | 90 days | 90 days | | [Postman Local Vault](https://learning.postman.com/docs/sending-requests/postman-vault/postman-vault-secrets/) ![Image 205: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 206: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 207: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 208: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 209: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Secret Scanner - Local Secret Protection](https://learning.postman.com/docs/administration/managing-your-team/secret-scanner/overview/) ![Image 210: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 211: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 212: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 213: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 214: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Secret Scanner - Cloud Secret Detection](https://learning.postman.com/docs/administration/managing-your-team/secret-scanner/overview/) ![Image 215: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 216: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 217: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 218: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 219: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Role-based access control (RBAC)](https://learning.postman.com/docs/administration/security/team-security/) ![Image 220: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 221: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 222: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Basic | Advanced | | [Simple Security - SSO / SAML](https://learning.postman.com/docs/administration/sso/intro-sso/) ![Image 223: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 224: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 225: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Simple Security add-on | ![Image 226: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [User provisioning (SCIM)](https://learning.postman.com/docs/administration/scim-provisioning/scim-provisioning-overview/) ![Image 227: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 228: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 229: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 230: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 231: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [User groups](https://learning.postman.com/docs/administration/managing-your-team/user-groups/) ![Image 232: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 233: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 234: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 235: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 236: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Organizations](https://learning.postman.com/docs/administration/managing-your-team/create-org/) ![Image 237: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 238: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 239: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 240: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 241: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Internal workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/create-workspaces/) ![Image 242: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 243: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 244: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 245: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 246: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Private workspaces (invite only)](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/create-workspaces/) ![Image 247: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 248: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 249: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 250: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 251: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [External workspaces (Partner & multi-Partner)](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/partner-workspaces/overview/) ![Image 252: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 253: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 254: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 255: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 256: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Workspace archival](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/internal-workspaces/manage-workspaces/) ![Image 257: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 258: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 259: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 260: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 261: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Audit logs & compliance reporting](https://learning.postman.com/docs/administration/audit-logs/) ![Image 262: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 263: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 264: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 265: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 266: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Deployment control](https://learning.postman.com/docs/administration/managing-enterprise-deployment/#deploying-the-postman-enterprise-app/) ![Image 267: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 268: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 269: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 270: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 271: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [API & package library governance](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/) | ![Image 272: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 273: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 274: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 275: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [AI input guardrails](https://learning.postman.com/docs/postman-ai/agent-mode/enterprise) ![Image 276: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 277: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 278: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 279: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 280: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Data residency (EU-only)](https://learning.postman.com/docs/administration/enterprise/about-eu-data-residency/) ![Image 281: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 282: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 283: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 284: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 285: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Domain Verification](https://learning.postman.com/docs/administration/domain-verification-and-capture/add-and-verify-a-domain/) ![Image 286: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 287: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 288: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 289: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 290: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Domain Capture](https://learning.postman.com/docs/administration/domain-verification-and-capture/enable-domain-capture) ![Image 291: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 292: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 293: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 294: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Advanced Security add-on | | [Postman Vault integrations](https://learning.postman.com/docs/use/postman-vault/postman-vault-secrets/#integrate-with-external-vaults) ![Image 295: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 296: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 297: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 298: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Advanced Security add-on | | [Advanced secret security controls](https://learning.postman.com/docs/administration/secret-scanner/) ![Image 299: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 300: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 301: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 302: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Advanced Security add-on | | Account Discovery ![Image 303: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 304: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 305: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 306: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Advanced Security add-on | | Account Control ![Image 307: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 308: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 309: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 310: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Advanced Security add-on | |
+| ![Image 311: Manage roles icon](https://voyager.postman.com/icon/auto-triage-route-support-tickets-icon.svg) Manage roles |  |  |  |  |
+| Team-level roles | Admin, billing, developer ![Image 312: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 313: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 314: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 315: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 316: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | --- | | Community Manager ![Image 317: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 318: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 319: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 320: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 321: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Partner (External) ![Image 322: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 323: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 324: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 325: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 326: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Partner Manager ![Image 327: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 328: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 329: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 330: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 331: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | API Governance Manager ![Image 332: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 333: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 334: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 335: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 336: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | API Network Manager ![Image 337: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 338: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 339: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 340: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 341: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | [Super Admin Role](https://learning.postman.com/docs/administration/managing-your-team/team-members/manage-roles/) ![Image 342: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 343: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 344: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 345: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 346: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | Workspace-level roles | Workspace Admin ![Image 347: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 348: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 349: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 350: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 351: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | --- | | Workspace Editor / Viewer ![Image 352: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 353: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 354: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 355: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 356: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Partner Viewer ![Image 357: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 358: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 359: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 360: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 361: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | Element-level roles | [Guest Access (collection viewer)](https://learning.postman.com/docs/collaborating-in-postman/sharing/#allowing-external-users-to-view-collections) ![Image 362: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 363: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 364: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 365: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 366: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | --- | | Collection Editor ![Image 367: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 368: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 369: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 370: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 371: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | API Admin, Editor, Viewer ![Image 372: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 373: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 374: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 375: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 376: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Environment Editor ![Image 377: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 378: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 379: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 380: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 381: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Environment Viewer ![Image 382: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 383: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 384: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 385: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 386: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Mock Server Editor ![Image 387: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 388: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 389: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 390: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 391: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Mock Server Viewer ![Image 392: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 393: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 394: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 395: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 396: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Monitor Editor ![Image 397: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 398: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 399: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 400: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 401: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | Monitor Viewer ![Image 402: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 403: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 404: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 405: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | ![Image 406: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | | API Network Folder Manager ![Image 407: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 408: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 409: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 410: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 411: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | |
+| ![Image 412: Support and Legal icon](https://voyager.postman.com/icon/domain-capture-icon-postman.svg) Support and Legal |  |  |  |  |
+| | [Support](https://support.postman.com/hc/en-us) | Community & Email | Community & Email | Community & Email | 24x5 support (24h SLA) | | --- | | Premium Support ![Image 413: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 414: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 415: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 416: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | Premium Support add-on | | [Custom terms of service](https://www.postman.com/legal/terms/) ![Image 417: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg) | ![Image 418: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 419: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 420: Unavailable](https://voyager.postman.com/icon/x-icon-red.svg) | ![Image 421: Available](https://voyager.postman.com/icon/checkbox-outline-green-updated.svg) | |
+
+![Image 422: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Postman AI
+[Postman AI credits](https://learning.postman.com/docs/billing/agent-mode-usage/)
+
+![Image 423: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)50 / month
+[Postman AI overages (Pay-as-you-go)](https://postman.com/pricing#ai-credits-pay-as-you-go)
+
+![Image 424: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 425: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Context Graph ingestion & refresh](https://learning.postman.com/docs/context-graph/get-started/)
+
+![Image 426: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Free, 24 hr refresh
+[Context Graph API queries](https://learning.postman.com/docs/context-graph/get-started/)
+
+![Image 427: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)1,000 / month, then $0.01 / query
+![Image 428: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Development
+[Multi-protocol API client](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+
+![Image 429: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 430: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[MCP Client (Model Context Protocol)](https://learning.postman.com/latest-v-12/docs/postman-api-network/explore/find/browse#mcp-servers)
+
+![Image 431: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 432: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Collections and environments](https://learning.postman.com/docs/collections/collections-overview/)
+
+![Image 433: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 434: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Reusable requests](https://learning.postman.com/docs/sending-requests/variables/variables/#understanding-variables)
+
+![Image 435: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 436: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Collection generation & sync](https://learning.postman.com/docs/design-apis/specifications/generate-collections/)
+
+![Image 437: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 438: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Specs](https://learning.postman.com/docs/design-apis/specifications/overview/)
+
+![Image 439: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 440: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[API versioning](https://learning.postman.com/docs/collaborating-in-postman/using-version-control/version-control-overview/)
+
+![Image 441: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 442: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Native Git](https://learning.postman.com/docs/agent-mode/native-git)
+
+![Image 443: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 444: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Test data storage](https://learning.postman.com/docs/sending-requests/create-requests/test-data/#about-test-data-storage)
+
+![Image 445: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 446: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[IDE extension (VS Code)](https://learning.postman.com/docs/developer/vs-code-extension/overview/)
+
+![Image 447: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 448: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Mock Servers](https://learning.postman.com/docs/design-apis/mock-apis/overview)
+
+![Image 449: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 450: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Unlimited manual Flows](https://learning.postman.com/docs/postman-flows/overview)
+
+![Image 451: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 452: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Postman CLI](https://learning.postman.com/docs/postman-cli/postman-cli-overview/#comparing-the-postman-cli-and-newman)
+
+![Image 453: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 454: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Webhooks](https://learning.postman.com/latest-v-12/docs/use/send-requests/protocols/webhooks)
+
+![Image 455: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 456: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Commenting & annotations](https://learning.postman.com/docs/collaborating-in-postman/working-with-your-team/discussing-your-work/)
+
+![Image 457: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 458: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Public NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 459: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 460: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Private NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 461: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 462: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 463: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Testing
+[Automated API testing (Unlimited, Collection Runner)](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)
+
+![Image 464: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 465: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Multi-protocol Runner](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+
+![Image 466: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 467: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Data file support in Collection Runner](https://learning.postman.com/docs/collections/running-collections/working-with-data-files/)
+
+![Image 468: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 469: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Datasets](https://learning.postman.com/docs/tests-and-scripts/datasets/use-datasets)
+
+![Image 470: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 471: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Unlimited local performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/)
+
+![Image 472: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 473: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Cloud performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/)
+
+![Image 474: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 475: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+Playwright integration
+
+![Image 476: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 477: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Test result exports](https://learning.postman.com/docs/getting-started/importing-and-exporting/exporting-data)
+
+![Image 478: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 479: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Automation Flows](https://learning.postman.com/docs/postman-flows/tutorials/advanced/automate-repetitive-tasks)
+
+![Image 480: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)25 credits / month
+![Image 481: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Production
+[API monitoring (per team, per month)](https://learning.postman.com/docs/monitoring-your-api/intro-monitors/)
+
+![Image 482: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)1,000 requests
+[Monitor reports](https://learning.postman.com/latest-v-12/docs/monitoring-your-api/monitor-reports/overview)
+
+![Image 483: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 484: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Insights (production visibility)](https://learning.postman.com/docs/insights/overview/)
+
+![Image 485: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 486: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[API Catalog (system of record)](https://learning.postman.com/docs/api-catalog/overview/)
+
+![Image 487: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 488: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Private runners (tests & Flows)](https://learning.postman.com/docs/monitoring-your-api/runners/overview)
+
+![Image 489: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 490: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 491: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Distribution
+[Public workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/public-workspaces)
+
+![Image 492: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 493: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Public API Network](https://learning.postman.com/docs/collaborating-in-postman/public-api-network/public-api-network-overview/)
+
+![Image 494: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 495: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[API documentation (public & private)](https://learning.postman.com/docs/publishing-your-api/publishing-your-docs/#make-your-documentation-public)
+
+![Image 496: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Postman branded
+[Custom domains (unlimited)](https://learning.postman.com/docs/publishing-your-api/custom-doc-domains/)
+
+![Image 497: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 498: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Postman Shared Vault](https://learning.postman.com/docs/sending-requests/postman-vault/postman-vault-secrets/)
+
+![Image 499: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 500: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Shared package library](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 501: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 502: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Workspace & collection viewers](https://learning.postman.com/docs/collaborating-in-postman/sharing/#allowing-external-users-to-view-collections/)
+
+![Image 503: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 504: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Private API Network](https://learning.postman.com/docs/collaborating-in-postman/private-api-network/overview/)
+
+![Image 505: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 506: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 507: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+API Management
+[Total users included](https://learning.postman.com/docs/administration/managing-your-team/team-members/scale-team/)
+
+![Image 508: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)1 user
+[Integrations](https://www.postman.com/product/integrations/)
+
+![Image 509: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Up to 5
+[Calls to Postman API (monthly)](https://learning.postman.com/docs/billing/resource-usage/#postman-api-usage)
+
+![Image 510: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)10,000
+[Collection recovery](https://learning.postman.com/docs/collections/use-collections/manage-collections/#recover-a-deleted-collection)
+
+![Image 511: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)1 day
+[Postman Local Vault](https://learning.postman.com/docs/sending-requests/postman-vault/postman-vault-secrets/)
+
+![Image 512: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 513: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Secret Scanner - Local Secret Protection](https://learning.postman.com/docs/administration/managing-your-team/secret-scanner/overview/)
+
+![Image 514: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 515: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Secret Scanner - Cloud Secret Detection](https://learning.postman.com/docs/administration/managing-your-team/secret-scanner/overview/)
+
+![Image 516: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 517: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Role-based access control (RBAC)](https://learning.postman.com/docs/administration/security/team-security/)
+
+![Image 518: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 519: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Simple Security - SSO / SAML](https://learning.postman.com/docs/administration/sso/intro-sso/)
+
+![Image 520: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 521: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[User provisioning (SCIM)](https://learning.postman.com/docs/administration/scim-provisioning/scim-provisioning-overview/)
+
+![Image 522: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 523: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[User groups](https://learning.postman.com/docs/administration/managing-your-team/user-groups/)
+
+![Image 524: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 525: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Organizations](https://learning.postman.com/docs/administration/managing-your-team/create-org/)
+
+![Image 526: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 527: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Internal workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/create-workspaces/)
+
+![Image 528: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 529: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Private workspaces (invite only)](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/create-workspaces/)
+
+![Image 530: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 531: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[External workspaces (Partner & multi-Partner)](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/partner-workspaces/overview/)
+
+![Image 532: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 533: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Workspace archival](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/internal-workspaces/manage-workspaces/)
+
+![Image 534: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 535: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Audit logs & compliance reporting](https://learning.postman.com/docs/administration/audit-logs/)
+
+![Image 536: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 537: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Deployment control](https://learning.postman.com/docs/administration/managing-enterprise-deployment/#deploying-the-postman-enterprise-app/)
+
+![Image 538: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 539: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[API & package library governance](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)![Image 540: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[AI input guardrails](https://learning.postman.com/docs/postman-ai/agent-mode/enterprise)
+
+![Image 541: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 542: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Data residency (EU-only)](https://learning.postman.com/docs/administration/enterprise/about-eu-data-residency/)
+
+![Image 543: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 544: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Domain Verification](https://learning.postman.com/docs/administration/domain-verification-and-capture/add-and-verify-a-domain/)
+
+![Image 545: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 546: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Domain Capture](https://learning.postman.com/docs/administration/domain-verification-and-capture/enable-domain-capture)
+
+![Image 547: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 548: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Postman Vault integrations](https://learning.postman.com/docs/use/postman-vault/postman-vault-secrets/#integrate-with-external-vaults)
+
+![Image 549: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 550: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Advanced secret security controls](https://learning.postman.com/docs/administration/secret-scanner/)
+
+![Image 551: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 552: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+Account Discovery
+
+![Image 553: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 554: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+Account Control
+
+![Image 555: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 556: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 557: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Manage roles
+![Image 558: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Team-level roles
+![Image 559: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Workspace-level roles
+![Image 560: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Element-level roles
+![Image 561: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Support and Legal
+[Support](https://support.postman.com/hc/en-us)Community & Email
+Premium Support
+
+![Image 562: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 563: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Custom terms of service](https://www.postman.com/legal/terms/)
+
+![Image 564: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 565: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Get Started](https://identity.getpostman.com/signup)
+
+![Image 566: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Postman AI
+[Postman AI credits](https://learning.postman.com/docs/billing/agent-mode-usage/)
+
+![Image 567: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)400 / month
+[Postman AI overages (Pay-as-you-go)](https://postman.com/pricing#ai-credits-pay-as-you-go)
+
+![Image 568: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)$0.05 / credit
+[Context Graph ingestion & refresh](https://learning.postman.com/docs/context-graph/get-started/)
+
+![Image 569: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Free, 24 hr refresh
+[Context Graph API queries](https://learning.postman.com/docs/context-graph/get-started/)
+
+![Image 570: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)5,000 / month, then $0.01 / query
+![Image 571: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Development
+[Multi-protocol API client](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+
+![Image 572: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 573: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[MCP Client (Model Context Protocol)](https://learning.postman.com/latest-v-12/docs/postman-api-network/explore/find/browse#mcp-servers)
+
+![Image 574: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 575: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Collections and environments](https://learning.postman.com/docs/collections/collections-overview/)
+
+![Image 576: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 577: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Reusable requests](https://learning.postman.com/docs/sending-requests/variables/variables/#understanding-variables)
+
+![Image 578: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 579: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Collection generation & sync](https://learning.postman.com/docs/design-apis/specifications/generate-collections/)
+
+![Image 580: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 581: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Specs](https://learning.postman.com/docs/design-apis/specifications/overview/)
+
+![Image 582: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 583: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[API versioning](https://learning.postman.com/docs/collaborating-in-postman/using-version-control/version-control-overview/)
+
+![Image 584: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 585: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Native Git](https://learning.postman.com/docs/agent-mode/native-git)
+
+![Image 586: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 587: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Test data storage](https://learning.postman.com/docs/sending-requests/create-requests/test-data/#about-test-data-storage)
+
+![Image 588: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 589: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[IDE extension (VS Code)](https://learning.postman.com/docs/developer/vs-code-extension/overview/)
+
+![Image 590: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 591: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Mock Servers](https://learning.postman.com/docs/design-apis/mock-apis/overview)
+
+![Image 592: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 593: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Unlimited manual Flows](https://learning.postman.com/docs/postman-flows/overview)
+
+![Image 594: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 595: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Postman CLI](https://learning.postman.com/docs/postman-cli/postman-cli-overview/#comparing-the-postman-cli-and-newman)
+
+![Image 596: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 597: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Webhooks](https://learning.postman.com/latest-v-12/docs/use/send-requests/protocols/webhooks)
+
+![Image 598: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 599: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Commenting & annotations](https://learning.postman.com/docs/collaborating-in-postman/working-with-your-team/discussing-your-work/)
+
+![Image 600: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 601: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Public NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 602: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 603: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Private NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 604: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 605: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+![Image 606: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Testing
+[Automated API testing (Unlimited, Collection Runner)](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)
+
+![Image 607: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 608: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Multi-protocol Runner](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+
+![Image 609: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 610: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Data file support in Collection Runner](https://learning.postman.com/docs/collections/running-collections/working-with-data-files/)
+
+![Image 611: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 612: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Datasets](https://learning.postman.com/docs/tests-and-scripts/datasets/use-datasets)
+
+![Image 613: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 614: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Unlimited local performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/)
+
+![Image 615: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 616: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Cloud performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/)
+
+![Image 617: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)$0.04 / VuH
+Playwright integration
+
+![Image 618: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 619: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Test result exports](https://learning.postman.com/docs/getting-started/importing-and-exporting/exporting-data)
+
+![Image 620: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 621: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Automation Flows](https://learning.postman.com/docs/postman-flows/tutorials/advanced/automate-repetitive-tasks)
+
+![Image 622: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)50 credits / month
+![Image 623: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Production
+[API monitoring (per team, per month)](https://learning.postman.com/docs/monitoring-your-api/intro-monitors/)
+
+![Image 624: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)10,000 requests
+[Monitor reports](https://learning.postman.com/latest-v-12/docs/monitoring-your-api/monitor-reports/overview)
+
+![Image 625: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 626: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Insights (production visibility)](https://learning.postman.com/docs/insights/overview/)
+
+![Image 627: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 628: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[API Catalog (system of record)](https://learning.postman.com/docs/api-catalog/overview/)
+
+![Image 629: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 630: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Private runners (tests & Flows)](https://learning.postman.com/docs/monitoring-your-api/runners/overview)
+
+![Image 631: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 632: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 633: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Distribution
+[Public workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/public-workspaces)
+
+![Image 634: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 635: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Public API Network](https://learning.postman.com/docs/collaborating-in-postman/public-api-network/public-api-network-overview/)
+
+![Image 636: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 637: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[API documentation (public & private)](https://learning.postman.com/docs/publishing-your-api/publishing-your-docs/#make-your-documentation-public)
+
+![Image 638: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Custom branded
+[Custom domains (unlimited)](https://learning.postman.com/docs/publishing-your-api/custom-doc-domains/)
+
+![Image 639: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 640: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Postman Shared Vault](https://learning.postman.com/docs/sending-requests/postman-vault/postman-vault-secrets/)
+
+![Image 641: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 642: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Shared package library](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 643: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 644: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Workspace & collection viewers](https://learning.postman.com/docs/collaborating-in-postman/sharing/#allowing-external-users-to-view-collections/)
+
+![Image 645: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 646: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Private API Network](https://learning.postman.com/docs/collaborating-in-postman/private-api-network/overview/)
+
+![Image 647: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 648: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 649: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+API Management
+[Total users included](https://learning.postman.com/docs/administration/managing-your-team/team-members/scale-team/)
+
+![Image 650: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)1 user
+[Integrations](https://www.postman.com/product/integrations/)
+
+![Image 651: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Up to 10
+[Calls to Postman API (monthly)](https://learning.postman.com/docs/billing/resource-usage/#postman-api-usage)
+
+![Image 652: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)100,000
+[Collection recovery](https://learning.postman.com/docs/collections/use-collections/manage-collections/#recover-a-deleted-collection)
+
+![Image 653: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)30 days
+[Postman Local Vault](https://learning.postman.com/docs/sending-requests/postman-vault/postman-vault-secrets/)
+
+![Image 654: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 655: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Secret Scanner - Local Secret Protection](https://learning.postman.com/docs/administration/managing-your-team/secret-scanner/overview/)
+
+![Image 656: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 657: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Secret Scanner - Cloud Secret Detection](https://learning.postman.com/docs/administration/managing-your-team/secret-scanner/overview/)
+
+![Image 658: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 659: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Role-based access control (RBAC)](https://learning.postman.com/docs/administration/security/team-security/)
+
+![Image 660: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 661: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Simple Security - SSO / SAML](https://learning.postman.com/docs/administration/sso/intro-sso/)
+
+![Image 662: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 663: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[User provisioning (SCIM)](https://learning.postman.com/docs/administration/scim-provisioning/scim-provisioning-overview/)
+
+![Image 664: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 665: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[User groups](https://learning.postman.com/docs/administration/managing-your-team/user-groups/)
+
+![Image 666: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 667: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Organizations](https://learning.postman.com/docs/administration/managing-your-team/create-org/)
+
+![Image 668: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 669: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Internal workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/create-workspaces/)
+
+![Image 670: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 671: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Private workspaces (invite only)](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/create-workspaces/)
+
+![Image 672: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 673: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[External workspaces (Partner & multi-Partner)](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/partner-workspaces/overview/)
+
+![Image 674: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 675: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Workspace archival](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/internal-workspaces/manage-workspaces/)
+
+![Image 676: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 677: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Audit logs & compliance reporting](https://learning.postman.com/docs/administration/audit-logs/)
+
+![Image 678: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 679: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Deployment control](https://learning.postman.com/docs/administration/managing-enterprise-deployment/#deploying-the-postman-enterprise-app/)
+
+![Image 680: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 681: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[API & package library governance](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)![Image 682: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[AI input guardrails](https://learning.postman.com/docs/postman-ai/agent-mode/enterprise)
+
+![Image 683: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 684: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Data residency (EU-only)](https://learning.postman.com/docs/administration/enterprise/about-eu-data-residency/)
+
+![Image 685: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 686: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Domain Verification](https://learning.postman.com/docs/administration/domain-verification-and-capture/add-and-verify-a-domain/)
+
+![Image 687: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 688: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Domain Capture](https://learning.postman.com/docs/administration/domain-verification-and-capture/enable-domain-capture)
+
+![Image 689: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 690: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Postman Vault integrations](https://learning.postman.com/docs/use/postman-vault/postman-vault-secrets/#integrate-with-external-vaults)
+
+![Image 691: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 692: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Advanced secret security controls](https://learning.postman.com/docs/administration/secret-scanner/)
+
+![Image 693: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 694: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+Account Discovery
+
+![Image 695: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 696: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+Account Control
+
+![Image 697: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 698: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+![Image 699: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Manage roles
+![Image 700: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Team-level roles
+![Image 701: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Workspace-level roles
+![Image 702: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Element-level roles
+![Image 703: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Support and Legal
+[Support](https://support.postman.com/hc/en-us)Community & Email
+Premium Support
+
+![Image 704: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 705: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Custom terms of service](https://www.postman.com/legal/terms/)
+
+![Image 706: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 707: Unavailable](https://voyager.postman.com/icon/x-icon-grey.svg)
+[Get Started](https://www.postman.com/buy?plan=solo&interval=annually)
+
+![Image 708: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Postman AI
+[Postman AI credits](https://learning.postman.com/docs/billing/agent-mode-usage/)
+
+![Image 709: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)400 / user / month
+[Postman AI overages (Pay-as-you-go)](https://postman.com/pricing#ai-credits-pay-as-you-go)
+
+![Image 710: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)$0.04 / credit
+[Context Graph ingestion & refresh](https://learning.postman.com/docs/context-graph/get-started/)
+
+![Image 711: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)Free, 24 hr refresh
+[Context Graph API queries](https://learning.postman.com/docs/context-graph/get-started/)
+
+![Image 712: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)5,000 / month, then $0.01 / query
+![Image 713: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Development
+[Multi-protocol API client](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+
+![Image 714: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 715: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[MCP Client (Model Context Protocol)](https://learning.postman.com/latest-v-12/docs/postman-api-network/explore/find/browse#mcp-servers)
+
+![Image 716: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 717: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Collections and environments](https://learning.postman.com/docs/collections/collections-overview/)
+
+![Image 718: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 719: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Reusable requests](https://learning.postman.com/docs/sending-requests/variables/variables/#understanding-variables)
+
+![Image 720: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 721: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Collection generation & sync](https://learning.postman.com/docs/design-apis/specifications/generate-collections/)
+
+![Image 722: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 723: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Specs](https://learning.postman.com/docs/design-apis/specifications/overview/)
+
+![Image 724: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 725: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[API versioning](https://learning.postman.com/docs/collaborating-in-postman/using-version-control/version-control-overview/)
+
+![Image 726: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 727: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Native Git](https://learning.postman.com/docs/agent-mode/native-git)
+
+![Image 728: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 729: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Test data storage](https://learning.postman.com/docs/sending-requests/create-requests/test-data/#about-test-data-storage)
+
+![Image 730: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 731: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[IDE extension (VS Code)](https://learning.postman.com/docs/developer/vs-code-extension/overview/)
+
+![Image 732: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 733: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Mock Servers](https://learning.postman.com/docs/design-apis/mock-apis/overview)
+
+![Image 734: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 735: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Unlimited manual Flows](https://learning.postman.com/docs/postman-flows/overview)
+
+![Image 736: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 737: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Postman CLI](https://learning.postman.com/docs/postman-cli/postman-cli-overview/#comparing-the-postman-cli-and-newman)
+
+![Image 738: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 739: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Webhooks](https://learning.postman.com/latest-v-12/docs/use/send-requests/protocols/webhooks)
+
+![Image 740: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 741: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Commenting & annotations](https://learning.postman.com/docs/collaborating-in-postman/working-with-your-team/discussing-your-work/)
+
+![Image 742: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 743: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Public NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 744: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 745: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Private NPM packages](https://learning.postman.com/docs/tests-and-scripts/write-scripts/packages/package-library/)
+
+![Image 746: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 747: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+![Image 748: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Testing
+[Automated API testing (Unlimited, Collection Runner)](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)
+
+![Image 749: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 750: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Multi-protocol Runner](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+
+![Image 751: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 752: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Data file support in Collection Runner](https://learning.postman.com/docs/collections/running-collections/working-with-data-files/)
+
+![Image 753: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 754: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Datasets](https://learning.postman.com/docs/tests-and-scripts/datasets/use-datasets)
+
+![Image 755: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 756: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Unlimited local performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/)
+
+![Image 757: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 758: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Cloud performance testing](https://learning.postman.com/docs/collections/performance-testing/performance-test-configuration/)
+
+![Image 759: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)$0.04 / VuH
+Playwright integration
+
+![Image 760: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 761: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Test result exports](https://learning.postman.com/docs/getting-started/importing-and-exporting/exporting-data)
+
+![Image 762: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 763: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Automation Flows](https://learning.postman.com/docs/postman-flows/tutorials/advanced/automate-repetitive-tasks)
+
+![Image 764: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)100 credits / team / month
+![Image 765: Support and Legal icon](https://voyager.postman.com/icon/api-testing-icon-postman.svg)
+
+Production
+[API monitoring (per team, per month)](https://learning.postman.com/docs/monitoring-your-api/intro-monitors/)
+
+![Image 766: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)10,000 requests
+[Monitor reports](https://learning.postman.com/latest-v-12/docs/monitoring-your-api/monitor-reports/overview)
+
+![Image 767: Question. Icon.](https://voyager.postman.com/icon/question-mark-icon-postman.svg)![Image 768: Available](https://voyager.postman.com/icon/checkbox-outline-green-icon.svg)
+[Insights (pr

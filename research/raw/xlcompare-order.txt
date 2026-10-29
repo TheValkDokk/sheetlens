@@ -1,0 +1,105 @@
+SOURCE: https://xlcompare.com/order.html
+
+Title: Buy xlCompare Professional
+
+URL Source: https://xlcompare.com/order.html
+
+Published Time: 2009-05-27
+
+Markdown Content:
+## Order xlCompare Professional License
+
+xlCompare is a free desktop application for comparing Excel, XML, and Text files.
+
+You can use xlCompare for free with no time limits or restrictions on the number of times you launch the application.
+
+For users who need more advanced functionality, xlCompare also offers a set of paid features.
+
+The following features are available only in the paid version:
+
+*   Saving Excel files
+*   Merge changes between Excel files
+*   Saving comparison reports
+*   Command-line interface
+
+CHOOSE YOUR CURRENCY
+
+USD
+
+EUR
+
+JPY
+
+CNY
+
+KRW
+
+INR
+
+AUD
+
+CAD
+
+|  | Professional — 1 User | Professional — 5 Users |
+| --- | --- | --- |
+| Save Excel Files | + | + |
+| Merge Changes | + | + |
+| Git, SVN, and Perforce Integration (CLI) | + | + |
+| Compare VBA Code and Forms | + | + |
+| Create Reports | + | + |
+| Technical Support | + | + |
+| Future Updates and Bug Fixes | + | + |
+| License for | 1 User | 5 Users |
+| License Term | Lifetime | Lifetime |
+|  | $99.99 | $399.99 |
+|  | [ORDER](https://store.payproglobal.com/checkout?products[1][id]=100006&page-template=21761) | [ORDER](https://store.payproglobal.com/checkout?products[1][id]=100026&page-template=21761) |
+
+30-Day Money-Back Guarantee
+
+Try xlCompare with your Excel files. If it doesn't meet your needs, you can request a refund within 30 days of purchase.
+
+## One-Time Purchase — No Monthly Fees
+
+xlCompare is sold with a perpetual license. Pay once and use the software indefinitely, with no subscriptions, renewals, or recurring fees. Your license includes future product updates and technical support at no additional cost.
+
+[![Image 1: PayPro Global Logo](https://xlcompare.com/images2/ppg-logo.png)](https://payproglobal.com/)
+
+Payments and invoicing are handled by [PayPro Global](https://payproglobal.com/), our Merchant of Record.
+
+## Order xlCompare by Invoice
+
+Use the order buttons above to purchase xlCompare by credit card, PayPal, or another available payment method.
+
+If you prefer to purchase by invoice, contact us for a quote. Tell us how many licenses you need, and we'll provide pricing, including any applicable volume discounts.
+
+## Licensing Questions
+
+[How to activate xlCompare?](https://xlcompare.com/activate-xlcompare.html)
+
+After your order is processed, you will automatically receive an email with your license information. Follow these instructions to activate your copy of xlCompare.
+
+Perpetual License
+
+Your xlCompare license never expires. You can continue using the licensed version indefinitely with no renewal fees. If you replace or restore your computer, you can transfer and reactivate your existing license.
+
+Future Updates and Support Included
+
+Your xlCompare Professional license includes all future updates and technical support at no additional cost. We typically release two to three major updates per year with new features, improvements, and bug fixes.
+
+If you need help with xlCompare, contact us and we'll assist you directly. When necessary, we can also arrange a remote support session.
+
+[License Agreement](https://xlcompare.com/copyright.html)
+
+Read the xlCompare End-User License Agreement online or download it as a PDF.
+
+[Documentation](https://xlcompare.com/help.html)
+
+View the complete xlCompare documentation, including commands and options for XLSX, XML, and text file comparison.
+
+## I have a question about xlCompare
+
+Name:
+
+E-mail:
+
+Question:

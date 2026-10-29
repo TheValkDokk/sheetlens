@@ -1,0 +1,22 @@
+{
+  "name": "sheetlens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Understand any spreadsheet you inherited — client-side workbook audit.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.11.1",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
+    "vitest": "^1.6.1"
+  }
+}

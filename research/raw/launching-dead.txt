@@ -1,0 +1,90 @@
+SOURCE: https://www.podscan.fm/podcasts/notes-on-work-by-caleb-porzio/episodes/is-launching-dead
+
+Title: Is launching dead? - Notes On Work - by Caleb Porzio - Podcast Episode - Podscan.fm
+
+URL Source: https://www.podscan.fm/podcasts/notes-on-work-by-caleb-porzio/episodes/is-launching-dead
+
+Published Time: 2025-12-11 15:36:11
+
+Markdown Content:
+00:00:01
+
+is launching dead. So I hit record because the tweet came through from Peter Levels and he's like, it was a quote tweet of somebody else who was complaining about, you know, effort does not equal success. And I didn't even read the post. I just saw like two words from it, but I, I'm sure I get the gist of the original post. That's like, Hey, I worked my butt off to be an indie hacker.
+
+00:00:28
+
+And I like did this big launch and put it on product hunt and everybody else seems to do well and minded terribly. And I made no money or something. What was me? And he quotes it and he's like, launching is dead. Um, it's not what it was 10 years ago. You can't just throw something on product hunt and get zillions of views and, and, you know, a bunch of traction and whatever.
+
+00:00:53
+
+It's like, now you have to like ship every day. And like, unless your thing is incredibly Brown groundbreaking launching won't work. You have to like ship if either hop on a trend or like ship things that your users want like every day, like, and just keep iterating and iterating and do it kind of silently. Like he was like GPT 5.1 came out, no announcement, you know, other examples of things. Or it's just like, you just launch it, get it out there. And I think, you know, you know, you just launch it, get it out there. And I think, you know, I think, you know, I think, you know, you're going to get it out.
+
+00:01:22
+
+You're going to get it out there. Keep going. This is something I've been thinking about a little bit. Um, that, huh? Well, what have I been thinking about? It's that Twitter is not what it used to be. Um, duh, but, um, the way it's not that what it used to be is, is basically I am not successful at Twitter anymore.
+
+00:01:49
+
+I do not try hard at it. I don't play the game and the game is changing. Um, I, you know, like you, you see this type of thing a lot, like Josh, Josh, Josh Pigford, just put, I've been seeing a bunch of these posts. He was just posted and he's like, I got over 50,000 followers. I used to get, you know, thousands and thousands of views on like every tweet.
+
+00:02:12
+
+I went silent for like two months and now, you know, my tweets get like whatever 500 views. I don't even know what his numbers were, but it's just like way less. They get like 30 likes, you know, nobody cares. Nobody sees my stuff anymore.
+
+00:02:28
+
+And it was funny because this tweet that he made, I saw it, but there was like 20 something likes, not that many views. Um, but yeah, so he's complaining about that. A lot of people I've recently been seen complaining about that. I had a phase where I was complaining about this type of thing, like two years ago, maybe, um, or whenever, you know, Twitter turned into X and everything changed.
+
+00:02:53
+
+Uh, it definitely changed. Uh, it definitely changed my traction and yeah, it's not what it used to be. My, my approach to Twitter has always been build cool stuff, share it, uh, write tips, basically provide value, tangible value to followers and congratulate other people on their wins.
+
+00:03:19
+
+And that's kind of it. I've never been a clever reply guy. I am not a reply guy at all. Um, I don't do a ton of engaging with other people's stuff beyond like, you know, Oh, cool. Like, Oh, really cool. Retweet. Oh, uh, friend has some life achievement. Congratulations, friend. You know, that's kind of how Twitter is for me.
+
+00:03:48
+
+I'm very tame milk toast, whatever, but that didn't really matter before. Cause I would be working and I would come up with a banger, you know, whatever that is. Like I'd solve some problem in a clever way and I'd be really excited about it. I'd take a screenshot and I put a fire emoji and I tweeted out and it would get, it would go wild. And that's what built my following.
+
+00:04:16
+
+Um, and now that is not the case at all anymore. When I, which I don't do that as much, but when I do have something valuable or launching something or whatever, you know, I tweeted out and it's like, womp, nothing. Um, and it's not nothing, but it's, it's definitely like, if it's a good thing, I'm getting 200 to 300 likes, you know,
+
+00:04:41
+
+if it's astounding, I'm getting maybe 500. If it's, uh, me picking my nose, I'm getting 80 to 200 or something like that. And yeah, so it's not, it's just not what it used to be. Woe is me. It's fine. Um, I don't care. And here's why I don't even care. Um,
+
+00:04:59
+
+Um, because like the things that are successful on Twitter, as I see them is like reply guys, clever people. Like I'm not, I don't even reply guys. Sounds like a derogatory term. I don't mean it like that. These are people who engage with a lot of people frequently in clever ways. So then I've seen like replies to things like this, or people trying to figure out like what's Twitter up to, what's the algorithm want these days.
+
+00:05:28
+
+And the answer is like that. I keep seeing, I don't know if it's true is you have to reply a ton. Like you have to reply to every single reply to your thing. You have to reply to other people. You have to jump into conversations. You have to engage a ton and you have to post a lot. And there's a guy that I actually, I just followed. And I looked at his blog posts and I liked him, but I, you know, it's here today, gone tomorrow. I totally couldn't recall anything about him and we'll probably never find him again unless he comes across my feed.
+
+00:05:56
+
+But he wrote a blog post, like how I grew my Twitter following to like a hundred something thousand and some short ish amount of time. And he puts his regimen and it's like, he just posts like 20 times a day. And he replies like all day. And he does, he had, he's smart. Like he has some good stuff in there. Um, but it's just post, post, post, post, post, post, post, post, post, post, post, post, post, post, post, post, post. And some things hit a lot of things don't, but Twitter's warm to him.
+
+00:06:22
+
+It's like, this dude is frequently posting. We want to reward that, I guess. I don't know. Um, media and stuff, not links and stuff. I don't know how true the link thing is anymore. Kind of those guidelines. And that's how to be successful, I guess right now, maybe. Um, but yeah, I, I guess what I see is like, even from people in my circles, when I see people break out of this kind of wall of like 200 to 500 likes, like when you get into the thousands.
+
+00:06:51
+
+When I see posts that break out of this, especially in my circles, it's never, here's a cool technique for your, to help you in your job. It's always like, here's a clever take. And the clever take is never overstated. It's always said in a kind of like pass a way, you know, it's just a fleeting, like thought, you know, but a clever one.
+
+00:07:20
+
+Um, so, and even, so I think of like, so Adam tweeted or maybe Jonathan writing tweeted about the tailwind black Friday sale. And I remember looking at that and going, Oh my gosh, this is like, I think, I don't know if Adam tweeted it or he reposted or whatever, tailwind or whatever. Big, big accounts, big followings.
+
+00:07:39
+
+20 likes, 20 likes, you know, 30 likes, like nobody gives a crap about your black Friday sale. Well, Twitter doesn't give a crap about it, but Adam posted something else at some point. I don't know, whatever. I can't even remember what it was. It was like 8,000 likes or something like crazy, crazy traction. And it, Oh, it was, it was something silly. Like I don't even remember like an outlets he used or something like that, you know?
+
+00:08:07
+
+So that's, what's rewarded here. And, and again, it's fine. It's just a different landscape, but it's not what I'm built for. It's not what I want to do. It's not what I'm good at. It's not what I'm interested in. So I've been thinking that like YouTube is still a place where value is rewarded or value is King, whether it's long form or short form. It's like when I go on YouTube, I'm not getting clever takes on whatever.
+
+... 24 more lines

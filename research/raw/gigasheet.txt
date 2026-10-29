@@ -1,0 +1,165 @@
+SOURCE: https://www.gigasheet.com/pricing
+
+Title: Healthcare Data & Analytics Pricing | Gigasheet
+
+URL Source: https://www.gigasheet.com/pricing
+
+Markdown Content:
+[![Image 1: Gigasheet Logo](https://cdn.prod.website-files.com/63c856d789d2ff615b5e9733/63cace5c271a45012aa0c363_Gigasheet_Logo_Horizontal_Primary_RGB%40600w.webp)](https://www.gigasheet.com/)
+
+HEALTHCARE DATA & ANALYTICS PRICING
+
+## The Data You Need. The Intelligence to Act On It.
+
+Flexible access to nationwide healthcare pricing and provider intelligence, with powerful analytics, AI, APIs, and bulk data licensing. Choose the products and coverage that fit your business.
+
+## Choose How You Access Healthcare Intelligence
+
+Whether you're analyzing market rates, researching providers, or building data-powered applications, Gigasheet delivers the intelligence you need in the format that works for your organization.
+
+INTERACTIVE ANALYTICS
+
+### Price Transparency Explorer
+
+Explore billions of commercial negotiated rates, benchmark providers and payers, compare markets, and uncover pricing opportunities with spreadsheet-style analytics and AI.
+
+*   Nationwide commercial negotiated rates
+*   Medicare benchmarks and proprietary rate analytics
+*   Spreadsheet-style exploration, filtering, and analysis
+*   AI-assisted research and insights
+
+Custom Annual Pricing
+
+PROVIDER & NETWORK INTELLIGENCE
+
+### Provider Intelligence
+
+Get a more complete picture of healthcare providers, including professional credentials, practice information, reputation, network participation, and pricing context.
+
+*   Provider profiles, credentials, and specialties
+*   Locations, contact information, and online reputation
+*   Network participation and negotiated rates
+*   Provider research, benchmarking, and discovery
+
+Custom Annual Pricing
+
+DATA LICENSING
+
+### Bulk Healthcare Data
+
+License analysis-ready healthcare pricing and provider datasets for your own analytics, reporting, research, and applications. Get the coverage you need without building a massive data processing pipeline.
+
+*   Negotiated rate data across payers and providers
+*   Provider intelligence and enriched datasets
+*   Targeted or nationwide coverage
+*   Data delivery for enterprise workflows
+
+Custom Annual Pricing
+
+APIs & INTEGRATIONS
+
+### Healthcare Data API
+
+Bring commercial negotiated rates, pricing benchmarks, and provider intelligence directly into your applications, research workflows, and AI agents.
+
+*   Programmatic access to healthcare pricing data
+*   Procedure, provider, payer, and geographic lookups
+*   Benchmarking and AI-assisted research endpoints
+*   Flexible integration with enterprise applications
+
+Custom Annual Pricing
+
+## Built for Enterprise Healthcare Intelligence
+
+150B+ Negotiated Rates
+
+Commercial healthcare pricing at national scale.
+
+3M+ Providers
+
+Provider-level rate intelligence and benchmarking.
+
+Nationwide Coverage
+
+Pricing intelligence across U.S. payers, providers, and markets.
+
+Enterprise-ready security | Expert onboarding | Continuously refreshed data
+
+[SOC 2 Type II compliant. See our security practices.](https://www.gigasheet.com/security)
+
+## Flexible Pricing Built Around Your Needs
+
+Gigasheet subscriptions are tailored to the data, markets, and capabilities your organization needs. Whether you're researching a single specialty or licensing nationwide intelligence, we'll help you find the right package.
+
+01
+
+### Data Coverage
+
+Select the states, markets, specialties, payers, and providers relevant to your business.
+
+02
+
+### Products & Intelligence
+
+Choose negotiated rates, provider intelligence, benchmarks, and analytical capabilities.
+
+03
+
+### Delivery Method
+
+Access data through Price Transparency Explorer, APIs, bulk licensing, or a combination.
+
+04
+
+### Usage & Licensing
+
+Align users, API usage, data volume, and permitted applications with your requirements.
+
+Enterprise offerings are available through annual subscriptions, with onboarding and support tailored to your package.
+
+## Healthcare Intelligence for Your Business
+
+From contract negotiations to care navigation and payment integrity, Gigasheet helps healthcare organizations put complex market data to work.
+
+## Frequently Asked Questions
+
+How is Gigasheet priced?
+Enterprise pricing is based on the data coverage, products, delivery methods, and licensing requirements your organization needs. We offer tailored annual subscriptions for interactive analytics, data licensing, and API access.
+
+Can I purchase data for a specific specialty or state?
+Yes. Gigasheet offers targeted data coverage for specific specialties, states, markets, payers, and providers, as well as broader regional and nationwide datasets.
+
+Does pricing include the underlying data?
+Gigasheet offers different licensing options depending on how you plan to use the data. Price Transparency Explorer combines healthcare data with interactive analytics, while bulk data and API offerings support integration into your own systems. Our team can help identify the right package.
+
+Can I combine multiple Gigasheet products?
+Yes. Organizations can combine negotiated rates, provider intelligence, analytics, APIs, and bulk data licensing based on their needs.
+
+How current is Gigasheet's healthcare data?
+Gigasheet continuously processes and refreshes published healthcare transparency data. Customers can also request processing of specific machine-readable files when their research requires data outside the standard processed inventory.
+
+Can I evaluate the data before purchasing?
+Yes. Our team can help you evaluate relevant market coverage and review representative data, product capabilities, or a tailored demonstration before making a purchasing decision.
+
+Do you offer monthly subscriptions?
+Enterprise healthcare data subscriptions are generally sold on an annual basis. Separate self-service subscriptions are available for individual data analysis needs.
+
+SELF-SERVICE TOOLS
+
+## Looking to Analyze Your Own Files?
+
+Gigasheet also offers self-service tools for individuals and teams working with large spreadsheets and healthcare machine-readable files.
+
+### Premium Individual
+
+Analyze and transform large CSV and tabular datasets using Gigasheet's familiar spreadsheet interface. Purchase online with monthly or discounted annual billing. Does not include Gigasheet's licensed healthcare datasets.
+
+### MRF Viewer
+
+Open and explore large healthcare machine-readable files without building custom JSON parsing infrastructure. Annual commitment required.
+
+## Ready to Put Healthcare Intelligence to Work?
+
+Tell us what you're working on. We'll help you find the right data, coverage, and tools for your organization.
+
+[![Image 2: Gigasheet Logo](https://cdn.prod.website-files.com/63c856d789d2ff615b5e9733/63cace5c271a45012aa0c363_Gigasheet_Logo_Horizontal_Primary_RGB%40600w.webp)](https://www.gigasheet.com/)

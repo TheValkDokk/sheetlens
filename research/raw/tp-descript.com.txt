@@ -1,0 +1,14 @@
+SOURCE: https://www.trustpilot.com/review/descript.com
+
+Title: Verifying Connection
+
+URL Source: https://www.trustpilot.com/review/descript.com?stars=1
+
+Warning: Target URL returned error 403: Forbidden
+
+Markdown Content:
+Please wait while we verify your browser.
+
+Verification failed. Please try again.
+
+Verification is taking longer than expected.

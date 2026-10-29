@@ -1,0 +1,72 @@
+SOURCE: https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/
+
+Title: Do people click on links in Google AI summaries?
+
+URL Source: https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/
+
+Published Time: 2025-07-22T09:54:17-04:00
+
+Markdown Content:
+![Image 1: (Press Association via AP Images)](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/07/SR_25.07.22_ai_summaries_featured.jpg?w=640)
+
+(Press Association via AP Images)
+
+Last year, [Google introduced “AI Overviews,”](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview) a feature that displays an artificial intelligence-generated result summary at the top of many Google search pages. This feature is available to millions of U.S. Google users. Online publishers recently have [attributed declining web traffic](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141?reflink=desktopwebshare_permalink) to these summaries replacing traditional search results, claiming that many users are relying on the summaries instead of following links to the publishers’ websites.
+
+A Pew Research Center report published this spring [analyzed data from 900 U.S. adults](https://www.pewresearch.org/data-labs/2025/05/23/what-web-browsing-data-tells-us-about-how-ai-appears-online/) who agreed to share their online browsing activity. About six-in-ten respondents (58%) conducted at least one Google search in March 2025 that produced an AI-generated summary. Additional analysis found that Google users were less likely to click on result links when visiting search pages with an AI summary compared with those without one. For searches that resulted in an AI-generated summary, users very rarely clicked on the sources cited.
+
+Here’s more of what we learned about Google AI summaries and how users interact with them.
+
+How we did this
+Pew Research Center conducted this analysis to learn more about AI-generated search summaries and how they appear in Google search results. This analysis uses the web browsing data of 900 U.S. adults who are members of KnowledgePanel Digital, an online survey panel whose respondents agree to install an app that tracks their online browsing behavior.
+
+For each respondent, we received a list of all the URLs they visited on a tracked device during March 1-31, 2025. This allowed us to examine every visit they made to a search engine during that time, the actual search terms they submitted on those visits, and what they did next after performing each search.
+
+For every web search on google.com in our collection, we used a third-party web scraping service to run the same search and collect any text on the first page of the results. This includes standard search results and links, the text of any AI summaries that appeared, and up to three source URLs that were included in the AI summary. Search results were collected April 7-17, 2025. The AI summary for any given search may change over time, and the results of this analysis reflect how search results appeared at the time they were collected.
+
+The total dataset used in this analysis contains 68,879 unique Google searches. Some 12,593 of these searches produced an AI summary to accompany the standard search results. Due to technical limitations in our ability to identify AI-generated summaries on other search engines, this analysis includes only Google searches.
+
+To identify the user’s next action after visiting a Google search page, we used the timestamp and URL of their next visit. These are the categories we used and how we defined them:
+
+*   **Clicking on a link in the AI summary or from the search results** if the next-visited URL matched any of the links available on the first page of search results or in the first three links cited in a page’s AI summary. If someone followed a link that appeared in both an AI summary and the traditional search results, that click was counted towards the AI summary.
+*   **Continuing to search Google** if the next-visited URL was a different Google search page.
+*   **Leaving Google to browse a different site** if they went to a different page or site other than the ones listed above.
+*   **Ending their browsing session** if the user exited the web browser for five seconds or more.
+
+For more details, refer to the [original report methodology](https://www.pewresearch.org/data-labs/2025/05/23/methodology-metered-data-ai/).
+
+**Google users who encounter an AI summary are less likely to click on links to other websites than users who do not see one.** Users who encountered an AI summary clicked on a traditional search result link in 8% of all visits. Those who did _not_ encounter an AI summary clicked on a search result nearly twice as often (15% of visits).
+
+[![Image 2: A bar chart showing that Google users are less likely to click on a link when they encounter search pages with AI summaries.](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/07/SR_25.07.22_ai_summaries_1.png?w=640)](https://www.pewresearch.org/?attachment_id=270461)
+Google users who encountered an AI summary also rarely clicked on a link in the summary itself. This occurred in just 1% of all visits to pages with such a summary.
+
+**Google users are more likely to end their browsing session entirely after visiting a search page with an AI summary than on pages without a summary.**This happened on 26% of pages with an AI summary, compared with 16% of pages with only traditional search results.
+
+Regardless of whether a page had an AI-generated summary or not, the largest share of Google searches in our study resulted in the user either browsing elsewhere on Google or leaving the site entirely without clicking a link in the search results. Around two-thirds of all searches resulted in one of these actions.
+
+**The most frequently cited sources in both Google AI summaries and standard search results are Wikipedia, YouTube and Reddit.**These three sites are the most commonly linked sources in AI summaries and standard search results alike. Collectively, they accounted for 15% of the sources that were listed in the AI summaries we examined. They made up a similar share (17%) of the sources listed in standard search results.
+
+[![Image 3: A bar chart showing that AI summaries have a larger share of links to Wikipedia and .gov sites than standard search result pages do.](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/07/SR_25.07.22_ai_summaries_2.png?w=620)](https://www.pewresearch.org/?attachment_id=270459)
+Wikipedia links are somewhat more common in AI summaries than in standard search pages, while YouTube links are somewhat more common in standard search results than in AI summaries.
+
+When it comes to the _type_ of websites that are often linked to in Google search results, government websites are more common in AI summaries than in standard search results. Some 6% of the sources that were linked in AI overviews were to .gov websites, compared with just 2% for standard search results. Meanwhile, 5% of AI summaries – and 5% of standard search results – linked to news websites.
+
+**Overall, around one-in-five Google searches in March 2025 produced an AI summary.** Some 18% of all the Google searches in our study generated an AI summary as part of the search results. The vast majority of these summaries (88%) cited three or more sources. Only 1% cited a single source.
+
+The typical (median) AI summary in our study was 67 words long, but this varied widely. The shortest we found was just seven words long, while the longest ran to 369 words.
+
+**Google searches that contain more words, ask questions or use full sentences tend to produce AI summaries more often.** Longer searches are more likely to produce an AI summary. Just 8% of one- or two-word searches resulted in an AI summary. But that share rose to 53% for searches with 10 words or more.
+
+[![Image 4: A bar chart showing that Questions and longer search queries are more likely to produce AI summaries.](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/07/SR_25.07.22_ai_summaries_3.png?w=640)](https://www.pewresearch.org/?attachment_id=270460)
+Other types of searches that tend to result in AI summaries include:
+
+*   **Searches that form questions:** 60% of search queries that began with question words such as “who,” “what,” “when” or “why” resulted in an AI summary.
+*   **Searches that use full sentences:** 36% of searches that include both a noun and a verb generated an AI summary.
+
+![Image 5: Download Athena Chapekis's photo](https://www.pewresearch.org/wp-content/uploads/sites/20/2020/11/Athena_Chapekis.jpg?w=320)
+
+[Athena Chapekis](https://www.pewresearch.org/staff/athena-chapekis/)is a computational social scientist at Pew Research Center.
+
+![Image 6: Download Anna Lieb's photo](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/Anna-Lieb.jpg?w=320)
+
+[Anna Lieb](https://www.pewresearch.org/staff/anna-lieb/)is a computational social science analyst at Pew Research Center.

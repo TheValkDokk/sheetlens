@@ -1,0 +1,572 @@
+SOURCE: https://www.sejda.com/pricing
+MODE: reader
+
+Title: Pricing & Upgrade - Sejda
+
+URL Source: https://www.sejda.com/pricing
+
+Markdown Content:
+× We've updated our [terms of service](https://www.sejda.com/terms) and/or [privacy policy](https://www.sejda.com/privacy). Please take a moment and review them.  
+ By continuing to use our services you agree to our updated terms & privacy policy. 
+
+[![Image 3: Sejda.com logo](blob:http://localhost/f97a6eba9111409188b1052050cc76b7)Sejda](https://www.sejda.com/ "Sejda.com logo")[All Tools](javascript://)[Compress](https://www.sejda.com/compress-pdf)[Edit](https://www.sejda.com/pdf-editor)[Fill & Sign](https://www.sejda.com/sign-pdf)[Merge](https://www.sejda.com/merge-pdf)[Delete Pages](https://www.sejda.com/delete-pdf-pages)[Crop](https://www.sejda.com/crop-pdf)
+
+[Pricing](https://www.sejda.com/upgrade)[Desktop](https://www.sejda.com/desktop)[Log in](https://www.sejda.com/login)
+
+[](https://www.sejda.com/pricing)
+*   [Account](https://www.sejda.com/account)
+*   [Logout](javascript://)
+
+[](javascript:// "Select language")
+
+×
+
+*    Recent
+
+*   Merge
+*   [Alternate & Mix Mixes pages from 2 or more documents, alternating between them](https://www.sejda.com/alternate-mix-pdf)
+*   [Merge Combine multiple PDFs and images into one](https://www.sejda.com/merge-pdf)
+*   [Organize Arrange and reorder PDF pages](https://www.sejda.com/organize-pdf)
+*    Split 
+*   [Extract Pages Get a new document containing only the desired pages](https://www.sejda.com/extract-pdf-pages)
+*   [Split by pages Split specific page ranges or extract every page into a separate document](https://www.sejda.com/split-pdf)
+*   [Split by bookmarks Extract chapters to separate documents based on the bookmarks in the table of contents](https://www.sejda.com/split-pdf-by-outline)
+*   [Split in half Split two page layout scans, A3 to double A4 or A4 to double A5](https://www.sejda.com/split-pdf-down-the-middle)
+*   [Split by size Get multiple smaller documents with specific file sizes](https://www.sejda.com/split-pdf-by-size)
+*   [Split by text Extract separate documents when specific text changes from page to page](https://www.sejda.com/split-pdf-by-text)
+
+*    Edit & Sign 
+*   [Edit Edit PDF files for free. Fill & sign PDF. Add text, links, images and shapes. Edit existing PDF text. Annotate PDF](https://www.sejda.com/pdf-editor)
+*   [Fill & Sign Add signature to PDF. Fill out PDF forms](https://www.sejda.com/sign-pdf)
+*   [Create Forms Free PDF forms creator. Make existing PDF documents fillable](https://www.sejda.com/pdf-forms)
+*   [Delete Pages Remove pages from a PDF document](https://www.sejda.com/delete-pdf-pages)
+*    Compress 
+*   [Compress Reduce the size of your PDF](https://www.sejda.com/compress-pdf)
+*    Security 
+*   [Protect Protect file with password and permissions](https://www.sejda.com/encrypt-pdf)
+*   [Unlock Remove restrictions and password from PDF files](https://www.sejda.com/unlock-pdf)
+*   [Watermark Add image or text watermark to PDF documents](https://www.sejda.com/watermark-pdf)
+*   [Flatten Makes fillable PDFs read-only. Print & scan in one step](https://www.sejda.com/flatten-pdf)
+
+*    Convert from PDF 
+*   [PDF to Excel Convert PDF to Excel or CSV online for free. Extract table data from PDF](https://www.sejda.com/pdf-to-excel)
+*   [PDF to JPG Get PDF pages converted to JPG, PNG or TIFF images](https://www.sejda.com/pdf-to-jpg)
+*   [PDF to PowerPoint Convert PDF to PowerPoint online](https://www.sejda.com/pdf-to-ppt)
+*   [PDF to Text Copies all text from the PDF document and extracts it to a separate text file](https://www.sejda.com/extract-text-from-pdf)
+*   [PDF to Word Convert from PDF to DOC online](https://www.sejda.com/pdf-to-word)
+*    Convert to PDF 
+*   [HTML to PDF Convert web pages or HTML files to PDF documents](https://www.sejda.com/html-to-pdf)
+*   [JPG to PDF Convert Images to PDF](https://www.sejda.com/jpg-to-pdf)
+*   [Word to PDF Creates a PDF document from Microsoft Word .docx](https://www.sejda.com/word-to-pdf)
+
+*    Other 
+*   [Bates Numbering Bates stamp multiple files at once](https://www.sejda.com/bates-numbering-pdf)
+*   [Create Bookmarks Create PDF Bookmarks](https://www.sejda.com/pdf-bookmarks)
+*   [Crop Trim PDF margins, change PDF page size](https://www.sejda.com/crop-pdf)
+*   [Edit Metadata Change PDF Author, Title, Keywords, Subject and other metadata fields](https://www.sejda.com/edit-pdf-metadata)
+*   [Extract Images Extract images from PDF](https://www.sejda.com/extract-images-from-pdf)
+*   [Flip New Mirror pages horizontally or vertically](https://www.sejda.com/flip-pdf)
+*   [Grayscale Make a PDF text and images grayscale](https://www.sejda.com/grayscale-pdf)
+*   [Header & Footer Apply page numbers or text labels to PDF files](https://www.sejda.com/header-footer-pdf)
+*   [N-up Print multiple pages per sheet per paper. A5 plan as 4-up on A3 or A4 2-up on A3](https://www.sejda.com/n-up-pdf)
+*   [Page Numbers Add PDF page numbers](https://www.sejda.com/page-numbers-pdf)
+
+*   [Rename Change document filename based on text from the PDF pages](https://www.sejda.com/rename-pdf)
+*   [Repair Recover data from a corrupted or damaged PDF document](https://www.sejda.com/repair-pdf)
+*   [Resize Add page margins and padding, Change PDF page size](https://www.sejda.com/resize-pdf)
+*   [Rotate Rotate and save PDF pages permanently](https://www.sejda.com/rotate-pdf-pages)
+*   [Remove annotations New Batch remove highlights, strikeouts or any other annotations from a PDF document](https://www.sejda.com/delete-pdf-annotations)
+*    Scans 
+*   [Deskew Automatically straighten and deskew scanned PDF pages](https://www.sejda.com/deskew-pdf)
+*   [OCR Convert PDF scans to searchable text and PDFs. Extract text from scans](https://www.sejda.com/ocr-pdf)
+
+*    Automate 
+*   [Workflows New Execute series of tasks on PDF documents. Configure tool chains to process PDFs](https://www.sejda.com/workflows)
+
+[Suggest a missing feature](javascript://)
+
+×
+
+### Contact SEJDA.COM support
+
+##### Email us at [hi@sejda.com](mailto:hi@sejda.com) or use the form below
+
+Thank you for your message.
+
+I need help with   
+
+Cancel subscription
+
+Find license key
+
+Something else
+
+ You can find your Sejda Desktop license key on your account page:   
+[https://www.sejda.com/account](https://www.sejda.com/account?justUpgraded=desktop)
+
+ You purchased a Web-only plan that does not include access to Sejda Desktop.   
+[https://www.sejda.com/upgrade](https://www.sejda.com/upgrade#pricing)  
+  
+ Here are plans with Desktop access:   
+[https://www.sejda.com/desktop](https://www.sejda.com/desktop#pricing)  
+  
+ Once you've purchased a Desktop plan your Web-only purchase will be automatically refunded. 
+
+ You can cancel your subscription from your account page by clicking on "Stop auto-renewal" next to your subscription:   
+[https://www.sejda.com/account](https://www.sejda.com/account)
+
+ The Week Pass plan is a one-time charge, not a recurring subscription. It does not automatically renew and downgrades to free after 7 days. 
+
+1
+
+2
+
+3
+
+4
+
+Message 
+
+Your email address 
+
+ Next 
+
+![Image 4](https://www.sejda.com/images/loaders/oval-green.svg)
+
+Suggested answer 
+
+ This does not answer my question 
+
+Reporting a problem? 
+
+ Yes, I'm reporting a problem  
+
+ No, something else  
+
+Problem details 
+
+- [x]  Grant access to your last task and the files used. 
+We'll use this data to help you faster. Confidential.
+
+Attach a screenshot* 
+Please share a screenshot of the problem, as you see it.
+
+ Choose screenshot image file  
+
+Send message
+
+×
+
+ Privacy Settings 
+
+ This feature requires loading content from an external service, , which could access personal data, such as your IP address, set cookies and track you.  
+  
+ Please let us know if you are okay with that. 
+
+No, cancel Yes, continue
+
+×
+
+ There's a problem loading this page 
+
+ There was a problem loading a critical resource, which prevents the page from continuing.  
+  
+ Please check your internet connection and reload the page to try again. 
+
+Reload page
+
+×
+
+×
+
+Cancel Continue
+
+×
+#### Scanned documents are not supported
+
+**Editing scanned documents is not supported.** Changing existing text within scanned documents is not supported. However, you can still use other features such as adding new text, images, and annotations. 
+
+**Converting scanned documents is not supported.** Scanned PDFs are images of text and lack the actual text data needed for conversion.   
+  
+ File: 
+
+- [x]  Don't show anymore 
+
+[Learn more](https://www.sejda.com/help#scans)
+
+×
+
+ Move page to a new location 
+
+New page location: 
+
+ Tip: Can also drag and drop the page to the new location 
+
+Move page
+
+×
+
+ Select language 
+
+*   [العربية](https://www.sejda.com/ar/upgrade)
+*   [Bahasa Indonesia](https://www.sejda.com/id/upgrade)
+*   [Dansk](https://www.sejda.com/da/upgrade)
+*   [Deutsch](https://www.sejda.com/de/upgrade)
+*   [Čeština](https://www.sejda.com/cs/upgrade)
+*   [English](https://www.sejda.com/upgrade)
+*   [Español](https://www.sejda.com/es/upgrade)
+*   [Français](https://www.sejda.com/fr/upgrade)
+*   [Italiano](https://www.sejda.com/it/upgrade)
+*   [Ελληνικά](https://www.sejda.com/el/upgrade)
+*   [日本語](https://www.sejda.com/ja/upgrade)
+*   [한국어](https://www.sejda.com/ko/upgrade)
+*   [简体中文](https://www.sejda.com/zh/upgrade)
+*   [繁體中文](https://www.sejda.com/tw/upgrade)
+
+*   [हिन्दी](https://www.sejda.com/hi/upgrade)
+*   [עברית](https://www.sejda.com/he/upgrade)
+*   [Magyar](https://www.sejda.com/hu/upgrade)
+*   [Nederlands](https://www.sejda.com/nl/upgrade)
+*   [Norsk](https://www.sejda.com/no/upgrade)
+*   [Polski](https://www.sejda.com/pl/upgrade)
+*   [Português](https://www.sejda.com/pt/upgrade)
+*   [Română](https://www.sejda.com/ro/upgrade)
+*   [Русский](https://www.sejda.com/ru/upgrade)
+*   [Suomi](https://www.sejda.com/fi/upgrade)
+*   [Svenska](https://www.sejda.com/sv/upgrade)
+*   [ภาษาไทย](https://www.sejda.com/th/upgrade)
+*   [Tiếng Việt](https://www.sejda.com/vi/upgrade)
+*   [Türkçe](https://www.sejda.com/tr/upgrade)
+*   [Українська](https://www.sejda.com/uk/upgrade)
+
+We're sorry, something went wrong. Please contact support at hi@sejda.com
+
+Verification code is incorrect
+
+Too many attempts. Please try again later.
+
+An error occurred. Please try again or contact support.
+
+Processing, please wait...
+
+Sign in
+
+Click to edit
+
+Sorry, unsupported image format:
+
+We support the following image types:
+
+You already have an active monthly subscription
+
+Trying to add more seats? You can do this from your account page
+
+Please verify your email address before continuing with your purchase
+
+We couldn't connect to GoogleDrive. Your browser (or add-ons) might be blocking the load of javascript files from GoogleDrive
+
+Are you sure you want to remove the recent files list?
+
+Continue
+
+Cancel
+
+Incorrect password
+
+[](https://www.sejda.com/pricing)
+
+# Select a plan that's right for you
+
+# Select a plan that's right for your business
+
+*   [Personal](https://www.sejda.com/pricing#personalTab)
+*   [Teams & Volume discounts](https://www.sejda.com/pricing#teamsTab)
+
+ Showing pricing for **1 users**. [Change team size](javascript://)
+
+Web Week Pass
+
+$
+
+5
+
+per user
+
+for 7 days
+
+20% volume discount   
+for 10 users
+
+One-time payment  
+
+Select
+
+1.   7 days access to Sejda Web
+2.   No access to [Sejda Desktop](https://www.sejda.com/desktop)
+
+[Desktop Week Pass available here](https://www.sejda.com/desktop?view=pricing)
+
+Web Monthly
+
+$
+
+7 50
+
+per user
+
+per month
+
+20% volume discount   
+for 10 users
+
+Recurring billing  
+
+Select
+
+1.   Access to Sejda Web
+2.   No access to [Sejda Desktop](https://www.sejda.com/desktop)
+
+Desktop+Web Annual
+
+Save 30% over monthly
+
+$
+
+63
+
+per user
+
+per year
+
+20% volume discount   
+for 10 users
+
+Recurring billing  
+
+Select
+
+1.   Access to Sejda Web
+2.   A year access to [Sejda Desktop](https://www.sejda.com/desktop)
+
+![Image 5](https://www.sejda.com/images/credit-card-logos-visa-mastercard-amex-paypal.png)
+
+### Included with all paid plans
+
+1.   Browser based access to all PDF tools
+2.   Unlimited documents, no page or hourly limits OCR documents up to 100 pages
+3.   Processing multiple files at once
+4.   More processing time per task, up to 21 minutes
+5.   Large file uploads, up to 500MB per file
+6.   Email support
+
+# Forever free to use
+
+## No signup required. Limited usage and features
+
+Desktop+Web Free
+
+$
+
+0
+
+per user
+
+Free  
+
+[Get started](https://www.sejda.com/pdf-editor)
+
+1.   Page and hourly limits
+2.   Limited file uploads
+3.   Tool specific limits
+4.   No signup required
+5.   Try also [Sejda Desktop](https://www.sejda.com/desktop)
+
+![Image 6](https://www.sejda.com/images/pages/upgrade/team.png)
+
+### Powering teams around the world
+
+1.   Volume discount starting from just 2 members.
+2.   Easy setup and management
+3.   [View team pricing](javascript://)
+
+×
+
+### Account Details
+
+## Enter the details of your new account
+
+#### Already have an account? [Log in](javascript://)
+
+Did you mean [other@email.com](javascript://) ?
+
+  
+
+Enter a password
+
+  
+
+Verification code is incorrect
+
+Email verification code 
+Please confirm it's really you.  
+Check your inbox. We've sent a verification code to your email address.   
+  
+ No email? Check your "Spam" folder or use the previously received verification code.
+
+- [x]  I agree to the [Terms of Use](https://www.sejda.com/terms) and [Privacy Policy](https://www.sejda.com/privacy) 
+
+[Continue](javascript://)
+
+OR
+
+ Continue with Google 
+
+### Plan details
+
+Tax calculated at the next step
+
+Users:  - [Change](javascript://)
+
+Access to Sejda Web
+
+× No access to Sejda Desktop - [Alternatives](https://www.sejda.com/desktop#pricing)
+
+### Account Details
+
+Email 
+
+ Purchasing for your team? You seem to be logged in as a team member. Please log in as the team owner. 
+
+### Billing Details
+
+Country   
+
+First name 
+
+Last name 
+
+  
+Company name (optional)   
+
+VAT number seems invalid
+
+VAT Number (optional)   
+
+### Plan details
+
+Tax calculated at the next step
+
+Users:  - [Change](javascript://)
+
+Access to Sejda Web
+
+× No access to Sejda Desktop - [Alternatives](https://www.sejda.com/desktop#pricing)
+
+ You've selected a Web-only plan that does not include access to Sejda Desktop. No license key will be provided.  
+  
+[See plans that include Desktop access](https://www.sejda.com/desktop#pricing)
+
+- [x]  I agree to the [Terms of Use](https://www.sejda.com/terms) and [Privacy Policy](https://www.sejda.com/privacy) 
+
+[Continue to Payment](javascript://)
+
+ This order will be placed through FastSpring, our online authorized reseller & merchant of record. 
+
+Please fill out your first name
+
+Please fill out your last name
+
+Please accept the Terms of Use and Privacy Policy
+
+Turn auto-renewal off
+
+Subscription auto-renews monthly
+
+Subscription auto-renews yearly
+
+Cancel anytime
+
+Next renewal will be
+
+One-time payment
+
+One-time payment (auto-renewal disabled)
+
+Email seems invalid
+
+Please choose a password that is at least 8 characters
+
+# Common questions
+
+#### How can I cancel my subscription?
+
+To cancel a recurring subscription just click 'Stop auto-renewal' from [your account page](https://www.sejda.com/account). You can also email hi@sejda.com.
+
+The Week Pass plan is a one-time charge, not a recurring subscription. It does not automatically renew and downgrades to free after 7 days.
+
+#### Can I cancel at any time?
+
+You can cancel auto-renewal of your subscription at any time. The subscription will no longer auto-renew and it will cancel at the end of the current billing cycle.
+
+#### Can I subscribe only one month / year?
+
+Yes. Simply cancel auto-renewal immediately after signing up and you'll only be charged for the current billing cycle.
+
+#### Will my subscription be automatically renewed?
+
+The Week Pass is a one-time charge, not a recurring subscription. It does not automatically renew and downgrades to free after 7 days.
+
+The Monthly and Annual plans are recurring subscriptions and will continue until you cancel.
+
+Subscriptions auto-renew at the end of each term and you will be charged for the subsequent term.
+
+#### What is Sejda Web?
+
+Sejda Web are the online browser-based tools, where you upload your documents and process them on our servers.
+
+#### What is Sejda Desktop?
+
+[Sejda Desktop](https://www.sejda.com/desktop) is an application that you download and install on your computer. It processes documents on your local computer, without uploading them to our servers.
+
+ More questions? [Contact us](javascript://)
+
+×
+
+ Team pricing & volume discounts 
+
+What is your team size? Show team pricing 
+
+Volume Discounts
+| Quantity | Discount |
+| --- | --- |
+| 2-4 | 10% |
+| 5-24 | 20% |
+| 25-49 | 40% |
+| 50+ | 60% |
+
+Almost done! Please confirm your email address.
+
+ Check your inbox. We've sent an email with a confirmation link to your address: 
+
+[Wrong email?](https://www.sejda.com/account?changeEmail=true)
+
+Account already confirmed?[Continue](javascript://)
+
+Please turn off the VPN connection
+
+ We detected you are using a VPN connection.  
+ Please turn off the VPN connection to continue with your purchase. 
+
+![Image 7](https://www.sejda.com/images/pages/upgrade/turn-vpn-off.png)
+
+[Contact support](https://www.sejda.com/contact)[I've turned VPN off](javascript://)
+
+Verify email address
+
+Please confirm it's really you. Check your inbox  
+ We've sent a verification code to your email address.
+
+Email verification code 
+No email? Check your "Spam" folder or use the previously received verification code.
+
+[Continue](javascript://)

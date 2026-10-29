@@ -1,0 +1,239 @@
+SOURCE: https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality
+
+Title: How can I access Excel compare sheet functionality? - Microsoft Q&A
+
+URL Source: https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality
+
+Markdown Content:
+[Skip to main content](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality#main)
+
+## Microsoft Ignite
+
+November 17–20, 2026
+
+Interactive learning, certifications, and direct access to experts all in one place.
+
+[Register now](https://ignite.microsoft.com/home?wt.mc_ID=msignite26_gmee_corp_np_oo_MSLearnRegLaunch)
+
+Dismiss alert
+
+This browser is no longer supported.
+
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+[Download Microsoft Edge](https://go.microsoft.com/fwlink/p/?LinkID=2092881)[More info about Internet Explorer and Microsoft Edge](https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge)
+
+[Learn](https://learn.microsoft.com/en-us/)[](https://www.microsoft.com/)
+
+Suggestions will filter as you type
+
+[Sign in](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality#)
+
+![Image 6](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality)
+
+![Image 7](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality)
+
+*   [Profile](https://learn.microsoft.com/en-us/users/me/activity/)
+*   [Analytics](https://learn.microsoft.com/en-us/users/me/analytics/)
+*   [Settings](https://learn.microsoft.com/en-us/users/me/settings/)
+
+[Sign out](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality#)
+
+[](https://www.microsoft.com/)[Learn](https://learn.microsoft.com/en-us/)
+
+*   Documentation
+
+    *   [All product documentation](https://learn.microsoft.com/en-us/docs/)
+    *   [Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular)
+    *   [Dynamics 365 documentation](https://learn.microsoft.com/en-us/dynamics365/)
+    *   [Microsoft Copilot documentation](https://learn.microsoft.com/en-us/copilot/)
+    *   [Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/)
+    *   [Power Platform documentation](https://learn.microsoft.com/en-us/power-platform/)
+    *   [Code samples](https://learn.microsoft.com/en-us/samples/)
+    *   [Troubleshooting documentation](https://learn.microsoft.com/en-us/troubleshoot/)
+
+Register now
+
+[Microsoft Ignite | November 17-20, 2026](https://ignite.microsoft.com/home?wt.mc_ID=msignite26_gmee_corp_np_oo_MSLearnRegLaunch)
+Interactive learning, certifications, and direct access to experts all in one place.
+
+*   Training & Labs
+
+    *   [All training](https://learn.microsoft.com/en-us/training/)
+    *   [Azure training](https://learn.microsoft.com/en-us/training/browse/?products=azure)
+    *   [Dynamics 365 training](https://learn.microsoft.com/en-us/training/browse/?products=dynamics-365)
+    *   [Microsoft Copilot training](https://learn.microsoft.com/en-us/training/browse/?products=ms-copilot)
+    *   [Microsoft 365 training](https://learn.microsoft.com/en-us/training/browse/?products=m365)
+    *   [Microsoft Power Platform training](https://learn.microsoft.com/en-us/training/browse/?products=power-platform)
+    *   [Labs](https://learn.microsoft.com/en-us/labs/)
+    *   [Credentials](https://learn.microsoft.com/en-us/credentials/)
+    *   [Career paths](https://learn.microsoft.com/en-us/training/career-paths/)
+
+Register now
+
+[Microsoft Ignite | November 17-20, 2026](https://ignite.microsoft.com/home?wt.mc_ID=msignite26_gmee_corp_np_oo_MSLearnRegLaunch)
+Interactive learning, certifications, and direct access to experts all in one place.
+
+*   Q&A
+
+    *   [Ask a question](https://learn.microsoft.com/en-us/answers/questions/ask/)
+    *   [Azure questions](https://learn.microsoft.com/en-us/answers/tags/133/azure/)
+    *   [Windows questions](https://learn.microsoft.com/en-us/answers/tags/60/windows/)
+    *   [Microsoft 365 questions](https://learn.microsoft.com/en-us/answers/tags/9/m365/)
+    *   [Microsoft Outlook questions](https://learn.microsoft.com/en-us/answers/tags/131/office-outlook/)
+    *   [Microsoft Teams questions](https://learn.microsoft.com/en-us/answers/tags/108/office-teams/)
+    *   [Popular tags](https://learn.microsoft.com/en-us/answers/tags/)
+    *   [All questions](https://learn.microsoft.com/en-us/answers/questions/)
+
+Register now
+
+[Microsoft Ignite | November 17-20, 2026](https://ignite.microsoft.com/home?wt.mc_ID=msignite26_gmee_corp_np_oo_MSLearnRegLaunch)
+Interactive learning, certifications, and direct access to experts all in one place.
+
+*   Topics
+
+    *   [Agents](https://learn.microsoft.com/en-us/agents/)
+Key concepts and resources for agentic computing 
+    *   [Artificial intelligence](https://learn.microsoft.com/en-us/ai/)
+Curated resources for AI fluency with apps and services 
+    *   [DevOps](https://learn.microsoft.com/en-us/devops/)
+DevOps practices, Git version control and Agile methods 
+    *   [Learn for Organizations](https://learn.microsoft.com/en-us/training/organizations/)
+Curated offerings from Microsoft to boost your team’s technical skills 
+    *   [Security](https://learn.microsoft.com/en-us/security/)
+Guidance to help you tackle security challenges 
+    *   [Startups hub](https://learn.microsoft.com/en-us/startups/)
+Technical guidance to move toward enterprise readiness 
+    *   [Assessments](https://learn.microsoft.com/en-us/assessments/)
+Interactive guidance with custom recommendations 
+    *   [Student hub](https://learn.microsoft.com/en-us/training/student-hub/)
+Self-paced and interactive training for students 
+    *   [Educator center](https://learn.microsoft.com/en-us/training/educator-center/)
+Resources for educators to bring technical innovation in their classroom 
+
+Register now
+
+[Microsoft Ignite | November 17-20, 2026](https://ignite.microsoft.com/home?wt.mc_ID=msignite26_gmee_corp_np_oo_MSLearnRegLaunch)
+Interactive learning, certifications, and direct access to experts all in one place.
+
+Suggestions will filter as you type
+
+[Sign in](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality#)
+
+![Image 8](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality)
+
+![Image 9](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality)
+
+*   [Profile](https://learn.microsoft.com/en-us/users/me/activity/)
+*   [Analytics](https://learn.microsoft.com/en-us/users/me/analytics/)
+*   [Settings](https://learn.microsoft.com/en-us/users/me/settings/)
+
+[Sign out](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality#)
+
+[Q&A](https://learn.microsoft.com/en-us/answers/)
+*   [Questions](https://learn.microsoft.com/en-us/answers/questions/)
+*   [Tags](https://learn.microsoft.com/en-us/answers/tags/)
+*   [Help](https://learn.microsoft.com/en-us/answers/support/)
+*   More
+    *   [Questions](https://learn.microsoft.com/en-us/answers/questions/)
+    *   [Tags](https://learn.microsoft.com/en-us/answers/tags/)
+    *   [Help](https://learn.microsoft.com/en-us/answers/support/)
+
+[Ask a question](https://learn.microsoft.com/en-us/answers/questions/ask/)
+
+# How can I access Excel compare sheet functionality?
+
+![Image 10](blob:http://localhost/cee764328d9a9220409b781e4cd94784)
+
+ Anonymous 
+
+Mar 18, 2024, 7:55 PM
+
+Need access to Excel sheet compare tool, but it looks like it's available only on certain Office 365 versions.
+
+I have this Microsoft Office 365 version: Microsoft 365 Apps for enterprise - en-us #16.0.17231.20290" installed license is "Office 365 E5.
+
+Thank you.
+
+Regards,
+
+LG
+
+Microsoft 365 and Office | Excel | For business | Windows
+
+[Microsoft 365 and Office | Excel | For business | Windows](https://learn.microsoft.com/en-us/answers/tags/379/m365-office-office-excel-business-platform-windows/)
+A family of Microsoft spreadsheet software with tools for analyzing, charting, and communicating data
+
+![Image 11](https://learn.microsoft.com/answers/media/logo-microsoft.svg)
+
+ Sign in to follow  Follow 
+
+Locked Question.This question was migrated from the Microsoft Support Community. You can vote on whether it's helpful, but you can't add comments or replies or follow the question.
+
+0 comments No comments
+
+Same question  (0) 
+
+Follow
+
+Answer accepted by question author
+
+![Image 12](blob:http://localhost/cee764328d9a9220409b781e4cd94784)
+
+ Anonymous 
+
+Mar 19, 2024, 10:01 AM
+
+You are welcome:)
+
+Was this answer helpful?
+
+Yes No
+
+ 1 person found this answer helpful. 
+
+0 comments No comments
+
+## 2 additional answers
+
+Sort by:  Most helpful 
+
+[Most helpful](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality?orderby=helpful&page=1#answers)[Newest](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality?orderby=newest&page=1#answers)[Oldest](https://learn.microsoft.com/en-us/answers/questions/5300828/how-can-i-access-excel-compare-sheet-functionality?orderby=oldest&page=1#answers)
+
+1.   ![Image 13](blob:http://localhost/cee764328d9a9220409b781e4cd94784)  Anonymous    Mar 19, 2024, 9:09 AM  Hi, good morning.
+
+I got it, thanks for your help.
+
+Regards,
+
+Luis   Was this answer helpful?
+
+Yes No        0 comments No comments      
+2.   ![Image 14](blob:http://localhost/cee764328d9a9220409b781e4cd94784)  Anonymous    Mar 19, 2024, 2:45 AM  Spreadsheet compare is available for Microsoft 365 Apps for enterprise. You should be able to use it.
+
+Click on the Start menu and search for "Spreadsheet Compare".
+
+[Basic tasks in Spreadsheet Compare - Microsoft Support](https://support.microsoft.com/en-us/office/basic-tasks-in-spreadsheet-compare-f2b20af8-a6d3-4780-8011-f15b3229f5d8 "support.microsoft.com")   Was this answer helpful?
+
+Yes No        0 comments No comments      
+
+[English (United States)](https://learn.microsoft.com/en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fanswers%2Fquestions%2F5300828%2Fhow-can-i-access-excel-compare-sheet-functionality)
+
+[Your Privacy Choices](https://aka.ms/yourcaliforniaprivacychoices)
+
+Theme
+
+*    Light 
+*    Dark 
+*    High contrast 
+
+*   [AI Disclaimer](https://learn.microsoft.com/en-us/principles-for-ai-generated-content)
+*   [Previous Versions](https://learn.microsoft.com/en-us/previous-versions/)
+*   [Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
+*   [Contribute](https://learn.microsoft.com/en-us/contribute)
+*   [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839)
+*   [Consumer Health Privacy](https://go.microsoft.com/fwlink/?linkid=2259814)
+*   [Terms of Use](https://learn.microsoft.com/en-us/legal/termsofuse)
+*   [Code of Conduct](https://aka.ms/msftqacodeconduct)
+*   [Trademarks](https://www.microsoft.com/legal/intellectualproperty/Trademarks/)
+*   © Microsoft 2026

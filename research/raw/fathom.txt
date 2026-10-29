@@ -1,0 +1,204 @@
+SOURCE: https://fathom.video/pricing
+
+Title: Free Plan or Plans from $15/mo
+
+URL Source: https://fathom.video/pricing
+
+Markdown Content:
+$19
+
+/month / per user  
+(2 user min)
+
+*   Unlimited meetings captured & instant AI summaries
+
+*   AI generated action items
+
+*   Conversational meeting assistant
+
+*   Playlists of highlights from meetings
+
+*   Collaboration using comments, folders, keyword alerts, + more
+
+/month / per user  
+(2 user min)
+
+*   Everything from Team
+
+*   CRM field sync, updating records after meetings automatically
+
+*   Deal View summarizing insights
+
+*   Coaching metrics & AI scorecards
+
+*   Advanced call summaries, including custom summaries*
+
+*   Everything from Business
+
+*   Launch Assist Onboarding Program
+
+*   Organization-wide security controls
+
+*   SSO &SCIM provisioning
+
+*   Custom data retention programs
+
+*   Dedicated Success Manager &priority Support SLAs
+
+$0
+
+*   Unlimited recordings + transcriptions
+
+*   Choice of bot-free (in beta) or bot capture
+
+*   Instant AI call summaries
+
+*   Clips, playlists + search across calls
+
+$20
+
+$16
+
+$20
+
+/month / per user  
+
+*   Everything from Free
+
+*   Advanced call summaries
+
+*   AI-generated action items
+
+*   Conversational meeting assistant
+
+*   Custom meeting bot
+
+$19
+
+/month / per user  
+(2 user min)
+
+*   Everything from Premium
+
+*   Global search across calls
+
+*   Playlists of highlights from meetings
+
+*   Collaboration using comments, folders, keyword alerts, + more
+
+Get the best plan for your team. [Talk to sales →](https://fathomvideo.typeform.com/to/AYeoqHBS?source=for-teams&typeform-source=fathom.video?utm_source=pricingpage&utm_medium=CTA&utm_content=talktosales&utm_date=&typeform-source=www.fathom.ai)
+
+Free
+
+Premium
+
+Team
+
+Business
+
+Enterprise
+
+NEW! Choice of bot-free* and bot capture-types  
+(*Beta feature for Mac)
+
+Recordings & call storage (unlimited)
+
+Transcription (unlimited)
+
+Call downloads and clips (unlimited)
+
+Playlists of clips & highlights for your meetings
+
+Playlists of clips & highlights for all team meetings
+
+Automated summaries
+
+Advanced summaries
+
+AI action items
+
+AI follow-up emails
+
+Coaching metrics
+
+Custom summaries
+
+Attendee and keyword search in your meetings
+
+Ask Fathom: AI within a single call
+
+Account-wide Ask Fathom: AI for all calls  
+(*Beta feature)
+
+Search and engage with all your meetings in a ChatGPT-like interface, instantly getting answers, insights, and actions.
+Paid plans have unlimited lookback for "my calls"; team calls lookback window depends on plan tier.
+
+Unlimited for "My Calls"
+
+Unlimited for "My Calls"; limited lookback for "Team Calls"
+
+Attendee and keyword search in all team meetings
+
+Trackers
+
+Team members
+
+Team recordings view
+
+Team folders
+
+Comments & mentions
+
+Customer view
+
+Deal view
+
+NEW! Claude &ChatGPT Integrations
+
+Zapier, Make & other automation integrations
+
+Slack integration
+
+Public API &MCP
+
+CRM syncs
+
+Max 3 users/ domain
+
+Max 3 users/ domain
+
+Max 3 users/ domain
+
+Disable in-meeting banner
+
+Custom bot name
+
+CRM Field sync
+
+Launch Assist Onboarding
+
+$
+
+Custom data retention policies
+
+Single sign-on integration
+
+Okta SCIM provisioning
+
+Organization wide security controls
+
+Increased cyber security insurance coverage
+
+Custom contracts &red-line support
+
+Dedicated Customer Success &channel
+
+HIPAA: signed BAA
+
+![Image 1](https://cdn.prod.website-files.com/6899da9beccbdbe92be49b5d/69bbff09dbe897434a07dfae_astronaut_analysis.png)
+
+## Ready to explore what’s out there?
+
+Whether you’d like to learn more about Fathom, how it works for your team, or which plan is the best fit – our sales team is here to help.
+
+[Contact sales](https://fathom.video/pricing#)

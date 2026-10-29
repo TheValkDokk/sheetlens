@@ -1,0 +1,272 @@
+SOURCE: https://www.trustpilot.com/review/fireflies.ai
+
+Title: Fireflies.ai is rated "Excellent" with 4.5 / 5 on Trustpilot
+
+URL Source: https://www.trustpilot.com/review/fireflies.ai?stars=1
+
+Markdown Content:
+### Top mentions
+
+Application User experience Staff Recommendation Customer communications Service Quality Response time Subscription Invitation
+
+1-star
+
+* * *
+
+## [Support is TERRIBLE](https://www.trustpilot.com/reviews/6ac66b228f92b6cd6e144192)
+
+The Good:  
+Web app is pretty good, particularly at discerning individual voices in a noisy environment.
+
+The Bad:  
+Mac desktop app is dreadful. Doesn't work properly, no audio recording available and whatever I do to turn the auto join setting off it tries to join every call I make on my Mac in google Meet, Zoom and Whatsapp. I deleted it in the end.
+
+However, the worst aspect of Fireflies is the absolutely terrible support. I had a billing issue which has caused my account to be downgraded to the free version, losing access to all of my meetings. I cannot speak to anybody, and I'm just helplessly waiting for somebody to pick up my increasingly frantic emails and get back to me to restore my access. Meanwhile, I'm having to postpone calls until this access is restored, which fundamentally impacts my business.
+
+Fireflies, like many other applications these days, hides behind a fairly useless AI support bot. I'd avoid it unless you have a robust backup in place. I'm certainly not going to rely on it going forward.
+
+October 7, 2026
+
+Unprompted review
+
+Hi Steve, we understand your concern. It shows that the billing issue has been handled now. We really apologize for any inconvenience this may have caused you. Please do not hesitate to reach out if you need further assistance.
+
+## [Pas op trap er niet in die proefperiode je komt niet zomaar van ze af scam !!](https://www.trustpilot.com/reviews/6ac1216369282b7aefb615f6)
+
+Incredible company I have requested a trial in September for 7 days.
+
+But after a few minutes I didn't want it anymore because I have another program.
+
+So I have stopped my trial period immediately and today they are charging 200 euros from my account for something I don't even use, seriously, I want my money back.  
+I would think 100 times before I start the trial period. An unfair business: if you don't complete and cancel the trial period, you will still remain active in their system. This is their trick. You will not receive proof of cancellation via email. This is their way of covering themselves up later by claiming something went wrong during the procedure, so they can continue with your money. This is exactly what I experience with these people. Only one warned person counts for 10. With your bank account, they will try to withdraw money until it succeeds. They are criminals and scammers running this platform.  
+Ik ga aangifte doen en zoek juridisch hulp zodat er iets gedaan word tegen deze lui .
+
+October 3, 2026
+
+Unprompted review
+
+Hello, Cedje. We understand why you feel that way especially after seeing the charge despite thinking that you had canceled the trial. We reviewed the account and saw that the trial was still active.
+
+But, no worries, Cedje. We see that this has already been addressed by our Support team, and hope that everything's clear now. Please do not hesitate to reach out if you have concerns.
+
+## [Subscribing is easy, cancellation however....](https://www.trustpilot.com/reviews/6ab3a99517ac7fda7ab0e897)
+Cancelling subscription is a tough process where Fireflies tries to put you on another subscription by all kind of marketing tricks... Extremely annoying and disappointing
+
+September 23, 2026
+
+Unprompted review
+
+Hello Stefan, we apologize if you feel this way when cancelling your subscription. Allow me to check this for you and make sure it has been done correctly. Kindly send us an email to support@fireflies.ai and we will be more than happy to assist. Looking forward to it!
+
+## [Somehow my account automatically turned…](https://www.trustpilot.com/reviews/6aaa8a74799a9c9ad3d7e523)
+
+Somehow my account automatically turned into a paid account without my knowledge. I have never signed up for a premium/paid account.
+
+I have asked support already for a refund but no help there...
+
+September 16, 2026
+
+Unprompted review
+
+Hi! I'm sorry to hear about this. We'll definitely want to sort this out. Can you please send us your information so we can look this up for you?
+
+## [Important meetings were not recorded…](https://www.trustpilot.com/reviews/6a9823f577bc8fb11751431d)
+
+Important meetings were not recorded and cannot be recovered
+
+Within a short period of time, Fireflies failed to record six important meetings.
+
+meetings lasted approximately 90 minutes, but only around two minutes were recorded. One meeting was not recorded at all.
+
+Fireflies’ engineering team investigated the issue and confirmed that the recording capture stalled while the meetings were in progress. They also confirmed that the missing sections were never captured or uploaded and therefore cannot be recovered.
+
+Fireflies has now deployed additional alerts to help detect this problem. However, this does not restore the lost recordings, transcripts, agreements or action points.
+
+I am not writing this review to attack Fireflies. I am writing it to warn other users who rely on Fireflies as the only record of their meetings. A meeting-recording service must first and foremost record the complete meeting reliably.
+
+Until Fireflies can guarantee that this issue has been resolved, I strongly recommend making a separate backup recording of every important meeting.
+
+September 1, 2026
+
+Unprompted review
+
+Hi. Gertjan! Thank you for taking the time to share such honest feedback. We completely understand how frustrating it must have been to lose important portions of meetings, especially when you were relying on Fireflies to capture the full conversations. Rest assured that our team has already fixed this and as mentioned in our email, we have added additional safeguards to prevent this from happening again.
+
+## [The most annoying possible experience…](https://www.trustpilot.com/reviews/6a909add22e9e2c2fc8b0963)
+The most annoying possible experience for logged out users. I scroll down the transcript and it constantly prompts me to log in. I don't want to log in, I just want to view the transcript for the meeting I just was in! And when I finally give in and log in with my google account *IT PREVENTS ME FROM LOGGING IN IF I DON'T GIVE IT ACCESS TO MY ENTIRE GOOGLE CALENDAR? WTF??* holy shit this is the darkest of dark patterns I have ever witnessed wow
+
+August 27, 2026
+
+Unprompted review
+
+1
+
+Thanks for the honest feedback, and sorry this was a frustrating experience. Being nudged to log in while you're just trying to read a transcript is a fair thing to be annoyed by, and the point about the Google permissions during sign-in is worth a closer look. This is useful, and we'd like to understand exactly what you hit so we can pass it to the right team. If you're open to it, drop the details to support@fireflies.ai and we'll dig in. Either way, we appreciate you taking the time to flag it.
+
+## [Incorrectly Charged Me](https://www.trustpilot.com/reviews/6a84957415daa08144cd22e6)
+Charged me incorrectly after a free trial ended, despite me having already cancelled the free trial. Scammy behaviour, automatic one star review.
+
+August 18, 2026
+
+Unprompted review
+
+Hi Alex! We understand how frustrating this can be. We would like to look into this. Could you please DM your email address?
+
+We look forward to hearing from you.
+
+## [Very bad service with Fireflies](https://www.trustpilot.com/reviews/6a794ef41b8180e5b42cae86)
+
+had a very bad service with Fireflies. They were quick to schedule a meeting with one sales representatives. But when we cancel the trial a day before it ends, they nevertheless keep charging to the card despite lots of follow-up emails on our side.
+
+The sales person also did not respond despite emailing her. All email are replied by AI for queries and it is a very untrained AI, that keeps sending the same message. Highly not recommend as after sales service is extremely poor
+
+August 10, 2026
+
+Unprompted review
+
+Hello, Anjali! Apologies if you felt we were not attending to your emails. Upon checking, it shows that your (and your colleague's) trial has now been canceled. Rest assured that no charges were made.
+
+## [Unable to cancel account, no response from support](https://www.trustpilot.com/reviews/6a7348eeccd703a9d5b15900)
+
+I lost access to the email acc my ff account was created under after leaving a job. I contacted support twice to cancel, zero response. Fireflies kept attempting to charge me for a subscription I can't even log into.
+
+Avoid.
+
+July 31, 2026
+
+Unprompted review
+
+Hello Anton! I understand how this can be frustrating. We tried to locate the email you sent using your name, but did not find any. Can you kindly DM us your email address so we can check this for you? Looking forward to your response.
+
+## [Very hard to cancel](https://www.trustpilot.com/reviews/6a31964980bcbc4fe8cd1419)
+Very hard to cancel, could not delete my card or cancel subscription. Had to cancel with my bank in the end.
+
+June 16, 2026
+
+Unprompted review
+
+1
+
+Hi Louise! We appreciate you bringing this to our attention. Can you kindly share your email address with us so we can check for you? You can also reach out to us at support@fireflies.ai and we'll be more than happy to assist.
+
+## [Dark patterns and sketchy behaviour](https://www.trustpilot.com/reviews/6a259b8c33bc003cce55db78)
+
+Signed up for a free trial, never actually used the product. After testing briefly, I found it didn't meet my needs (no invisible bot mode for Google Meet) and moved on.  
+What followed was a pattern I can only describe as predatory: Fireflies attempted to charge my card 10+ times over two weeks without any prior notice — no "your trial ends tomorrow" email, nothing. All failed due to insufficient funds. The account was already cancelled when several of these attempts were made. They kept trying regardless.  
+Dark patterns during onboarding, zero transparency on billing, and charges continuing post-cancellation. That's not a bug — that's a business model.
+
+Update June 13: Following Fireflies' public reply asking me to contact support[at]fireflies.ai, I did exactly that on June 8. One week later, zero response — while their system continued attempting to charge my card, most recently on June 12, weeks after account cancellation. The public "we'll help you" response was performative. Avoid.
+
+Update June 14: After posting this review and repeated follow-ups over several weeks, Fireflies finally responded — confirming account cancellation, card detail removal, and cessation of charge attempts. Hopefully the issue is resolved, but only after significant escalation. The underlying problem (dark pattern onboarding, aggressive retry billing, slow support) remains worth flagging for anyone considering the service.
+
+June 1, 2026
+
+Unprompted review
+
+4
+
+Hi, Andrea! We understand you felt you were being charged unfairly. Can you kindly send us your email here, or to support@fireflies.ai so we can check this further for you? Looking forward to it!
+
+## [Signed up for a trial with every…](https://www.trustpilot.com/reviews/6a1f35574e90a1e4749c2aca)
+
+Signed up for a trial with every expectation to pre-pay for a full year up front.. so glad I didn't! -- I worked with their support to ensure everything was configured correctly, but in the first 4 meetings that I attended after setting up Fireflies, not a single one recorded properly (or at all, actually).
+
+Their support team was useless and basically just said errors occurred and/or they were not even able to see the meetings on my calendar. To be honest, I'm not sure what's worse? I would be fine if a random error occurred, but going 0/4 in my meetings, some of which they could not even see, or diagnose the issue was beyond alarming.
+
+Instantly cancelling and signing up for a different product.
+
+Fireflies support- look me up please.. clearly you have a popular product, but what the actual hell is going on?
+
+June 2, 2026
+
+Unprompted review
+
+3
+
+Hi Andrew, we're sorry that some of your meetings were not recorded. We were able to locate your ticket and the escalation. Will respond to you via email regarding this.
+
+## [Waiting for support FOR 3+ HOURS in chat is a joke](https://www.trustpilot.com/reviews/6a14b37e7e6a0833119011ec)
+"Chat with support" bumps you into AI chatbot, with no clear way to get to human. You need to make a lot of effort to initiate human to chat with you. After I initiated that I had to wait FOR 3+ HOURS for human to respond, in the middle of working day. Even after that, response was useless. What a joke.
+
+May 14, 2026
+
+Unprompted review
+
+1
+
+Hi Abdu! We're really sorry about the experience you had. We'd like to check your concern and make sure that we address it properly. Kindly send us an email at support@fireflies.ai so we can investigate. Thank you!
+
+## [I feel Fireflies.ai is fake](https://www.trustpilot.com/reviews/6a1446fbbc6659ae30f9a3ad)
+I feel Fireflies.ai is fake, because they advertise their free plan as unlimited transcribe, however when I registered, because of a very important meeting with a client, just after registering I got an email I... exhausted all transcription credits, before I even had a proper meeting!   
+Even more, nowhere on you website could I find limits of transcription!  
+Moreover, the link to "Learn more about getting free credits." is broken - it shows "404 Not found".  
+I emailed them 6 days ago with details of this issue, but they never replied. Looks like a fake company.
+
+May 19, 2026
+
+Unprompted review
+
+1
+
+## [Used to be great](https://www.trustpilot.com/reviews/6a0f02d1bc96ca6757ca27cc)
+Used to be great, currently waiting for over 3 weeks for an actual reply to how they lost a week of my work calls. Having to use Otter to belt and braces even though I pay for fireflies and its a nightmare using their phone app as its a drama to sign in via google and every single time you open the app you need to sign in again. Will not be renewing contract. Customer support is mindblowingly bad.
+
+May 21, 2026
+
+Unprompted review
+
+1
+
+Hi! I'm sorry to hear about this experience. I would like to look into this personally and make sure it gets resolved. Could you please send your account email to support@fireflies.ai with the subject line "Trustpilot – Lost Calls"? That way we can easily locate your email and prioritize your case and get you a proper answer.
+
+## [Warning to those who rely on transcripts for work](https://www.trustpilot.com/reviews/6a0bf567aac3bf3e5b302a99)
+Having used this product for a long time I was left devastated when a weeks work of important meetings did not come through among further issues, 3 weeks later and many agonising attempts to communicate with their awful AI chatbot horribly named Sushi I have gotten nowhere, there is no actual human to speak to, no accountability, no explanation, nothing, the fact it’s been 3 weeks and they can’t even bother to explain what’s gone on and provide any reassurance for the future is utterly appalling - this is a warning should you wish to use them for important work calls - there is zero actual support and a chance you will be left stressed and with a cost to your business. Huge disappointment and another example of a company going drastically down hill in a bid to reduce their costs.
+
+May 19, 2026
+
+Unprompted review
+
+1
+
+## [FireFlies Scams And Shady Business Practices - Otter.Ai Is Much Better](https://www.trustpilot.com/reviews/6a05cbe17e39b78f60eff813)
+This company has shady business practices. After trial they force you to sign up to business and you can't select the lower tier. You have to pay then downgrade.  
+While using the app, they silently, without disclosing it upfront on trial, and signing up for trial process, will auto-upgrade you to use more AI credits and will charge your account silently without you knowing. They make multiple charges and will try to bill your credit card without your consent.  
+I had to block my card and cancel the subscription. otter.ai offers live chat gpt chat assistance without charging AI credits. If I had known prior to that I'd use my own Gemini subscription for transcribing than paying hundreds of dollars for using their 3rd party api integration to ChatGPT. doesn't many sense. they want to charge 10 times more expensive for using chatgpt throught them than making it free like otter.ai.
+
+May 14, 2026
+
+Unprompted review
+
+2
+
+## [Waste of time and impossible to unsubscribe.](https://www.trustpilot.com/reviews/6a02fb468c19f1af43f4cfb5)
+Added AI ad ons without my consent and then charged me for it. The app is clunky and so hard to use when needed and the user interface was crap. They make it hard to Unsubscribe. I followed all the steps and the buttons were greyed out for no reason making it impossible to unsubscribe. Miraculously unsubscribed and still my account showed as active. It is May 2026 and my subscription is paid until November but I opted to have my entire account deleted. I still don't trust this company, so I have already contacted my bank to put blacklist this company from charging me come November. Biggest waste of time for me.
+
+May 12, 2026
+
+Unprompted review
+
+1
+
+## [Agressive shit](https://www.trustpilot.com/reviews/69f865741c68802077ad9017)
+Agressive shit, Total scam.  
+It wants access to your calendar. If you dont want you cant even access web version to delete your account.  
+total shit
+
+May 4, 2026
+
+Unprompted review
+
+1
+
+### The Trustpilot Experience
+
+[Anyone](https://help.trustpilot.com/s/article/Who-can-write-a-review-and-when?language=en_US) can write a Trustpilot review. People who write reviews have ownership to edit or delete them at any time, and they’ll be displayed as long as an [account is active](https://help.trustpilot.com/s/article/Whats-the-retention-period-of-reviews?language=en_US).
+
+We use dedicated people and clever technology to safeguard our platform. Find out how we [combat fake reviews](https://www.trustpilot.com/trust/combating-fake-reviews).
+
+Verification can help ensure [real people](https://help.trustpilot.com/s/article/Verify-your-identity-with-photo-ID?language=en_US) are writing the reviews you read on Trustpilot.
+
+Offering incentives for reviews or asking for them selectively can bias the TrustScore, which goes [against our guidelines](https://help.trustpilot.com/s/article/Who-can-write-a-review-and-when?language=en_US).
+
+[Take a closer look](https://www.trustpilot.com/trust)

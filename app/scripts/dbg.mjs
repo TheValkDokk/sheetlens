@@ -1,0 +1,17 @@
+import puppeteer from "puppeteer-core";
+import fs from "node:fs";
+const CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+const b = await puppeteer.launch({ executablePath: CHROME, headless: "new", args: ["--no-sandbox"] });
+const p = await b.newPage();
+p.on("console", (m) => console.log("CONSOLE", m.type(), m.text()));
+p.on("pageerror", (e) => console.log("PAGEERROR", String(e)));
+await p.goto("http://localhost:4173/", { waitUntil: "networkidle0" });
+fs.writeFileSync("/tmp/g2.xlsx", "PK not really a zip: %%%");
+const input = await p.$("#file");
+console.log("input found:", !!input);
+await input.uploadFile("/tmp/g2.xlsx");
+await new Promise((r) => setTimeout(r, 2500));
+const err = await p.$eval("body", (e) => e.innerText.slice(0, 500));
+console.log("BODY:", err);
+console.log("has .err:", (await p.$(".err")) !== null);
+await b.close();

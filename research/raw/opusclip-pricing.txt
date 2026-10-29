@@ -1,0 +1,634 @@
+SOURCE: https://www.opus.pro/pricing
+MODE: reader
+
+Title: Pricing - OpusClip
+
+URL Source: https://www.opus.pro/pricing
+
+Published Time: Wed, 28 Oct 2026 17:26:50 GMT
+
+Markdown Content:
+## Create & Grow Faster Calculator
+
+Use this calculator to understand how OpusClip helps you save time, post daily, and grow/monetize faster.
+
+How many credits do you need?
+
+credits
+
+Average views of your clips
+
+views
+
+What category?
+
+Which platform will you post to?
+
+![Image 1: YouTube Shorts icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4b47e1eab267ede62658e_YouTube%20Shorts%20icon.svg) ![Image 2: TikTok icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4b47e928735609541a190_TikTok%20icon.svg) ![Image 3: Instagram Reels logo](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/646b9328bbfe80eff9f55cf7_Instagram%20Reels%20Icon.webp)
+
+[Calculate](https://www.opus.pro/pricing#)
+
+**150**
+
+Number of clips you will get
+
+**100****hr**
+
+Time saved per week
+
+**351K**
+
+Extra views gained
+
+**16.93**
+
+**%**
+
+Watch time increase
+
+**$****8.4K**
+
+Potential money saved per month
+
+## Compare all plans
+
+Free
+
+$0
+
+Starter
+
+$15/mo
+
+Pro
+
+$29/mo
+
+Business
+
+Custom
+
+| ![Image 4](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4a90ddf2b3529471ccef4_sparkles%20icon.svg) AI clipping |
+| --- |
+| Processing speed | Regular speed |
+| Video import sources | Local video (Up to 10GB per video) |
+| Auto video import | - |
+| AI clipping |  |
+| AI copilot | Select clipping timeframe Select clip length |
+| Reprompt clipping to finetune the results | - |
+| Custom clip length | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m |
+| Virality score | - |
+| Storage | - |
+| Auto hook | ![Image 5: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 6: AI captions icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df224696171dd4347adf_AI%20captions%20icon.svg) AI captions |
+| Animated caption templates | ![Image 7: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) With watermark |
+| Multi-language transcription | ![Image 8: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | - |
+| Speaker-based caption colors | - |
+| Auto censor curse words | - |
+| Auto emoji and keyword highlights | ![Image 9: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 10: AI reframe icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df22e6f97177db87e9d2_AI%20reframe%20icon.svg) AI reframe |
+| Various aspect ratios | 9:16 |
+| Moving object tracking | - |
+| Genre-specific reframing model | - |
+| Dynamic layout switch | ![Image 11: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Screenshare/gameplay layout | ![Image 12: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom reframing | - |
+| ![Image 13: AI video editing icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4eb6dc298b404e6452859_AI%20video%20editing%20icon.svg) AI video editing |
+| Text & timeline-based editing | - |
+| AI image & stock B-Roll | - |
+| **AI video B-Roll (powered by Agent Opus)** | - |
+| AI Voice-over | - |
+| Speech enhancement | - |
+| Speech cleanup (pause & filler removal) | - |
+| Speech cleanup (bad takes removal) | - |
+| Eye contact correction | - |
+| Transition effects | - |
+| Upload media assets | - |
+| Add music | - |
+| Add text overlay | - |
+| AI video upscaling | - |
+| **Video dubbing** | - |
+| **AI sound effects** | - |
+| ![Image 14: Customization & branding icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ededcb8efc9bfe7f2a73_Customization%20%26%20branding%20icon.svg) Customization & branding |
+| Brand template | 1 template |
+| Intro/outro cards | - |
+| Upload custom font | - |
+| Brand vocabulary | - |
+| Custom media & asset library | - |
+| **Rename clips and projects** | - |
+| ![Image 15: Export & publish icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ef2971bbbc9666c3bd6c_Export%20%26%20publish%20icon.svg) Export & publish |
+| Watermark-free video export | - |
+| Export as MP4 | 3-day limit; Up to 1080p rendered clips |
+| Export in bulk | - |
+| Export to Adobe Premiere Pro & DaVinci Resolve | - |
+| Shareable links to projects | ![Image 16: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Post to social media | - |
+| Social media scheduler | - |
+| Post to multiple profiles per social platform | - |
+| Clip title & description & hashtag generator | - |
+| 4K schedule and download | - |
+| ![Image 17: Team collaboration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4f6d942c9f076663a5b29_Team%20collaboration%20icon.svg) Team collaboration |
+| Team workspace | - |
+| Member seats | - |
+| Media storage | Expires after 3 days |
+| Auto-save projects | - |
+| Collections | - |
+| Sub-teams | - |
+| Member permissions | - |
+| ![Image 18: Analytics icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4fea2b919a344371297e5_Analytics%20icon.svg) Analytics |
+| Clip Analytics | - |
+| Real-time trend analysis | - |
+| ![Image 19: Security icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ff7cc8d792b04f864358_Security%20icon.svg) Security |
+| Email OTP login | ![Image 20: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Single-Sign On (SSO) | - |
+| Software License Management (SLM) | - |
+| SOC II Type 2 compliant | ![Image 21: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 22: Support icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a5002a49b6e80c912f9351_Support%20icon.svg) Support |
+| MSA | - |
+| Customer support | Discord AI chat |
+| Custom onboarding | - |
+| Invoice and ACH Payment | - |
+| ![Image 23: API & integration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a501156a44f957444274ab_API%20%26%20integration%20icon.svg) API & integration |
+| Video Editing API | - |
+| Scheduler API | - |
+| MCP connector | - |
+| CMS integration | - |
+| Zapier integration | - |
+
+| ![Image 24](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4a90ddf2b3529471ccef4_sparkles%20icon.svg) AI clipping |
+| --- |
+| Processing speed | Faster than Free and Trial |
+| Video import sources | Local video (Up to 10GB per video) |
+| Auto video import | From verified YouTube account |
+| AI clipping |  |
+| AI copilot | Select clipping timeframe Select clip length |
+| Reprompt clipping to finetune the results | ![Image 25: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom clip length | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m |
+| Virality score | ![Image 26: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Storage | - |
+| Auto hook | ![Image 27: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 28: AI captions icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df224696171dd4347adf_AI%20captions%20icon.svg) AI captions |
+| Animated caption templates | ![Image 29: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Multi-language transcription | ![Image 30: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | - |
+| Speaker-based caption colors | - |
+| Auto censor curse words | - |
+| Auto emoji and keyword highlights | ![Image 31: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 32: AI reframe icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df22e6f97177db87e9d2_AI%20reframe%20icon.svg) AI reframe |
+| Various aspect ratios | 9:16 |
+| Moving object tracking | - |
+| Genre-specific reframing model | ![Image 33: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Dynamic layout switch | ![Image 34: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Screenshare/gameplay layout | ![Image 35: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom reframing | ![Image 36: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 37: AI video editing icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4eb6dc298b404e6452859_AI%20video%20editing%20icon.svg) AI video editing |
+| Text & timeline-based editing | ![Image 38: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI image & stock B-Roll | AI image B-Roll (3 clips/​month) Stock B-Roll (3 clips/month) |
+| **AI video B-Roll (powered by Agent Opus)** | - |
+| AI Voice-over | 20 per day |
+| Speech enhancement | - |
+| Speech cleanup (pause & filler removal) | ![Image 39: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Speech cleanup (bad takes removal) | - |
+| Eye contact correction | - |
+| Transition effects | - |
+| Upload media assets | - |
+| Add music | - |
+| Add text overlay | ![Image 40: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI video upscaling | ![Image 41: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **Video dubbing** | - |
+| **AI sound effects** | - |
+| ![Image 42: Customization & branding icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ededcb8efc9bfe7f2a73_Customization%20%26%20branding%20icon.svg) Customization & branding |
+| Brand template | 1 template |
+| Intro/outro cards | - |
+| Upload custom font | - |
+| Brand vocabulary | - |
+| Custom media & asset library | - |
+| **Rename clips and projects** | - |
+| ![Image 43: Export & publish icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ef2971bbbc9666c3bd6c_Export%20%26%20publish%20icon.svg) Export & publish |
+| Watermark-free video export | ![Image 44: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export as MP4 | 30-day limit; highest resolution available |
+| Export in bulk | - |
+| Export to Adobe Premiere Pro & DaVinci Resolve | - |
+| Shareable links to projects | ![Image 45: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Post to social media |  |
+| Social media scheduler | - |
+| Post to multiple profiles per social platform | - |
+| Clip title & description & hashtag generator | ![Image 46: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| 4K schedule and download | - |
+| ![Image 47: Team collaboration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4f6d942c9f076663a5b29_Team%20collaboration%20icon.svg) Team collaboration |
+| Team workspace | - |
+| Member seats | - |
+| Media storage | Expires after 29 days |
+| Auto-save projects | - |
+| Collections | - |
+| Sub-teams | - |
+| Member permissions | - |
+| ![Image 48: Analytics icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4fea2b919a344371297e5_Analytics%20icon.svg) Analytics |
+| Clip Analytics | - |
+| Real-time trend analysis | - |
+| ![Image 49: Security icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ff7cc8d792b04f864358_Security%20icon.svg) Security |
+| Email OTP login | ![Image 50: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Single-Sign On (SSO) | - |
+| Software License Management (SLM) | - |
+| SOC II Type 2 compliant | ![Image 51: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 52: Support icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a5002a49b6e80c912f9351_Support%20icon.svg) Support |
+| MSA | - |
+| Customer support | Discord AI chat |
+| Custom onboarding | - |
+| Invoice and ACH Payment | - |
+| ![Image 53: API & integration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a501156a44f957444274ab_API%20%26%20integration%20icon.svg) API & integration |
+| Video Editing API | - |
+| Scheduler API | - |
+| **MCP connector** | - |
+| CMS integration | - |
+| Zapier integration | - |
+
+| ![Image 54](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4a90ddf2b3529471ccef4_sparkles%20icon.svg) AI clipping |
+| --- |
+| Processing speed | Faster than Starter |
+| Video import sources | Local video (Up to 30GB per video) and Public mp4 url |
+| Auto video import | From verified YouTube account |
+| AI clipping |  |
+| AI copilot | Select clipping timeframe Select clip length Topics search Prompt to clip |
+| Reprompt clipping to finetune the results | ![Image 55: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom clip length | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m |
+| Virality score | ![Image 56: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Storage | 100GB fixed storage |
+| Auto hook | ![Image 57: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 58: AI captions icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df224696171dd4347adf_AI%20captions%20icon.svg) AI captions |
+| Animated caption templates | ![Image 59: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Multi-language transcription | ![Image 60: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | ![Image 61: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) Up to 2 fonts |
+| Speaker-based caption colors | - |
+| Auto censor curse words | ![Image 62: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) Default censored words list |
+| Auto emoji and keyword highlights | ![Image 63: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 64: AI reframe icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df22e6f97177db87e9d2_AI%20reframe%20icon.svg) AI reframe |
+| Various aspect ratios | 9:16, 1:1, 16:9 |
+| Moving object tracking | ![Image 65: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Genre-specific reframing model | ![Image 66: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Dynamic layout switch | ![Image 67: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Screenshare/gameplay layout | ![Image 68: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom reframing | ![Image 69: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 70: AI video editing icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4eb6dc298b404e6452859_AI%20video%20editing%20icon.svg) AI video editing |
+| Text & timeline-based editing | ![Image 71: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI image & stock B-Roll | AI image B-Roll (50 clips/day) Stock B-Roll (Unlimited) |
+| **AI video B-Roll (powered by Agent Opus)** | ![Image 72: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI Voice-over | 20 per day |
+| Speech enhancement | 10 times/day |
+| Speech cleanup (pause & filler removal) | ![Image 73: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Speech cleanup (bad takes removal) | ![Image 74: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Eye contact correction | ![Image 75: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Transition effects | ![Image 76: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload media assets | ![Image 77: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Add music | ![Image 78: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Add text overlay | ![Image 79: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI video upscaling | ![Image 80: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **Video dubbing** | ![Image 81: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **AI sound effects** | ![Image 82: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 83: Customization & branding icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ededcb8efc9bfe7f2a73_Customization%20%26%20branding%20icon.svg) Customization & branding |
+| Brand template | Up to 4 templates |
+| Intro/outro cards | ![Image 84: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | Up to 2 fonts |
+| Brand vocabulary | ![Image 85: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom media & asset library | ![Image 86: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **Rename clips and projects** | ![Image 87: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 88: Export & publish icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ef2971bbbc9666c3bd6c_Export%20%26%20publish%20icon.svg) Export & publish |
+| Watermark-free video export | ![Image 89: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export as MP4 | No limit, highest resolution available |
+| Export in bulk | ![Image 90: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export to Adobe Premiere Pro & DaVinci Resolve | ![Image 91: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Shareable links to projects | ![Image 92: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Post to social media |  |
+| Social media scheduler |  |
+| Post to multiple profiles per social platform | ![Image 93: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Clip title & description & hashtag generator | ![Image 94: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| 4K schedule and download | - |
+| ![Image 95: Team collaboration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4f6d942c9f076663a5b29_Team%20collaboration%20icon.svg) Team collaboration |
+| Team workspace | ![Image 96: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Member seats | 2 users / pack, up to 4 users |
+| Media storage | 100GB fixed storage |
+| Auto-save projects | ![Image 97: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Collections | ![Image 98: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Sub-teams | - |
+| Member permissions | - |
+| ![Image 99: Analytics icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4fea2b919a344371297e5_Analytics%20icon.svg) Analytics |
+| Clip Analytics |  |
+| Real-time trend analysis | - |
+| ![Image 100: Security icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ff7cc8d792b04f864358_Security%20icon.svg) Security |
+| Email OTP login | ![Image 101: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Single-Sign On (SSO) | - |
+| Software License Management (SLM) | - |
+| SOC II Type 2 compliant | ![Image 102: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 103: Support icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a5002a49b6e80c912f9351_Support%20icon.svg) Support |
+| MSA | - |
+| Customer support | Intercom live chat Discord AI chat |
+| Custom onboarding | - |
+| Invoice and ACH Payment | - |
+| ![Image 104: API & integration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a501156a44f957444274ab_API%20%26%20integration%20icon.svg) API & integration |
+| Video Editing API | ![Image 105: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Scheduler API | ![Image 106: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **MCP connector** | ![Image 107: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| CMS integration | - |
+| Zapier integration | ![Image 108: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) up to 300 credits/mo |
+
+| ![Image 109](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4a90ddf2b3529471ccef4_sparkles%20icon.svg) AI clipping |
+| --- |
+| Processing speed | Dedicated enterprise queue; Fastest processing with more powerful servers |
+| Video import sources | Local video (Up to 30GB per video) and Public mp4 url |
+| Auto video import | Verified YouTube account, CMS, or other cloud servers |
+| AI clipping |  |
+| AI copilot | Select clipping timeframe Select clip length Topics search Prompt to clip |
+| Reprompt clipping to finetune the results | ![Image 110: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom clip length | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m |
+| Virality score | ![Image 111: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Storage | Customized |
+| Auto hook | ![Image 112: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 113: AI captions icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df224696171dd4347adf_AI%20captions%20icon.svg) AI captions |
+| Animated caption templates | ![Image 114: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Multi-language transcription | ![Image 115: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | ![Image 116: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Speaker-based caption colors |  |
+| Auto censor curse words | ![Image 117: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) Custom censored words list |
+| Auto emoji and keyword highlights | ![Image 118: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 119: AI reframe icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df22e6f97177db87e9d2_AI%20reframe%20icon.svg) AI reframe |
+| Various aspect ratios | 9:16, 1:1, 16:9 |
+| Moving object tracking | ![Image 120: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Genre-specific reframing model | ![Image 121: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Dynamic layout switch | ![Image 122: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Screenshare/gameplay layout | ![Image 123: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom reframing | ![Image 124: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 125: AI video editing icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4eb6dc298b404e6452859_AI%20video%20editing%20icon.svg) AI video editing |
+| Text & timeline-based editing | ![Image 126: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI image & stock B-Roll | AI image B-Roll (50 clips/day) Stock B-Roll (Unlimited) |
+| **AI video B-Roll (powered by Agent Opus)** | ![Image 127: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI Voice-over | 20 per day |
+| Speech enhancement | 10 times/day |
+| Speech cleanup (pause & filler removal) | ![Image 128: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Speech cleanup (bad takes removal) | ![Image 129: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Eye contact correction | ![Image 130: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Transition effects | ![Image 131: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload media assets | ![Image 132: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Add music | ![Image 133: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Add text overlay | ![Image 134: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI video upscaling | ![Image 135: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **Video dubbing** | ![Image 136: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **AI sound effects** | ![Image 137: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 138: Customization & branding icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ededcb8efc9bfe7f2a73_Customization%20%26%20branding%20icon.svg) Customization & branding |
+| Brand template | Custom solution |
+| Intro/outro cards | ![Image 139: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | ![Image 140: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Brand vocabulary | ![Image 141: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom media & asset library | Unlimited |
+| **Rename clips and projects** | ![Image 142: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 143: Export & publish icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ef2971bbbc9666c3bd6c_Export%20%26%20publish%20icon.svg) Export & publish |
+| Watermark-free video export | ![Image 144: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export as MP4 | No limit, highest resolution available |
+| Export in bulk | ![Image 145: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export to Adobe Premiere Pro & DaVinci Resolve | ![Image 146: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Shareable links to projects | ![Image 147: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Post to social media |  |
+| Social media scheduler |  |
+| Post to multiple profiles per social platform | ![Image 148: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Clip title & description & hashtag generator | ![Image 149: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| 4K schedule and download | ![Image 150: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 151: Team collaboration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4f6d942c9f076663a5b29_Team%20collaboration%20icon.svg) Team collaboration |
+| Team workspace | ![Image 152: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Member seats | Unlimited |
+| Media storage | Unlimited |
+| Auto-save projects | ![Image 153: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Collections | ![Image 154: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Sub-teams | ![Image 155: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Member permissions |  |
+| ![Image 156: Analytics icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4fea2b919a344371297e5_Analytics%20icon.svg) Analytics |
+| Clip Analytics | ![Image 157: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Real-time trend analysis | ![Image 158: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 159: Security icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ff7cc8d792b04f864358_Security%20icon.svg) Security |
+| Email OTP login | ![Image 160: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Single-Sign On (SSO) | ![Image 161: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Software License Management (SLM) | ![Image 162: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| SOC II Type 2 compliant | ![Image 163: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 164: Support icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a5002a49b6e80c912f9351_Support%20icon.svg) Support |
+| MSA | ![Image 165: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Customer support | Priority customer support with dedicated slack channel; Intercom live chat; AI chat |
+| Custom onboarding | ![Image 166: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Invoice and ACH Payment | ![Image 167: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 168: API & integration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a501156a44f957444274ab_API%20%26%20integration%20icon.svg) API & integration |
+| Video Editing API | ![Image 169: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Scheduler API | ![Image 170: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **MCP connector** | ![Image 171: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| CMS integration | ![Image 172: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Zapier integration | ![Image 173: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+
+|  | [Create an account](https://clip.opus.pro/dashboard) | [Start free trial](https://clip.opus.pro/subscription?plan=Starter) | [Start free trial](https://clip.opus.pro/subscription?plan=Pro) | [Contact us](https://www.opus.pro/contact) |
+| --- | --- | --- | --- | --- |
+| ![Image 174](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4a90ddf2b3529471ccef4_sparkles%20icon.svg) AI clipping |
+| Processing speed | Regular speed | Faster than Free and Trial | Faster than Starter | Dedicated enterprise queue; Fastest processing with more powerful servers |
+| Video import sources | Local video (Up to 10GB per video) | Local video (Up to 10GB per video) | Local video (Up to 30GB per video) and Public mp4 url | Local video (Up to 30GB per video) and Public mp4 url |
+| Auto video import | - | From verified YouTube account | From verified YouTube account | Verified YouTube account, CMS, or other cloud servers |
+| AI clipping |  |  |  |  |
+| AI copilot | Select clipping timeframe Select clip length | Select clipping timeframe Select clip length | Select clipping timeframe Select clip length Topics search Prompt to clip | Select clipping timeframe Select clip length Topics search Prompt to clip |
+| Reprompt clipping to finetune the results | - | ![Image 175: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 176: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 177: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom clip length | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m | 0-1m, 1-3m, 3-5m, 5-10m, 10-15m |
+| Virality score | - | ![Image 178: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 179: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 180: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Storage | - | - | 100GB fixed storage | Customized |
+| Auto hook | ![Image 181: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 182: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 183: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 184: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 185: AI captions icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df224696171dd4347adf_AI%20captions%20icon.svg) AI captions |
+| Animated caption templates | ![Image 186: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) With watermark | ![Image 187: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 188: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 189: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Multi-language transcription | ![Image 190: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 191: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 192: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 193: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | - | - | ![Image 194: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) Up to 2 fonts | ![Image 195: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Speaker-based caption colors | - | - | - |  |
+| Auto censor curse words | - | - | ![Image 196: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) Default censored words list | ![Image 197: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) Custom censored words list |
+| Auto emoji and keyword highlights | ![Image 198: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 199: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 200: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 201: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 202: AI reframe icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4df22e6f97177db87e9d2_AI%20reframe%20icon.svg) AI reframe |
+| Various aspect ratios | 9:16 | 9:16 | 9:16, 1:1, 16:9 | 9:16, 1:1, 16:9 |
+| Moving object tracking | - | - | ![Image 203: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 204: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Genre-specific reframing model | - | ![Image 205: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 206: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 207: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Dynamic layout switch | ![Image 208: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 209: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 210: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 211: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Screenshare/gameplay layout | ![Image 212: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 213: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 214: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 215: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom reframing | - | ![Image 216: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 217: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 218: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 219: AI video editing icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4eb6dc298b404e6452859_AI%20video%20editing%20icon.svg) AI video editing |
+| Text & timeline-based editing | - | ![Image 220: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 221: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 222: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI image & stock B-Roll | - | AI image B-Roll (3 clips/​month) Stock B-Roll (3 clips/month) | AI image B-Roll (50 clips/day) Stock B-Roll (unlimited) | AI image B-Roll (50 clips/day) Stock B-Roll (unlimited) |
+| **AI video B-Roll (powered by Agent Opus)** | - | - | ![Image 223: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 224: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI Voice-over | - | 20 per day | 20 per day | 20 per day |
+| Speech enhancement | - | - | 10 times/day | 10 times/day |
+| Speech cleanup (pause & filler removal) | - | ![Image 225: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 226: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 227: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Speech cleanup (bad takes removal) | - | - | ![Image 228: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 229: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Eye contact correction | - | - | ![Image 230: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 231: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Transition effects | - | - | ![Image 232: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 233: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload media assets | - | - | ![Image 234: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 235: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Add music | - | - | ![Image 236: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 237: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Add text overlay | - | ![Image 238: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 239: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 240: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| AI video upscaling | - | ![Image 241: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 242: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 243: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Video dubbing | - | - | ![Image 244: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 245: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| **AI sound effects** | - | - | ![Image 246: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 247: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 248: Customization & branding icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ededcb8efc9bfe7f2a73_Customization%20%26%20branding%20icon.svg) Customization & branding |
+| Brand template | 1 template | 1 template | Up to 4 templates | Custom solution |
+| Intro/outro cards | - | - | ![Image 249: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 250: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Upload custom font | - | - | Up to 2 fonts | ![Image 251: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Brand vocabulary | - | - | ![Image 252: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 253: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Custom media & asset library | - | - | ![Image 254: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | Unlimited |
+| **Rename clips and projects** | - | - | ![Image 255: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 256: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 257: Export & publish icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ef2971bbbc9666c3bd6c_Export%20%26%20publish%20icon.svg) Export & publish |
+| Watermark-free video export | - | ![Image 258: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 259: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 260: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export as MP4 | 3-day limit; Up to 1080p rendered clips | 30-day limit; highest resolution available | No limit, highest resolution available | No limit, highest resolution available |
+| Export in bulk | - | - | ![Image 261: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 262: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Export to Adobe Premiere Pro & DaVinci Resolve | - | - | ![Image 263: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 264: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Share projects with external collaborators | ![Image 265: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 266: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 267: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 268: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Post to social media | - |  |  |  |
+| Social media scheduler | - | - |  |  |
+| Post to multiple profiles per social platform | - | - | ![Image 269: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 270: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Clip title & description & hashtag generator | - | ![Image 271: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 272: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 273: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| 4K schedule and download | - | - | - | ![Image 274: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 275: Team collaboration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4f6d942c9f076663a5b29_Team%20collaboration%20icon.svg) Team collaboration |
+| Team workspace | - | - | ![Image 276: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 277: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Member seats | - | - | 2 users / pack, up to 4 users | Unlimited |
+| Media storage | Expires after 3 days | Expires after 29 days | 100GB fixed storage | Unlimited |
+| Auto-save projects | - | - | ![Image 278: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 279: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Collections | - | - | ![Image 280: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 281: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Sub-teams | - | - | - | ![Image 282: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Member permissions | - | - | - |  |
+| ![Image 283: Analytics icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4fea2b919a344371297e5_Analytics%20icon.svg) Analytics |
+| Clip analytics | - | - |  | ![Image 284: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Real-time trend analysis | - | - | - | ![Image 285: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 286: Security icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4ff7cc8d792b04f864358_Security%20icon.svg) Security |
+| Email OTP login | ![Image 287: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 288: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 289: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 290: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Single-Sign On (SSO) | - | - | - | ![Image 291: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Software License Management (SLM) | - | - | - | ![Image 292: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| SOC II Type 2 compliant | ![Image 293: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 294: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 295: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 296: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 297: Support icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a5002a49b6e80c912f9351_Support%20icon.svg) Support |
+| MSA | - | - | - | ![Image 298: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Customer support | Discord AI chat | Discord AI chat | Intercom live chat Discord AI chat | Priority customer support with dedicated slack channel; Intercom live chat; AI chat |
+| Custom onboarding | - | - | - | ![Image 299: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Invoice and ACH Payment | - | - | - | ![Image 300: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| ![Image 301: API & integration icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a501156a44f957444274ab_API%20%26%20integration%20icon.svg) API & integration |
+| Video editing API | - | - | ![Image 302: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 303: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Scheduler API | - | - | ![Image 304: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 305: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| MCP connector | - | - | ![Image 306: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) | ![Image 307: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| CMS integration | - | - | - | ![Image 308: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+| Zapier integration | - | - | ![Image 309: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) up to 300 credits/mo | ![Image 310: Check icon](https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/67a4d9efd4f9a409075b386e_check%20icon.svg) |
+
+## Many creators gained 1 million views from a single video in just days
+
+4 days
+
+TikTok small creator
+
+6 days
+
+TikTok creator
+
+6 days
+
+Media
+
+9 days
+
+YouTube small creator
+
+11 days
+
+YouTube vlogger
+
+11 days
+
+Podcaster
+
+4 days
+
+TikTok small creator
+
+6 days
+
+TikTok creator
+
+6 days
+
+Media
+
+9 days
+
+YouTube small creator
+
+11 days
+
+YouTube vlogger
+
+11 days
+
+Podcaster
+
+4 days
+
+TikTok small creator
+
+6 days
+
+TikTok creator
+
+6 days
+
+Media
+
+9 days
+
+YouTube small creator
+
+11 days
+
+YouTube vlogger
+
+11 days
+
+Podcaster
+
+4 days
+
+TikTok small creator
+
+6 days
+
+TikTok creator
+
+6 days
+
+Media
+
+9 days
+
+YouTube small creator
+
+11 days
+
+YouTube vlogger
+
+11 days
+
+Podcaster
+
+4 days
+
+TikTok small creator
+
+6 days
+
+TikTok creator
+
+6 days
+
+Media
+
+9 days
+
+YouTube small creator
+
+11 days
+
+YouTube vlogger
+
+11 days
+
+Podcaster
+
+## Post one clip every day for free

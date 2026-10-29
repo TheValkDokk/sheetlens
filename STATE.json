@@ -1,0 +1,13 @@
+{
+  "runbook": "startup-mvp-build",
+  "mode": "NEXUS-Sprint",
+  "phase": 1,
+  "gate": "G0",
+  "g0_decision": {
+    "selected": "inherited-workbook audit (SheetLens)",
+    "killed": ["spreadsheet compare (tabledi occupies it)", "formula explainer (commodity)"],
+    "confidence": 0.55,
+    "falsifiers": 3
+  },
+  "phase_status": { "0-discovery": "complete", "1-spec": "in_progress", "2-architecture": "pending", "3-build-qa": "pending", "4-launch": "pending", "5-growth": "pending" }
+}

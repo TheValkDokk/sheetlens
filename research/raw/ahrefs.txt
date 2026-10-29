@@ -1,0 +1,530 @@
+SOURCE: https://ahrefs.com/pricing
+
+Title: Plans & Pricing - Ahrefs
+
+URL Source: https://ahrefs.com/pricing
+
+Markdown Content:
+From first projects to enterprise scale, Ahrefs’ plans help your business stay discoverable in search, AI, and beyond—powered by the world’s second-most active crawler and 10+ years of [web-scale data](https://ahrefs.com/big-data).
+
+Pay annually, save up to 17%
+
+5 non-verified, unlimited verified projects
+
+6 months of historical data
+
+750 tracked keywords
+
+150 checks on AI prompts
+
+100,000 crawl credits
+
+API and MCP access
+
+1,000 credits per user
+
+1 user included
+
+Add 2 more users at $40/mo each
+
+20 non-verified, unlimited verified projects
+
+2 years of historical data
+
+2,000 tracked keywords
+
+300 checks on AI prompts
+
+500,000 crawl credits
+
+API and MCP access
+
+Unlimited credits per user
+
+1 user included
+
+Add 5 more users at $60/mo each
+
+50 non-verified, unlimited verified projects
+
+5 years of historical data
+
+5,000 tracked keywords
+
+600 checks on AI prompts
+
+1,500,000 crawl credits
+
+API and MCP access
+
+Unlimited credits per user
+
+1 user included
+
+Add 10 more users at $80/mo each
+
+What's included
+
+Dashboard
+
+Site Explorer
+
+Keywords Explorer
+
+Brand Radar
+
+Tracked AI prompts
+
+Site Audit
+
+Always-on audit
+
+Rank Tracker
+
+Competitive Analysis
+
+SERP history
+
+Page Inspect
+
+Web Analytics
+
+API access
+
+MCP Server
+
+Report Builder
+
+Social Media Manager Beta
+
+GBP Monitor Beta
+
+All Lite features, plus:
+
+Portfolios
+
+Content Explorer
+
+Batch Analysis
+
+SERP comparison
+
+Brand Radar
+
+Web visibility
+
+More in Site Explorer
+
+Site structure
+
+Broken backlinks
+
+Broken links
+
+Outgoing links
+
+Calendar view
+
+Linking authors
+
+More in Keywords Explorer
+
+AI suggestions
+
+Keyword clusters
+
+Search intents
+
+Translations
+
+SERP updates
+
+More in Google Search Console
+
+Site structure
+
+All Standard features, plus:
+
+Looker Studio integration
+
+Search type distribution
+
+Agency directory listing
+
+More in Site Explorer
+
+Segmentation Soon
+
+More in Site Audit
+
+HTTP authentication
+
+![Image 1: blue gradient color image](https://ahrefs.com/assets/esbuild/blue-gradient-IOB543HZ.png)![Image 2: orange gradient color image](https://ahrefs.com/assets/esbuild/orange-gradient-QWONXUKL.png)
+
+### Enterprise
+
+Scale with advanced customization, automation, and controls – backed by the data and infrastructure trusted by Fortune 500 teams. Talk to us for tailored solutions that ensure visibility where it matters most.
+
+$
+
+1,499 /mo
+
+Annual commitment required
+
+Why upgrade?
+
+All Advanced features, plus:
+
+Uncapped API access
+
+Custom API endpoints
+
+SSO & enterprise-grade security
+
+Access management & audit log
+
+Unlimited historical data
+
+Personalized higher limits & data exports
+
+Forecasting & trends
+
+No training on your data
+
+### Starter
+
+See what people search and spy on competitors.
+
+[Learn more↗](https://ahrefs.com/blog/starter-plan/)
+
+![Image 3](https://ahrefs.com/assets/esbuild/sparkles-E3NXE2GO.svg)
+
+### Ahrefs Free
+
+Get Ahrefs data on your site and fix what matters.
+
+[Learn more↗](https://ahrefs.com/free)
+
+![Image 4](https://ahrefs.com/assets/esbuild/rocket-65AJBJPY.svg)
+
+### Brand Radar AI
+
+Research any brand across 516 million+ organic prompts from Ahrefs database and track your own AI prompts.
+
+* * *
+
+### Custom prompt packages
+
+Need to track your own prompts only? Subscribe to a package. Tracking one prompt on one platform in one location uses 1 check. Overage is billed at the end of the billing month.
+
+Basic
+
+E.g. 80 prompts daily on 1 platform
+
+$50/mo
+
++2,500 checks/mo
+
+Overage $0.020/check billed monthly
+
+[Get started](https://ahrefs.com/signup?plan=awt-2024&addon=brand-radar&custom-prompts=basic)
+
+Growth
+
+E.g. 100 prompts daily on 2 platforms
+
+$100/mo
+
++7,000 checks/mo
+
+Overage $0.015/check billed monthly
+
+[Get started](https://ahrefs.com/signup?plan=awt-2024&addon=brand-radar&custom-prompts=growth)
+
+Scale
+
+High volume, lowest per-check rate
+
+$250/mo
+
++25,000 checks/mo
+
+Overage $0.010/check billed monthly
+
+[Get started](https://ahrefs.com/signup?plan=awt-2024&addon=brand-radar&custom-prompts=scale)
+
+## Optional add-ons
+
+Designed to take your plan further with deeper data, advanced AI, and added control.
+
+### Content Kit
+
+Align your content with search intent, uncover and apply competitor insights to your advantage, and get clear guidance to refine your writing.
+
+AI Content Helper
+
+AI Content Grader
+
+AI Content Inventory
+Soon
+
+From $99/mo
+
+### Report Builder
+
+Bring all your data together to make smarter marketing decisions, drive growth, measure impact, and prove the value of your work.
+
+50 reports
+
+500 total widgets
+
+Scheduling
+
+$99/mo
+
+### Project Boost Pro
+
+Supercharge your projects with advanced capabilities.
+
+Auto-submit to IndexNow
+
+Ask AI in Site Audit
+
+Always-on site audit, 10 pages per minute
+
+Instant recrawl
+
+AI detection in Site Audit, 1,000 URLs per crawl
+
+$20/mo per project
+
+### Project Boost Max
+
+Take your projects even further with extra advanced features.
+
+Patches
+
+Auto-submit to IndexNow
+
+Batch AI in Site Audit
+
+AI detection in Site Audit, unlimited URLs
+
+Always-on site audit, 30 pages per minute
+
+$200/mo per project
+
+## Compare plans & features
+
+Users and usage
+
+Included users
+
+1 1 1 From 3
+
+Additional users
+
+Up to 2 Up to 5 Up to 10 Unlimited
+
+Cost for additional users
+
+$40/mo per user$60/mo per user$80/mo per user$100/mo per user
+
+Credits per user /mo
+
+1,000
+
+Unlimited
+
+Unlimited
+
+Unlimited
+
+* * *
+
+Projects
+
+Verified ownership
+
+Unlimited Unlimited Unlimited Unlimited
+
+Unverified ownership
+
+5 20 50 100
+
+Competitors per project
+
+20 20 20 100
+
+* * *
+
+Portfolios
+
+Target URLs
+
+100 250 1,000
+
+* * *
+
+Historical data
+
+Performance trends
+
+Point-in-time comparison
+
+6 months 2 years 5 years Unlimited
+
+In-depth analysis
+
+6 months 2 years 5 years Unlimited
+
+* * *
+
+Data
+
+Max rows per report
+
+2,500 30,000 75,000 150,000
+
+Export rows /mo
+
+500,000 1.5M 4M From 10M
+
+* * *
+
+Rank Tracker
+
+Tracked keywords
+
+750 2,000 5,000 From 10,000
+
+Update frequency
+
+Weekly Weekly Weekly Weekly
+
+* * *
+
+Site Audit
+
+Crawl credits /mo
+
+100,000 500,000 1.5M From 5M
+
+Max pages per project
+
+25,000 50,000 250,000 5M
+
+* * *
+
+Brand Radar: Tracked AI prompts
+
+Checks /mo
+
+150 300 600 From 2,500
+
+Platforms
+
+Update frequency
+
+Prompts
+
+5 10 20 From 83
+
+* * *
+
+Keywords Explorer
+
+Keyword lists
+
+50 100 200 500
+
+* * *
+
+Batch Analysis
+
+Target URLs per report
+
+200 500 1,000
+
+* * *
+
+API & Integrations
+
+Direct API access
+
+Max rows per request
+
+100 250 500 Unlimited
+
+MCP Server
+
+Max rows per request
+
+100 250 500 Unlimited
+
+Ahrefs Connect
+
+API integration units /mo
+
+200,000 800,000 2M 4M, Custom
+
+* * *
+
+Report Builder
+
+Reports
+
+5 5 15 25
+
+Total widgets
+
+30 30 150 250
+
+Scheduling
+
+* * *
+
+Social Media Manager Unlimited while in beta
+
+Connect social channels
+
+Publish / Schedule posts
+
+## Questions? We have answers
+
+*   Do you offer discounts or free trials?
+
+We never run discounts. But if you're a website owner, you can sign up for [Ahrefs Free](https://ahrefs.com/free) to get free limited access to Site Explorer & Site Audit.  
+*   What payment methods do you offer?
+
+We accept Visa, Mastercard, American Express and UnionPay. For Enterprise plans, we also support wire transfers on request.  
+*   Are there any automatic charges?
+
+Yes. If not prepaid for, additional users are automatically charged on a pay-as-you-go basis. Also, if you enable additional pay-as-you-go credits and data, you’ll be automatically charged when consumption exceeds your plan’s limits.  
+*   Are there any contracts or setup fees?
+
+There are no contracts or setup fees. You can switch your plan or cancel your Ahrefs subscription at any time.  
+*   How can I switch my plan?
+
+Upgrade or downgrade your account anytime from your Account Settings. Upgrades take effect immediately, while downgrades and cancellations become effective at the end of your current billing period.  
+*   Can I purchase only one tool?
+
+Yes, Brand Radar is available as a standalone tool. When you purchase it, you’ll also receive an Ahrefs Free account.  
+
+*   How can I cancel my plan?
+
+Cancel your plan anytime from your Account Settings. When you cancel, you’ll still be able to use your plan until the end of your subscription period. After your paid subscription ends, you’ll be switched to a free [Ahrefs Free](https://ahrefs.com/free) plan with free limited access to Site Explorer & Site Audit.  
+
+*   How do you charge for additional data and credits?
+
+Once you enable additional pay-as-you-go credits and data, you’ll be automatically charged when consumption exceeds your plan’s limits. If you’re on an annual plan, you can choose to prepay at a discounted rate.  
+*   Is unused additional data carried over to the next month?
+
+Yes. PAYG purchases such as report credits, export rows, crawl credits, and API units, last for three billing months, including the current one. For example, if the usage reset date is set to the 20th October and you’ve purchased PAYG credits on the 15th October, they will expire on the 20th December. Please note though that pre-paid limits are always used first.  
+*   What is your refund policy?
+
+Ahrefs does not issue refunds in general. For monthly subscriptions, you can request for a refund if you haven't used the service, but we may decline your request if we see any material activity in your account.  
+
+#### Have other questions?
+
+If you have more questions, [contact us](https://help.ahrefs.com/) so we can help.
