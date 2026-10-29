@@ -19,6 +19,8 @@ p.on("pageerror", (e) => errors.push("pageerror: " + e.message));
 p.on("requestfailed", (r) => errors.push("reqfail: " + r.url()));
 
 async function upload(file) {
+  const reset = await p.$('[data-action="reset"]');
+  if (reset) { await reset.click(); }
   const inp = await p.waitForSelector("#file");
   await inp.uploadFile(file);
   await p.waitForFunction(() => !document.querySelector('[role="status"]'), { timeout: 60000 }).catch(() => {});

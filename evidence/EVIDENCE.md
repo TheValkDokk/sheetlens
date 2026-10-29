@@ -71,7 +71,9 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 
 | 56 | 2026-10-29T07:49:21.031Z | G3 | Caveat fires on the demo and on a qualified `SUM(Data!A:A)` file, and stays silent on a clean workbook (no false positive) | `node scripts/verify-caveat.mjs` against the live URL | demo: 3 refs warned; `with-colref.xlsx`: 1 ref warned; `clean-norefs.xlsx`: no notice; 0 console errors | PASS |
 | 57 | 2026-10-29T07:49:21.031Z | G5 | Search engines have crawled the site | Bing/Google `site:` query | **not indexed yet** — days-old subdomain with no inbound links; sitemap + IndexNow are in place | PENDING |
-| 58 | 2026-10-29T07:49:21.031Z | — | Checker rounds 4 and 5 delivered | agent output | round 4 delivered one real defect (fixed); **round 5 stalled at a placeholder and never verified** — recorded as not delivered, not as a pass | INCOMPLETE |
+| 58 | 2026-10-29T07:49:21.031Z | — | Checker round 4 delivered | agent output | delivered one real defect (qualified whole-column caveat) — fixed and re-verified | PASS |
+| 59 | 2026-10-29T07:50:22.933Z | G3 | **Independent round-5 verification of the live build** | checker agent, 4 targeted items, 7 screenshots in evidence/checker5 | **4/4 PASS**: caveat conditional (demo warns, clean file silent); axe 0/6 surfaces and Tab reaches "Choose a file" with visible focus; MS Financial Sample.xlsx uploads cleanly; regressions hold (`model!b4` → dependents, `Nope!B4` → explicit error, fake PK text refused without a "password" claim) | PASS |
+| 60 | 2026-10-29T07:50:22.933Z | — | Round 5 reported no new defects | checker output | "New: none" | PASS |
 
 ## Round 2 note: what "growth" can and cannot be automated
 

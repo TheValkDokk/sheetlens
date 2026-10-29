@@ -1,0 +1,45 @@
+{
+  "demoNotices": [
+    "Not every reference can be traced in this workbook: 3 formula(s) use whole-column references such as A:A. Impact tracing cannot follow those."
+  ],
+  "demoStats": "Sheets4Formulas27High risk9Worth a look3",
+  "cleanNotices": [],
+  "cleanStats": "Sheets1Formulas3High risk0Worth a look0",
+  "traceModelB4": "Cell to testTraceDirect — formulas that read model!B4 right nowcalc!A1model!B4+1Sheet 'model' cell B4 plus 1.Downstream — formulas that change because those changedNone.",
+  "traceNopeB4": "Cell to testTraceNo sheet named \"Nope\". This workbook has: model, calc.",
+  "fakePkError": "Could not read that fileThat file is not a valid .xlsx workbook — the zip archive is incomplete or corrupt. Re-export it from Excel or Sheets and try again.",
+  "fakePkPasswordMentioned": false,
+  "msErr": null,
+  "msStats": "Sheets1Formulas0High risk0Worth a look0",
+  "msNotice": [],
+  "msFormulasTab": "No formulas in this workbookEvery cell is a value. That is either a clean export or a hardcoded model — worth confirming which.",
+  "msConsoleErrors": [],
+  "keyboardSeq": [
+    {
+      "tag": "A",
+      "text": "Skip to content",
+      "label": "",
+      "outline": "1px auto rgb(153, 200, 255)",
+      "shadow": "none",
+      "offset": 0
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Choose a file",
+      "label": "",
+      "outline": "2px solid rgb(79, 209, 165)",
+      "shadow": "none",
+      "offset": 303.78125
+    }
+  ],
+  "chooseReachable": true,
+  "chooseFocusStyle": {
+    "tag": "BUTTON",
+    "text": "Choose a file",
+    "label": "",
+    "outline": "2px solid rgb(79, 209, 165)",
+    "shadow": "none",
+    "offset": 303.78125
+  },
+  "keyboardErrors": []
+}
