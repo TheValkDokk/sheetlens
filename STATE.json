@@ -1,13 +1,44 @@
 {
   "runbook": "startup-mvp-build",
   "mode": "NEXUS-Sprint",
-  "phase": 1,
-  "gate": "G0",
-  "g0_decision": {
-    "selected": "inherited-workbook audit (SheetLens)",
-    "killed": ["spreadsheet compare (tabledi occupies it)", "formula explainer (commodity)"],
-    "confidence": 0.55,
-    "falsifiers": 3
+  "phase": 4,
+  "gate": "G4",
+  "g0": {
+    "selected": "SheetLens — inherited-workbook audit",
+    "killed": [
+      "spreadsheet compare (tabledi occupies it)",
+      "formula explainer (commodity)"
+    ],
+    "confidence": 0.55
   },
-  "phase_status": { "0-discovery": "complete", "1-spec": "in_progress", "2-architecture": "pending", "3-build-qa": "pending", "4-launch": "pending", "5-growth": "pending" }
+  "g1": {
+    "requirements": 9,
+    "tasks": 8,
+    "status": "PASS"
+  },
+  "g2": {
+    "architecture": "ADR-1..5",
+    "build": "455 kB js / 6.5 kB css",
+    "status": "PASS"
+  },
+  "g3": {
+    "unit": "25/25",
+    "browser": "20/20",
+    "console_errors": 0,
+    "defects_found": 3,
+    "defects_fixed": 3,
+    "status": "PASS"
+  },
+  "g4": {
+    "static_subpath_test": "PASS",
+    "publish": "awaiting human approval"
+  },
+  "g5": {
+    "artifacts": [
+      "project-docs/growth-plan.md",
+      "content/launch-copy.md"
+    ],
+    "status": "PLANNED"
+  },
+  "reality_checker": "in flight"
 }

@@ -77,7 +77,22 @@ A screenshot without a timestamped log is not evidence.
 
 ---
 
-## 5. Known constraints recorded at activation
+## 5. Run log (this execution)
+
+| Phase | Gate | Result | Evidence |
+|---|---|---|---|
+| 0 Discovery | G0 (human pick) | 3 candidates scored; A and B **killed** for competitive occupancy, **C selected** at 0.55 confidence | research/market-signal.md |
+| 1 Spec | G1 | R1–R9 + non-empty out-of-scope + 8 tasks | project-specs/sheetlens-setup.md, project-tasks/sheetlens-tasklist.md |
+| 2 Architecture | G2 | ADR-1..5, data model, failure table, design tokens; build runs | project-docs/architecture.md |
+| 3 Build ↔ QA | G3 | 25 unit tests, 20 browser checks, 3 defects found and fixed | evidence/EVIDENCE.md, evidence/logs/qa-run.json |
+| 4 Launch | G4 | subpath deployment verified; **awaiting human approval to publish** | evidence, this log |
+| 5 Growth | G5 | plan + launch copy written; measurement-limited by the privacy promise | project-docs/growth-plan.md, content/launch-copy.md |
+
+**Defects QA caught that a demo would have hidden:** formula cells with no cached value were invisible until
+`sheetStubs` was set; a non-workbook zip was silently accepted as a 1-cell spreadsheet; five duplicate findings
+buried the unique ones.
+
+## 6. Known constraints recorded at activation
 
 - **Deploy creds:** no Vercel / Netlify / Fly credentials present. `gh` is authenticated → GitHub Pages is the default public path. Docker daemon is down.
 - **Browser evidence:** no Playwright / agent-browser; `Google Chrome.app` present → headless `--screenshot` fallback.
