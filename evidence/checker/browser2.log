@@ -1,0 +1,113 @@
+{
+  "at": "2026-10-29T07:14:38.743Z",
+  "cases": {
+    "refusal": {
+      "protected-lookalike.xlsx": {
+        "outcome": "error",
+        "ms": 16,
+        "text": "Could not read that file\nThat is a legacy .xls file. Open it in Excel and save as .xlsx, then try again."
+      },
+      "empty.bin": {
+        "outcome": "error",
+        "ms": 6,
+        "text": "Could not read that file\nThat file is not a spreadsheet. SheetLens reads .xlsx and .csv — this looks like a different format."
+      },
+      "fakezip.xlsx": {
+        "outcome": "results",
+        "ms": 31,
+        "stats": [
+          "Sheets1",
+          "Formulas0",
+          "High risk0",
+          "Worth a look0"
+        ]
+      },
+      "corrupt.xlsx": {
+        "outcome": "error",
+        "ms": 12,
+        "text": "Could not read that file\nThis file is password-protected. Remove the password and try again."
+      }
+    },
+    "bench20k": {
+      "outcome": "results",
+      "ms": 3269,
+      "stats": [
+        "Sheets1",
+        "Formulas10,000",
+        "High risk0",
+        "Worth a look0"
+      ],
+      "longtasks": [
+        3256
+      ],
+      "busyMarkersAfter": {
+        "ariaBusy": 0,
+        "busyClass": 0
+      }
+    },
+    "export": {
+      "file": "Q3_Pricing_Model-audit.html",
+      "bytes": 4424,
+      "findingRows": 11,
+      "uiGroupedFindings": 7,
+      "externalHttp": 0,
+      "scriptTags": 0,
+      "offlineText": "Workbook audit\n\nQ3_Pricing_Model.xlsx · generated 2026-10-29 07:14:48 UTC · by SheetLens (local, offline)\n\n4 sheets · 108 cells · 27 formulas · 8 high-risk find",
+      "offlineTableRows": 17,
+      "hasAll": [
+        [
+          "hardcoded",
+          true
+        ],
+        [
+          "Very hidden",
+          true
+        ],
+        [
+          "deleted range",
+          true
+        ]
+      ]
+    },
+    "mobile": {
+      "demoOverflowByTab": {
+        "risks": 0,
+        "overview": 39,
+        "formulas": 0,
+        "impact": 0
+      },
+      "longFileUpload": {
+        "outcome": "results",
+        "ms": 14,
+        "stats": [
+          "Sheets4",
+          "Formulas27",
+          "High risk8",
+          "Worth a look3"
+        ]
+      },
+      "longFileName": {
+        "overflow": 967,
+        "nameLen": 190
+      },
+      "longOverviewOverflow": 967
+    },
+    "big10mb": {
+      "outcome": "results",
+      "ms": 308,
+      "stats": [
+        "Sheets1",
+        "Formulas0",
+        "High risk0",
+        "Worth a look0"
+      ],
+      "bytes": 9498943,
+      "longtasks": [
+        290
+      ],
+      "warning": null
+    }
+  },
+  "consoleErrors": [],
+  "pageErrors": []
+}

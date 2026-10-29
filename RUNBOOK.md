@@ -81,12 +81,20 @@ A screenshot without a timestamped log is not evidence.
 
 | Phase | Gate | Result | Evidence |
 |---|---|---|---|
-| 0 Discovery | G0 (human pick) | 3 candidates scored; A and B **killed** for competitive occupancy, **C selected** at 0.55 confidence | research/market-signal.md |
+| 0 Discovery | G0 (human pick) | 3 candidates scored; A and B **killed** for competitive occupancy, **C selected** at 0.55 confidence | research/phase0-decision.md |
+| — | post-hoc | Both discovery agents returned **after** the build shipped and criticised the space independently | recorded below, not retro-fitted | research/market-signal.md (6 candidates), research/competitive-landscape.md (14 products) |
 | 1 Spec | G1 | R1–R9 + non-empty out-of-scope + 8 tasks | project-specs/sheetlens-setup.md, project-tasks/sheetlens-tasklist.md |
 | 2 Architecture | G2 | ADR-1..5, data model, failure table, design tokens; build runs | project-docs/architecture.md |
 | 3 Build ↔ QA | G3 | 25 unit tests, 20 browser checks, 3 defects found and fixed | evidence/EVIDENCE.md, evidence/logs/qa-run.json |
 | 4 Launch | G4 | subpath deployment verified; **awaiting human approval to publish** | evidence, this log |
 | 5 Growth | G5 | plan + launch copy written; measurement-limited by the privacy promise | project-docs/growth-plan.md, content/launch-copy.md |
+
+**Late research, reported as it happened.** The two discovery agents I dispatched at Phase 0 took over 50 minutes
+and delivered *after* G4. Their independent conclusion that plain spreadsheet diff is occupied by
+[tabledi](https://tabledi.com/tools/compare-excel-files/) corroborates the G0 kill. Their preferred wedges —
+DMARC record decoding and PDF/UA accessibility pre-flight — are better-defended ground than the one that shipped,
+and are unbuilt. The honest summary: **G0 was decided on the orchestrator's own in-session evidence, not on the
+team's research.** If this runbook is repeated, discovery must block the build, not race it.
 
 **Defects QA caught that a demo would have hidden:** formula cells with no cached value were invisible until
 `sheetStubs` was set; a non-workbook zip was silently accepted as a 1-cell spreadsheet; five duplicate findings

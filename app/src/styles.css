@@ -86,8 +86,8 @@ html, body {
 
 /* ---------- summary ---------- */
 .results { margin-top: 28px; }
-.fileline { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; }
-.filename { font-weight: 600; }
+.fileline { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; }
+.filename { font-weight: 600; min-width: 0; overflow-wrap: anywhere; flex: 1 1 auto; }
 .filename span { color: var(--muted); font-weight: 400; }
 
 .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }

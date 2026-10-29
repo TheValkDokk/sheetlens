@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { parseArrayBuffer } from "../src/core/parse";
-import { scanRisks } from "../src/core/risks";
-import { cleanWorkbook, dirtyWorkbook } from "./fixtures";
+import { hardcodedConstants, scanRisks } from "../src/core/risks";
+import { cleanWorkbook, dirtyWorkbook, makeWorkbook } from "./fixtures";
 
 describe("scanRisks", () => {
   const wb = parseArrayBuffer(dirtyWorkbook(), "dirty.xlsx");
@@ -39,6 +39,22 @@ describe("scanRisks", () => {
     const clean = parseArrayBuffer(cleanWorkbook(), "clean.xlsx");
     const cleanFindings = scanRisks(clean);
     expect(cleanFindings.filter((f) => f.severity === "high")).toEqual([]);
+  });
+
+  it("does not flag a unit-conversion multiplier as an assumption", () => {
+    expect(hardcodedConstants("A1*2")).toEqual([2]);
+    const wb2 = parseArrayBuffer(
+      makeWorkbook({ S: { A1: { v: 3 }, B1: { f: "A1*2", v: 6 }, C1: { f: "A1*1E5", v: 300000 } } }),
+      "scale.xlsx"
+    );
+    expect(scanRisks(wb2).filter((f) => f.rule === "hardcoded-constant")).toEqual([]);
+  });
+
+  it("still flags an indexation multiplier above 1", () => {
+    const wb2 = parseArrayBuffer(makeWorkbook({ S: { A1: { v: 3 }, B1: { f: "A1*1.08", v: 3.24 } } }), "idx.xlsx");
+    const hits = scanRisks(wb2).filter((f) => f.rule === "hardcoded-constant");
+    expect(hits).toHaveLength(1);
+    expect(hits[0].severity).toBe("medium");
   });
 
   it("sorts high before medium", () => {

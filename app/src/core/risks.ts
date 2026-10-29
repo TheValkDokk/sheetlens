@@ -43,8 +43,13 @@ export function scanRisks(wb: WorkbookModel): Finding[] {
     const clipped = raw.length > 220 ? raw.slice(0, 220) + "…" : raw;
 
     // Rule 1 — hardcoded assumption inside arithmetic
+    // A bare integer >= 1 (x2, x100, x1E5) is usually a unit conversion, not an
+    // assumption. Flagging those buries the real ones, so the rule only fires on
+    // rate-shaped values (0 < v < 1) and non-integer indexation factors (1.08).
     for (const value of hardcodedConstants(raw)) {
       const isRate = value > 0 && value < 1;
+      const isIndexation = !Number.isInteger(value) && value > 1 && value < 1000;
+      if (!isRate && !isIndexation) continue;
       push({
         rule: "hardcoded-constant",
         severity: isRate ? "high" : "medium",
@@ -55,8 +60,8 @@ export function scanRisks(wb: WorkbookModel): Finding[] {
           "The literal " +
           value +
           " is used in " +
-          (isRate ? "a rate-style" : "a") +
-          " calculation. If the assumption changes, this cell will not. A named input cell is safer.",
+          (isRate ? "a rate-style calculation" : "an indexation-style multiplier") +
+          ". If the assumption changes, this cell will not. A named input cell is safer.",
         evidence: clipped,
       });
     }

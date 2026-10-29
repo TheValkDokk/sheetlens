@@ -2,3 +2,5 @@ node_modules/
 .npmcache/
 dist/
 .DS_Store
+evidence/checker/node_modules
+evidence/checker/browser

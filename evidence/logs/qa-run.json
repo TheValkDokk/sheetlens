@@ -1,11 +1,11 @@
 {
-  "base": "https://thevalkdokk.github.io/sheetlens",
-  "at": "2026-10-29T07:11:43.431Z",
+  "base": "http://localhost:4173",
+  "at": "2026-10-29T07:15:41.567Z",
   "timings": {
-    "coldLoadMs": 1484,
-    "demoParseMs": 70
+    "coldLoadMs": 1019,
+    "demoParseMs": 68
   },
-  "passed": 20,
+  "passed": 21,
   "failed": 0,
   "checks": [
     {
@@ -92,6 +92,11 @@
       "name": "no external requests while analysing",
       "pass": true,
       "detail": "none"
+    },
+    {
+      "name": "long filename does not overflow",
+      "pass": true,
+      "detail": "0px"
     },
     {
       "name": "no horizontal overflow at 380px",

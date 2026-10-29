@@ -157,6 +157,14 @@ try {
   const external = reqs.filter((u) => !u.startsWith(BASE) && !u.startsWith("blob:") && !u.startsWith("data:"));
   check("no external requests while analysing", external.length === 0, external.join(", ") || "none");
 
+  // ---- 9b. a pathological filename must not blow out the layout (found by Reality Checker probe)
+  await page.evaluate(() => {
+    const el = document.querySelector(".filename");
+    if (el) el.textContent = "x".repeat(190) + ".xlsx";
+  });
+  const fnOverflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+  check("long filename does not overflow", fnOverflow <= 1, fnOverflow + "px");
+
   // ---- 10. mobile layout (R8)
   const m = await browser.newPage();
   await m.setViewport({ width: 380, height: 844, deviceScaleFactor: 2, isMobile: true });
