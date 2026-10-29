@@ -10,8 +10,6 @@
     "confidence": 0.55
   },
   "g1": {
-    "requirements": 9,
-    "tasks": 8,
     "status": "PASS"
   },
   "g2": {
@@ -27,20 +25,22 @@
   "g4": {
     "live": true,
     "live_qa": "26/26",
-    "ci": "green",
+    "ci_jobs": "build + deploy + indexnow all green",
     "status": "PASS"
   },
   "g5": {
     "shipped": [
-      "4 crawlable guides",
-      "sitemap.xml",
-      "robots.txt",
-      "repo topics + homepage",
-      "launch copy",
-      "growth plan"
+      "4 guides",
+      "sitemap",
+      "robots",
+      "IndexNow (202 Accepted)",
+      "issue feedback",
+      "report attribution",
+      "posting runbook"
     ],
     "acquired_users": 0,
+    "blocker": "posting requires an identity the session has no credentials for",
     "status": "IN PROGRESS"
   },
-  "reality_checker": "round 2 delivered NEEDS WORK with a correct R4 FAIL; defect fixed and verified"
+  "reality_checker": "round 2 delivered a correct R4 FAIL; fixed and verified"
 }

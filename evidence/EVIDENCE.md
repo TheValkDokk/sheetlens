@@ -44,6 +44,19 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 | 33 | 2026-10-29T07:21:32.652Z | G5 | Repo is discoverable and points at the product | `gh api PATCH` + topics | homepage set; topics: audit, browser-only, excel, finance, privacy, sheetjs, spreadsheet, typescript | PASS |
 | 34 | 2026-10-29T07:21:32.652Z | G5 | **Real users acquired** | — | **0 verified.** Live URL + indexable guides exist; no human has been reached yet. This is the open objective. | FAIL |
 
+| 35 | 2026-10-29T07:26:15.502Z | G5 | IndexNow key file served from the deployed origin | `curl .../8f3d2a7c4b9e1f6058d4c2a9e7b3f105.txt` | 200, body is the key | PASS |
+| 36 | 2026-10-29T07:26:15.502Z | G5 | Search engines notified automatically on every deploy | CI job "indexnow" (run 40835087870) | `submitted 5 urls -> 202 Accepted` | PASS |
+| 37 | 2026-10-29T07:26:15.502Z | G5 | A real human feedback channel exists | live bundle grep | "Open an issue" present, links to repo issues | PASS |
+| 38 | 2026-10-29T07:26:15.502Z | G5 | Exported reports carry attribution (the only organic referral surface) | live bundle + generated report | "local-only workbook auditor" present in both | PASS |
+| 39 | 2026-10-29T07:26:15.502Z | G5 | **Real users acquired** | — | **still 0.** Infrastructure now exists (indexable guides, sitemap, IndexNow, issue channel, referral line); no human has been reached. Requires a post from an account the agent does not have. | FAIL |
+
+## Round 2 note: what "growth" can and cannot be automated
+
+Indexing, sitemaps, crawlable content, referral attribution and a feedback channel are all automatable and now exist.
+Reaching an actual person is not: it needs a post from an identity (Reddit/HN/LinkedIn) that this session has no
+credentials for. `content/posting-runbook.md` reduces that to a 5-minute copy-paste. Until then the honest number
+in this ledger stays zero.
+
 ## Defects found by QA (and what happened to them)
 
 | Defect | Found by | Fix | Verified |
