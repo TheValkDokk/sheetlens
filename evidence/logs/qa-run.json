@@ -1,9 +1,9 @@
 {
   "base": "http://localhost:4173",
-  "at": "2026-10-29T07:23:03.838Z",
+  "at": "2026-10-29T07:24:28.086Z",
   "timings": {
-    "coldLoadMs": 1008,
-    "demoParseMs": 39
+    "coldLoadMs": 1010,
+    "demoParseMs": 45
   },
   "passed": 26,
   "failed": 0,
