@@ -333,7 +333,9 @@ function shell(): string {
     body +
     (state.wb ? "" : guides()) +
     '<footer class="footer">SheetLens reads .xlsx and .csv locally. No upload, no tracking, no third-party requests. ' +
-    "Findings are heuristics with evidence attached — they tell you where to look, not what to conclude.</footer>" +
+    "Findings are heuristics with evidence attached — they tell you where to look, not what to conclude.<br />" +
+    'Found a workbook it reads wrong, or a rule you want? <a href="https://github.com/TheValkDokk/sheetlens/issues" ' +
+    'style="color: var(--accent)">Open an issue</a> — a real person reads them.</footer>' +
     "</div>"
   );
 }
