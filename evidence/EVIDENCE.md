@@ -61,6 +61,14 @@ Self-reports are not evidence. Every row below is reproducible with the stated c
 
 | 48 | 2026-10-29T07:33:58.138Z | G4 | Loop-back fixes verified on the public URL | `BASE=https://thevalkdokk.github.io/sheetlens node scripts/qa.mjs` | 28 checks, 28 passed, CI green | PASS |
 
+| 49 | 2026-10-29T07:48:22.610Z | G3 loop 4 | Reality Checker round 4: 4/6 fixed; **caveat detector missed sheet-qualified whole-column ranges** (`Rates!A:C` — the exact shape the demo uses) | its repro: `SUM(Data!A:A)` | demo showed no caveat notice | FAIL on first pass |
+| 50 | 2026-10-29T07:48:22.610Z | G3 loop 4 | Fixed: delimiter class includes `!`; caveats now render in the summary on every tab, not only Impact | 2 new tests + live notice | live demo: "3 formula(s) use whole-column references such as A:A" | PASS |
+| 51 | 2026-10-29T07:48:22.610Z | G3 | **Real-world workbook, not a fixture**: Microsoft's published Financial Sample.xlsx (11,216 cells, 701x16) | headless upload to the public URL | 63 ms to results, 0 formulas, honest empty states, 0 console errors, screenshots in evidence/realworld | PASS |
+| 52 | 2026-10-29T07:48:22.610Z | G3 | axe-core found 3 moderate structural violations on the app (no `main` landmark, no `h1`, unlandmarked content) and 2 per guide (missing skip target, region) | `node scripts/a11y.mjs` | reproduced on all six surfaces | FAIL on first pass |
+| 53 | 2026-10-29T07:48:22.610Z | G3 | Fixed: header/main landmarks, a real h1, skip link targets `#main`, guides wrapped | re-audit | **0 violations on all 6 surfaces** | PASS |
+| 54 | 2026-10-29T07:48:22.610Z | G4 | All of the above verified on the public URL | live QA + live a11y | QA 28/28; a11y 0/6 surfaces; caveat notice live | PASS |
+| 55 | 2026-10-29T07:48:22.610Z | G5 | **Real users** | GitHub issues / stars / forks | 0 issues, 0 stars, 0 forks — no human has arrived or reported | FAIL |
+
 ## Round 2 note: what "growth" can and cannot be automated
 
 Indexing, sitemaps, crawlable content, referral attribution and a feedback channel are all automatable and now exist.

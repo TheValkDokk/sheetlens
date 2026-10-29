@@ -16,18 +16,20 @@
     "status": "PASS"
   },
   "g3": {
-    "unit": "44/44",
+    "unit": "45/45",
     "browser": "28/28",
+    "a11y": "0 violations on 6 surfaces",
     "typecheck": "clean",
-    "defects_found": 12,
-    "defects_fixed": 12,
-    "loop_backs": 2,
-    "note": "Every defect was found by an adversarial check, not by the demo"
+    "defects_found": 15,
+    "defects_fixed": 15,
+    "loop_backs": 3,
+    "real_world_test": "Microsoft Financial Sample.xlsx — 11,216 cells, 63 ms, no errors"
   },
   "g4": {
     "live": true,
     "live_qa": "28/28",
-    "ci_jobs": "build + deploy + indexnow green",
+    "live_a11y": "0 violations",
+    "ci": "build + deploy + indexnow green",
     "status": "PASS"
   },
   "g5": {
@@ -38,11 +40,16 @@
       "IndexNow 202",
       "issue feedback",
       "report attribution",
-      "OG preview card",
+      "OG card",
       "posting runbook"
     ],
+    "signals": {
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "issues": 0
+    },
     "acquired_users": 0,
-    "handoff": "user elected to post using content/posting-runbook.md"
+    "handoff": "user elected to post via content/posting-runbook.md — not yet observable"
   },
-  "reality_checker": "round 3 verdict NEEDS WORK (R5/R8/R9 FAIL) — all six findings fixed and re-verified live"
+  "reality_checker": "round 4 NEEDS WORK (4/6 fixed) — final caveat defect fixed; verification round 5 pending"
 }
